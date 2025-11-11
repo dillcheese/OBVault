@@ -1,5 +1,5 @@
 ---
-lastSync: Wed Oct 01 2025 12:53:56 GMT-0400 (Eastern Daylight Saving Time)
+lastSync: Mon Nov 10 2025 21:38:25 GMT-0500 (Eastern Standard Time)
 tags:
   - books
   - indigo
@@ -7,7 +7,7 @@ tags:
 ## STC
 
 
-- [ ] The Misewa saga by David   
+- [ ] The Misewa saga by David 
 - [ ] With love miss Americanah by Jane  
 - [x] Can't spell treason without tea by Rebecca  
 - [x] The north wind by Alexandria  
@@ -129,6 +129,31 @@ tags:
 - [ ] Learn my lesson by Katee #fantasy 
 - [ ] Serial killer games by Kate #civvie 
 - [ ] accomplice to the villian by Kate #fantasy 
+- [ ] silver cloak by lk steven #fantasy 
+- [ ] a mastery of monsters by liselle #fantasy 
+- [ ] Julie chang is dead by liann #civvie 
+- [ ] the things Gods break by Abigail #fantasy 
+- [ ] the demon and the light by axie #fantasy 
+- [ ] wolf.e by paisley #modern #fantasy 
+- [ ] house of Rayne by Harley #fantasy 
+- [ ] empire of the dawn by Jay #fantasy 
+- [ ] the everlasting by Alix #fantasy 
+- [ ] war games by Alan #hist 
+- [ ] cold wire by Chloe #scifi 
+- [ ] a crane among wolves by June #fantasy 
+- [ ] Thorn season by Kiera #fantasy 
+- [ ] the night blood Prince by Molly #fantasy 
+- [ ] project hail Mary by Ryland #scifi 
+- [ ] King of scars by Leigh #fantasy 
+- [ ] The navigators children by tad #fantasy 
+- [ ] Queen demon by Martha #fantasy 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] 
 
 
