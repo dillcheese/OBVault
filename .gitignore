@@ -1,0 +1,6 @@
+# Ignore all hidden folders (dot-prefixed)
+.*/
+
+# But still track .gitignore and .github
+!.gitignore
+!.github/
