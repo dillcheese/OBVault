@@ -1,8 +1,8 @@
 ---
-lastSync: Tue Nov 11 2025 00:49:18 GMT-0500 (Eastern Standard Time)
+lastSync: Tue Nov 11 2025 11:52:05 GMT-0500 (Eastern Standard Time)
 ---
 
-## Base Build
+# Base Build
 **(Trump) As the Plot Demands**
 Cost: 25 SP
 Whenever you need or want it, you will spontaneously develop a Skill or Power at a level that, alone, would need a bit of effort in order to solve what you needed it for. Skills are capped at their possible limit while Powers are capped at 15 SP. Always remember that alone those Powers/Skills can only deal with your situation if you put effort into it. You need to defeat someone wielding a Gun? You can now take a couple shots, so better make it count in order to strike them down. Need to hit a moving target? Increased Marksmanship that just needs you to be completely focused in order to be 100% accurate. Those Powers/Skills are somewhat temporary but can stack with each other for greater effects. Essentially, there's three ways you can lose a Skill/Power: you solved what you gained them for, resulting in a 60% chance to lose them; you exited a conflict, with a 30% chance for each Skill/Power related to the situation; and finally, every 24 hours each of the Skills/Powers you gained have a 30% chance to disappear.
@@ -480,8 +480,6 @@ Whether you are reborn as a clone, uploaded into a machine, pieced together by h
 This ensures that any rebirth, reconstruction, or transference is a continuation rather than a replacement. There is no paradox, no dilution, no splintering of identity unless you wish it so. Even when others attempt to bring you back with imperfect methods, whether crude science or questionable sorcery, what they create will resonate with your essence and become a true vessel, ready to be filled wholly by you. In short: however many times you fall, however many ways you are brought back, you will always remain yourself.
 
 
-
-
 ### UPGRADES: 
 **The Author didn't Forget** 
 Cost: 10 SP 
@@ -634,7 +632,7 @@ This does not give you powers by itself, nor does it let you suddenly do things 
  ![[screencapture-cyoa-ltouroumov-ch-viewer-export-html-2025-11-10-22_19_46.png]]
 
 
-## Powers/Power Components
+# Powers/Power Components
 
 
 
@@ -642,7 +640,485 @@ This does not give you powers by itself, nor does it let you suddenly do things 
 
 
 
+# Trump Powers (Empowers Other Powers)
 
+
+**(Brute/Trump) Life Taker**
+Cost: 6 SP 
+You steal the remaining natural lifespan of anything you kill, increasing your own lifespan. This can work on non-human races however when killing anything functionally immortal or with extremely long lifespans the effects are weakened, only giving you a maximum of 999 years with diminishing results. 
+You can boost any part of your body, be it your strength or your regeneration, at the cost of your lifespan. If you have others powers you can boost that too. You have an instinctive knowledge on how long your lifespan is.
+
+**(Brute/Trump) No Pain, No Gain** 
+Cost: 6 SP 
+The more injured you are, the more powerful you become. You become stronger, faster, more durable, and react faster. This applies to your powers as well. You also possess a mild Brute power that keeps you standing even after your bones are broken. If you are on your last-minute stand, you could find yourself contesting an Endbringer in physical might with just an ordinary person's strength.
+_Pain not Wasted_ 
+Required:(Brute) Biological Redistribution 
+When your heart is destroyed, you become insanely strong, but that strength disappears when it's healed. Not anymore, not while your still in the fight. When you obtain your boosts from your injuries, it won't disappear outright if they are healed, instead sticking with you throughout the the whole fight. 
+
+**(Brute/Trump) Fame** 
+Cost: 6 SP 
+Your strength, durability, and overall physical power increase in direct proportion to the number of people who admire and feel loyal to you. This connection doesn’t need to be personal; widespread admiration from strangers, fans, or followers can empower you just as well as the devotion of close allies. 
+When people express their admiration openly in your presence—through cheering, chanting, declarations of loyalty, or even acts of service or protection—the effect surges, providing a temporary boost in power. The surge lasts as long as the visible or vocal support continues. 
+The effect favors quantity over quality. While one person’s complete devotion may be powerful, even overwhelming, two people with half that intensity will strengthen you more. A room full of people with modest admiration will outmatch a single die-hard follower. True power comes from building a wide base of support—being loved, admired, or idolized by the many rather than the few. The effect is strongest when admiration takes the form of cult-like devotion or parasocial obsession.
+If you possess other powers, this admiration-fueled strength enhances them as well.
+
+**(Brute/Trump) Fa Jin** 
+Cost: 8 SP
+You are now able to build up kinetic energy in your body through repetitive motions. This kinetic energy will give a red glow that brightens as more kinetic energy is stored. The kinetic energy can also be stored for later use. When you use this kinetic energy, you can choose to strengthen your body, increase your speed, or make yourself stronger, but it all depends on how much energy you’ve built up. There is, however, a limit on the amount of energy that you can output, as you cannot output more energy than would come out of a ballistic missile. 
+You can also, if you have other powers, use your stored-up energy to boost them proportional to how much energy you have stored.
+
+**(Brute/Trump) Power in Numbers**
+Cost: 9 SP 
+Your strength, durability, and abilities, as well as those of your allies, grow as the size of your group increases, though the effects are relatively modest in smaller numbers. With fewer than ten allies, the enhancement is barely noticeable, offering only minor boosts. The power becomes significant when the group grows to the hundreds, peaking in potency at around 500 individuals. At this point, each member’s abilities are amplified to nearly 20 times their original strength. Beyond this, the effects taper off, with diminishing returns, making additional members provide increasingly smaller contributions to the overall boost. 
+This amplifies both physical capabilities and powers, scaling dynamically with the group’s composition. A fighter becomes faster and stronger, a healer more efficient, and powers gain increased range and intensity. 
+The boost relies on both proximity and cohesion among group members, as each individual under its influence acts as a relay, extending the range of the effect. This creates a network where the amplification can spread across greater distances, provided the members remain within range of one another. However, the power offers no inherent coordination or unifying influence, leaving the group’s effectiveness entirely dependent on their ability to work together. If members become disorganized, scattered, or fail to align their efforts, the amplification weakens substantially, diminishing its overall potency and causing individuals to revert closer to their original strength.
+
+
+**(Brute/Trump) Stockpile**
+Cost: 10 SP
+You naturally generate and store a unique form of energy over time. When you are resting or not engaging in physically strenuous activities, your energy generation rate increases. This stored energy can be used to strengthen your physical capabilities or amplify any other powers you possess. The energy reserves have no strict limit, allowing you to accumulate energy endlessly. However, as your stockpile grows larger, the rate at which you generate energy decreases, creating a soft limit on how much energy you can accumulate at any given moment.
+At the peak of this soft limit, unleashing all of your stored energy grants you immense power, placing you just below the level of an Endbringer for a few minutes before your reserves are entirely depleted. Reaching this soft limit takes a minimum of one week under optimal conditions.
+*Growing Stockpile*
+Required: Power Stockpile
+Your rate of energy generation now never lessens. It even increases the longer you don’t use any energy, with the rate of generation resetting once you do.
+
+**(Brute/Trump) Zenkai Boost**
+Cost: 10 SP
+You can now grow stronger after recovering from an injury. This boost not only enhances your physical abilities but also amplifies the strength of all your other powers.
+Minor injuries, such as small cuts or bruises, provide only a slight increase in power—typically just a few percentage points. More serious injuries, like broken bones or nonlethal traumatic wounds, can significantly boost your power by 50% to 75%. However, critical injuries, such as gunshot wounds, severe blood loss, or the loss of a limb, offer the most dramatic increase, multiplying your power by 3 to 5 times.
+You also possess a moderate healing factor that ensures you recover to perfect health over time, helping you survive these injuries.
+This healing factor allows broken bones to heal within a couple of weeks and missing limbs to regrow in a month or two. However, be warned: fatal injuries, such as decapitation or being stabbed through the heart, will still kill you. So, don’t fight recklessly your healing factor is not on the same level as Wolverine or Deadpool, at least not yet.
+
+**(Trump/Brute) Madness**
+Cost: 4 SP
+At the cost of your logical thinking/planning, you gain a major boost to your physical capabilities and powers. Additionally, you gain a boost to your instincts, capable of “feeling” the most suitable development for oneself during combat. You become immune to short term precognition and analysis based thinker powers.
+*Madman's Rampage*
+Required:(Brute) Rampage
+Incompatible: (Thinker) Clean Mind
+When you gain your enhancement from Madness, your rage is also ignited, reaching what it was at its peak. Your rage now also makes your other powers stronger in the same way it enhances your physical abilities. Your instincts for combat are heightened even further, and thinker powers in general struggle to get a full grasp on you.
+
+**(Trump) Loyal Companion**
+Cost: 5 SP
+You can select one person to be your Master. While this doesn't force you to follow their commands, you get stronger when you do so. This must come directly from them and recordings don't work. You can swap whoever is your Master whenever you want.
+
+## (Trump/Brute) Twice Critical
+**(Trump/Brute) Twice Critical**
+Cost: 5 SP
+You can temporarily double the strength of your body’s capabilities and your powers, you can also transfer this boost to another person. As a downside every exertion of stamina is twice as exhausting. How long the boosts last is tied to your stamina. When the boost is transferred to someone else you are still the one who pays the stamina cost for their actions while boosted.
+[[#TRUMP UPGRADES/FUSION]]
+
+**(Trump) Desperation**
+Cost: 6 SP
+When you're under extreme stress, exhaustion, or overwork, your powers magnify in strength, effectiveness, and overall control. It responds to your state of mind, gaining a considerable boost when you're not in the most ideal conditions. This boost grows if you have recently been or currently in the middle of combat.
+*Plus Ultra*
+Required:(Trump) Limit Break
+When pushed to your limit, when you have exhausted all your tricks, when you have no strength in your limbs anymore, when faced with something far beyond you, you will feel an unexpected trickle of power. You can never falter or fall down. You will always have just a bit more strength and be able to push on just a bit more. Your powers will grow slowly; the worse the situation you are in, the greater they grow. While its growth in raw power is minimal, its growth in versatility is tremendous. Most of its growth will be aimed at assisting you in your current situation, prioritizing now without much consideration for the future.
+*Push Beyond*
+Required:(Trump) Limit Break
+Required: I Hope It Haunts You
+No longer do you only gain strength by standing by death’s doors; as you take the final step and are embraced by death, you will receive a boon.
+
+Your body, once you have perished, will continue to stand, its powers strengthened to their peak. Much like any Master power you have, your body will act to avenge your death, becoming a ferocious beast puppeteering your remains. It will carry out any plan you may have before your death, but know that no matter what it does, it is not you. It is, at best, a shadow of what once was. If you had a regeneration-based power, you will be able to be revived after a while.
+
+## (Trump) Ramp
+**(Trump) Ramp**
+Cost: 6 SP
+The longer you use your powers, the more they ramp up. This could mean being physically stronger, firing projectiles faster, or even having a farther range. It ramps by 1.01 times its current power every second, to a max of 5 minutes for about 20 times it original power. If you stop using your powers for longer than 5 seconds then the ramp resets. This does not apply to passive powers.
+[[#u]]
+
+**(Trump) Active Combat**
+Cost: 6 SP
+By being in active combat, your abilities become stronger. The greater your involvement—whether by leading or facing strong opponents—the more your powers are boosted. This boost is dependent on what you are doing in combat, if you are directly fighting then you would get more raw power or sub powers to boost your main one. If you are leading or commanding others then the boosts will be more focused on versatility and support effects. This boost is removed once you leave combat. The boost can, at best, triple your power’s capabilities or strength, with this requiring you to be at the centre of the conflict.
+
+## (Trump) Warcry
+**(Trump) Warcry**
+Cost: 7 SP
+By explaining your current action, you get much stronger. Your powers will express themselves in a more controllable and powerful manner. The longer the chant more accurately defines it, the greater it expresses itself.
+[[#TRUMP UPGRADES/FUSION]]
+
+**(Trump) Limit Break**
+Cost: 7 SP
+It is possible to amplify your powers by pushing it past their limits, making them more potent and effective. However, doing so comes with significant consequences. As you continue to push your powers to greater heights, you will experience increased physical strain and pain. This could result in permanent damage to your body, making it more difficult to maintain and control your abilities. The increase in power is temporary, and it is recommended to not regularly use this power as the strain can kill you.
+
+
+**(Trump) Growth Booster**
+Cost: 8 SP
+You may give either yourself or someone else an enhanced growth rate for one of their powers. The boosted power grows at a rate of 1 SP/week, up to a max of twice the original SP cost. It will grow based on the owner's actions and experiences, and will try to suit their needs similar to Dynamist Jr. Using the power on someone else requires both physical touch and consent. Each person can only have one growth booster at a time, and they may not have a power boosted if it has already been boosted to the limit. You may grant boosters to an unlimited amount of people, and can remove boosters at will.
+
+## (Trump) Bodycount
+**(Trump) Bodycount**
+Cost: 9 SP
+A counter exists in your mind, tracking the number of people you’ve killed. Every kill increases the counter by 1. For each increment of the counter, all your physical, mental, and other abilities increase by 1%. If the counter shows 2, your abilities are enhanced by 2%. If it reaches 10, you gain a 10% boost, and so on, with no upper limit to what you can achieve. Your power thrives on the destruction you sow, making every kill an investment in your own growth.
+[[#TRUMP UPGRADES/FUSION]]
+
+**(Trump) Quest**
+Cost: 9 SP
+You can give yourself quests, which function as self-imposed challenges. Completing these quests grants you rewards, usually in the form of growth, skill improvement, or improvements of any abilities you have. The difficulty of the quest determines the quality of the reward—trivial tasks provide little to no benefit, while significant challenges yield meaningful enhancements. You can have up to five active quests at a time, each with its own objective and potential reward.
+While you can create repeatable quests, the rewards scale accordingly. Repeating simple actions, like taking steps, will offer minimal to no benefit, but sustained effort toward meaningful goals—such as practicing a skill for a set amount of time—will grant better rewards. The nature of the rewards aligns with the quest completed.
+You can abandon or replace quests at any time.
+
+**(Trump/Brute) Looks Matter**
+Cost: 15 SP
+Appearances matter, and your power takes this literally. The better you look the stronger you get, both your physical strength and the strength of your powers. This factors in both your physical appearance and the appearance of your clothing and powers, so a fancy and artistic spread of lasers would be more effective than simply drowning an opponent in firepower.
+Furthermore, the general theme of your appearance can also influence minor aspects of your powers or even grant minor powers of their own. This effect also scales with the appearance and quality of your outfit. For instance, a low quality wind or avian themed outfit might allow you to fall slower or make your Mover powers go faster, while an extremely high quality fire costume could grant decently powerful pyrokinesis.
+This pairs extremely well with Tinker powers, especially (Tinker) Style, as normal materials and crafting methods alone are not enough to reach the highest levels of this power.
+
+
+**(Trump) Gamer System**
+Cost: 20 SP
+Your Shard grants you access to a game-like system to manage your power(s). By default, you have access to a basic system which includes attributes and the ability to grow by gaining experience. You gain experience by completing quests or defeating enemies (does not need to involve killing them) and can increase your attributes by training. How the system works in details depends on the Shard, two people with this power can have systems that work differently.
+All other powers you select interface through this one and unlock their ability to grow. As you use them, your powers will grow in strength and will unlock new aspects.
+Your growth potential is not unlimited, however. Your Shard can only support a certain amount of total progression. This limit will be communicated to you.
+*Unlimited Power*
+Required: Negentropy, Negentropy, or Shardless
+You are no longer limited in growth, however powers become exponentially harder to grow the stronger they are.
+
+**(Trump/Thinker) Feast**
+Cost: 20 SP
+In your eyes, all Parahumans and power effects (including yourself) around you have an energy pool inside them; the stronger the powers, the more energy they contain. The longer you look at this energy, the more you know about the power, initially gaining one to two-word generalizations like "Awareness" or "Heat Generation". As you look more, you start to know things like "Always On" or "Needs Touch". Look long enough, and you will know everything about a power, including its weaknesses and applications. Seeing the power in action increases the speed at which you acquire knowledge about it.
+
+With a touch, you can drain that energy; it takes longer to totally drain the more energy there is; draining a power effect will weaken it until it ceases to exist, and draining a parahuman will undermine their power to the point it’s obsolete and they aren’t capable of using it. You can drain energy at range and affect multiple targets, but it's slower than using touch, becoming even slower with distance, and the more targets you are draining simultaneously. With time, a parahuman will regain their power; the longer it takes, the stronger the power is. You can also do the opposite, being able to transfer the energy you collected. The same rules for touch and range from draining apply to transference, which allows you to use your capacity to boost and create new aspects of powers that aren't yours.
+
+You can expend energy to temporarily boost part of a power. Like increasing range, decreasing the time necessary to do something, or giving a new aspect to it. ¼ of that boost becomes permanent; a power that temporarily gained 6 meters to its range now has permanently an additional 1.50 (or one and a half) meters to its range. If you temporarily gave (Trump) Eidolon an extra slot, you would permanently have it but only be able to slot powers that are ¼ the strength.
+
+Creating new aspects will cost more energy than boosting an existing one and will cost more the more it deviates from the theme and mechanics of the power, new aspects take more energy to boost compared to the base power. Giving your Water Manipulation the capacity to see the future by looking at water would take much less energy than giving your Earth Manipulation precognition while giving your Water Manipulation the capacity to control Ice would take even less energy.
+
+Any powers you enhance will start releasing electricity-like energy or a glow when they are used. This energy/glow happens either on the power itself or on the part of your body where it originates from. Sometimes both happen to either.
+This power is best used in bursts to conserve the stockpiled energy and because continuous use won't keep increasing the permanent boost. Powers affected by Feast cannot affect Feast.
+
+
+**(Brute/Trump) Anu**
+Cost: 25 SP
+Your power is a conceptual fusion of both Lung and Eidolon. That is to say, your power continually ramps up through raging conflict which grants you new temporary powers. Then again, it isn't to say you can surely exploit it with nothing as even outside of combat your baseline grants you a low-level Alexandria package comparable to Glory Girl’s alongside an additional low-level blaster power in similar potency to Lady Photon.
+
+As your power ramps up, your baseline continuously grows next to your invulnerability branching out from general durability and adaptively developing immunities to the parahuman effects you’re battling against or alongside, your Brute and Blaster powers will similarly gain an adaptive diversity to be more formidable against powers you are contending on the fight’s both sides for any eventuality, while your flight speed continuously increases, your mind simultaneously improving to perceive and function at your constantly dashing speed and growth rate.
+
+During this escalation, you’ll temporarily develop powers meant to aid you amidst your battles. Depending on the circumstance, these powers can fluctuate from solely meant for combat i.e. a striker power meant to disintegrate what you touch, to utility-based powers i.e. a Thinker power focusing on target location. The powers’ growth rate is naturally equivalent to your baseline powers, though developing new powers will delay your growth rate.
+
+Finally, you can affect your growth rate. Like Lung, you are capable of charging up in anticipation of a fight to accelerate your ramping up, yet, unlike Lung, you are fully capable of beginning to ramp up outside of battle, although it would be extremely slow on top of only capable of reaching a mid-level Brute and Blaster for your baseline. Additionally, this control over your growth rises in effectiveness in combat, being able to “steer” it in certain directions e.g. from focusing on escalating your invulnerability to directing it to develop a new power to assist you.
+
+*Escalating God*
+Required: (Trump) Queen of Escalation
+Your power's adaptations are now permanent, while still following the rules of your power and the need to ramp up into total immunity. At their base level, they make you resistant to those powers.
+Additionally, powers that you gain throughout ramping up now become permanent. Yet, your additional powers can be strongest when non-ramped up is equivalent to a high T1 power.
+
+
+**(Trump) Heart Is An Awesome Power**
+Cost: 20 SP
+You can modify/boost your powers through weird logic as long as it makes sense and you can justify it. The new effect is capped at half the SP of the power or 10 SP, whichever is higher. A power can only have one of those effects at a time, though you can freely change it to something else or discard the effect to return the power to normal.
+
+You could, for example, bypass the Manton Limit on your Water Manipulation power by thinking that you should logically be able to manipulate someone's blood because Water is Water, or you could reinterpret the capacity to manipulate Fire as the manipulation of Heat itself and thus be able to freeze stuff by removing their heat.
+*Troll Logic*
+Required:(Trump) Art of Symbolism
+Through your Shard’s understanding of human culture and ability to manifest effects based on it, you have jailbroken your hard limitation on how much a power can be boosted or modified. Now, so long as you can find some form of logic - no matter how complex or bizarre - to make it make sense in your head, you can have your powers act in any way you see fit. There is one caveat however; unless you take Esoteric Knowledge or Shardless you are still restricted to things Shards are capable of.
+
+**(Brute/Trump) Criminality**
+Cost: 20 SP
+Whenever you commit a crime or break a law your everything is enhanced. Skills, powers, body, and etc. The greater the crime the bigger the boost, with the severity and context diminishing or increasing said boost.
+As such, you could gleefully murder a innocent person and receive a 50% boost, or jaywalk and receive a 1% boost.
+The laws that are used are the ones from wherever you were born and the location you are in.
+
+**(Breaker/Trump) Golden Form**
+Cost: 30 SP
+You’ve gained the ability to change into a powerful breaker form, converting your body into semi-solid/liquid energy, with its initial form resembling you in a full-body cloak of golden flames. All your abilities are massively enhanced from your previous form. A normal human would be capable of overpowering Alexandria in strength and durability, sheer speed to run from one side of the planet to the other in a minute, and a reaction time to easily handle that kind of speed. This enhancement is extended to all your abilities, including other powers. The breaker form can be confined to a single part or individual parts of your body if you wish, and switching between your normal form and breaker form will instantly heal any injury.
+Alongside this is the ability to manipulate the energy your body is made from, allowing you to freely shape it into whatever you desire such as massive hands, a large animal form, or even weapons. The energy your body produces and is made from can be expelled as powerful blasts or used to imbue any other abilities you possess to further enhance them. You can channel any abilities you possess through your energy form as if they were your own body. You also possess a secondary ability allowing you unlimited multitasking in regards to your energy form.
+You cannot access any of the abilities from the form without using your Breaker form and can choose to change the colors of your breaker form at will. The transformation between forms is instantaneous.
+
+*Golden Dragon*
+Required:Dragon of Kyushu
+Your inner dragon shines with an immeasurable golden light.
+
+Your Golden Form’s energy mutates and enhances Dragon of Kyushu far more than it would normally.
+Due to the malleable nature of your Golden Form carrying over to your Draconic Power, you can now intentionally call up any mutation and alterations that you had previously undergone, able to freely shift your form from normal to the greatest heights you have ever reached and anywhere in between at will.
+Moreover by entering your Golden Form in of itself, alongside the normal enhancement you would typically have, you can now choose to consciously direct some or all of your enhancements and alterations, also able to freely shape the form as you normally would your energy form.
+You still gain 10% of each escalation to your base form as normal, but this now also includes the height of power you reach with Golden Form enhancing it.
+
+
+**(Trump) Jailbreak**
+Cost: 40 SP
+You’ve gained the ability to access and control the abilities of others and yourself in a broad but imprecise manner.
+This will allow you to remove restrictions, enhance abilities, alter them in broad strokes, and more. However this comes with inherent risks, one that must be carefully managed lest it kill it their wielder’s, and more importantly you.
+The power works through touch and line of sight.
+
+The power works through three major methods. Power Amplification, Aspect Infusion, and Category Expansion.
+
+<font color="#ffff00">Power Amplification</font> is the simplest method, through which you simply amplify the powers existing aspects. For example a telekinetic would be able to generate significantly more force and/or possess much more fine control.
+
+<font color="#ffff00">Category Expansion</font> allows you to add additional capabilities to the power expression directly, allowing it to manifest new features. For example by adding a Master component to a pyrokinetic power it could allow the user to create sentient fire constructs.
+
+<font color="#ffff00">Aspect Infusion</font> adds new aspects to the theme of a power, creating a new dimension to the overall power. For example by adding an aspect of weakening to a Trump focused on amplifying others, it could allow them to instead directly attack others by striping them of strength instead of enhancing them. This can also be used to remove specific limitations such as the Manton limit.
+
+These alterations can only be chosen in a broad manner, how many times it affects someone, how potent the effects are, and what categories and aspects are added, but the specifics on how these amplifications manifest are uncontrollable.
+Each modification carries inherent risks that escalate with proximity of each successive alterations. For Power Amplification, a quintupling of the power’s potency can be considered enough to hit the end requirements of the first phase, with the multiplier’s maximum to hit the next phase doubling for each additional phase.
+
+The first phase, the <font color="#ffff00">initial alteration</font>, will typically result in no alteration to the mechanics of the powers.
+
+For the second phase, <font color="#ffff00">Trigger Happy</font>, the power will start to activate on its own at times.
+This can lead to unforeseen and potentially disastrous consequences, there aren’t many things one can say to explain why while in their civilian identity their heat vision activated all of a sudden and eviscerated a swath of innocents.
+
+For the third phase, <font color="#ffff00">Instinct Erosion</font>, normally instinctive control over powers is lost.
+The user will need conscious effort to preform actions that were once reflexive. Brute powers that enhance your strength may have you accidentally ripping the arm off of someone you tried to shake the hand of, and powers that require a high degree of precision will be a nightmare to deal with.
+
+For the fourth phase, <font color="#ffff00">Protection Nullification</font>, inherent safeguards are stripped away,
+This greatly increases the risk of self harm or unintended consequences in the environment. This can result in your own powers burning you, cutting you, potentially backfiring in a permanently damaging if not lethal manner.
+
+For the fifth phase, <font color="#ffff00">Volatile Surge</font>, results in the powers becoming incredibly volatile, risking catastrophic failure and complete loss of control.
+One progresses through each phase for each successive alteration within three months of the previous one, and will drop to the previous phase if one manages to avoid further alterations within three months.
+
+Each phase also doubles the power’s potency without counting towards the phase’s alteration threshold, this increase in power is permanent.
+
+The fifth phase, Volatile Surge, is repeated for each subsequent alteration after the fifth if it falls within the three month period, becoming increasingly unstable and chaotic the more alterations there are.
+The effects of each phase, except for Volatile Surge, can be partially mitigated with rigorous and focused training, but only by managing to get to a lower phase or out of the phases can the drawbacks be completely eliminated.
+
+If one manages to drop to a lower phase or out of the phase entirely you can improve upon their power again. In the same manner, allowing you to continuously improve their abilities.
+Be warned however that shard powers can be burned out by this, as the shard will need to reveal more and more power to its host, and potentially burn an incredible amount of energy to create new features.
+This drawback is removed if you are Negentropic/Shardless, and will allow you to use your own energy source to make their improvements and/or share the secret to Negentropy with their power source if you wish.
+
+## TRUMP UPGRADES/FUSION 
+**Immortal Godly Demonic Jade Emperor Chant of the Seven Heavenly Providence Divine Samsara Buddha of 1000 Virtues and Sins™**
+Cost: 8 SP
+Required: [[#(Trump) Warcry]]
+*Darkness blacker than black and darker than dark,
+I beseech thee, combine with my deep crimson.
+The time of awakening cometh.
+Justice, fallen upon the infallible boundary,
+appear now as an intangible distortions!
+I desire for my torrent of power a destructive force:
+a destructive force without equal!
+Return all creation to cinders,
+and come frome the abyss!
+Explosion!*
+
+Through the use of chants and exaggerated gestures, you can dramatically enhance any ability or skill you possess. The longer and more exaggerated the chant and performance, the greater the boost. For example, if you're solving math problems, delivering a grand, over-the-top chant while striking dynamic poses will amplify your calculative abilities to an extraordinary level, allowing you to process complex equations with superhuman speed and precision. There is no limit to how strong it can get, just how long of a chant you can say and how much you can exaggerate your gestures.
+
+**AAAARRRRGGGHHH!!!**
+Cost: 3 SP
+Required:(Trump) Warcry
+You have unlocked your inner barbarian—your powers now surge with the sheer volume and passion of your shout. By roaring your intent, you amplify both control and strength, each word shaping the effect based on your action. A powerful yell like “Crush!” intensifies your physical force, while a fierce “Pierce!” hones precision and focus. The louder and more passionately you shout, the greater the boost, making your powers sharper, stronger, and more focused. Longer, more detailed warcries create complex effects, such as “Shield against all harm!” to reinforce your defenses. You can also get more basic, giving a raw, general increase simply by wordlessly screaming
+
+**Oh It’s Personal Now**
+Cost: 3 SP
+Required:[[#(Trump) Bodycount]] (9 SP)
+By delving into the lives of your targets, your counter’s gains grow exponentially. A normal kill still adds just 1 point to the counter, but if you take the time to learn about them—such as their name, where they lived, their daily habits, or who they loved—the points gained increases exponentially. The more knowledge you have, the greater the increase. Knowledge is literally power for you to reap, and the more intimate your understanding of a life extinguished, the stronger you become.
+
+**Multiplicative Growth**
+Cost: 6 SP
+Required:(Trump) Bodycount
+Instead of a flat increase, your power now grows multiplicatively with each kill. If a kill increases your counter by 1, your abilities increase by 1%, but each new increase compounds on top of the last. If you have the Worthy Prey upgrade, this effect also applies to the points gained per kill—meaning a kill that grants 100 points would double your current power.
+
+**Worthy Prey**
+Cost: 3 SP
+Required:(Trump) Bodycount
+Your counter no longer treats all lives as equal. A normal kill still grants just 1 point, but the stronger your victim, the greater the reward. Power, skill, and resilience all factor into the gain—those who stand above the average grant exponentially more. A veteran or a cape will each be worth more than a common bystander. The truly exceptional—those whose strength shapes the world around them—can yield dozens or even hundreds of points upon their demise. This scales based on what is considered “average” strength, so if on average everyone (including civilians) is a Brute 1 then killing a Brute 1 will still only give 1 Point
+
+
+**Fist of the King of Worlds**
+Cost: 5 SP
+Required:[[#(Trump/Brute) Twice Critical]] (5 SP)
+You can double your power, but that isn't your limit. At will, you can go even further. triple, quadruple... There's no telling how high you can go now.
+
+Although your strength, power, senses, etc. is multiplied as high as you want, each level gives an equal level of strain, your stamina drains even faster, and your body starts to tear itself apart. Your muscles start to rip, your bones creak, and your nerves are screaming.
+But it's not all bleak though. By training your body to become stronger, your body can tolerate higher and higher levels of this ability, but there is a slow, but undeniable level of diminishing returns.
+If you stay at just the first level though, you will only experience the normal level of stamina usage.
+
+
+**Dragon of Kyushu**
+Cost: 16 SP
+Required: (Brute) Lung, or Kenta (9 SP)
+You are a dragon that thrives on combat, your enemies shuddering at the thought of you and your power. You now escalate exponentially faster as you grow in strength, i.e. as you get stronger you grow in power faster and faster.
+
+Your Escalation now also affects all your other powers and your specific defenses, getting hit with poison will give you a poison resistance which will then begin to escalate with you, the power will also begin to very slowly lift your other powers' weaknesses, with this rate of improvement will be accelerated if those weaknesses are specifically targeted during combat.
+You permanently gain 10% of the power you had during the height of your most recent escalation after you return to your base state, this 10% is counted for each stat/power individually, this also means that every transformation/escalation will give you an increase in overall power no matter how small.
+
+You stay in your Escalated state for up to 2 hours with no conflict unless you willingly transform back. Your size will grow in equal measure with your power, however, once you reach a certain size, around the size of Lung when he fought Leviathan, you will be able to choose whether or not you continue to grow. The growth can also be evolved out or adapted to make you only grow when you want to (if that's something you wish to happen) while being a slow change like all other power enhancements.
+*New Age Dragon*
+Required:(Breaker/Blaster) Biological Dynamo
+After the decimation visited upon Japan by the atomic bombs the psychological scars carved upon their population began to shown in their art, their stories, most notably shown in the Godzilla.
+Your shard seems to have taken inspiration from it, your powerful draconic form while possessing its more traditional features has mutated and evolved, influenced by your Biological Dynamo power.
+By drawing upon your store of energy you can greatly enhance the speed at which you mutate, able to explosively enhance yourself and take a more direct hand as to what your mutations and enhancements are.
+Moreover even without drawing upon your energy stores, your form seems to draw in ambient energy to enhance itself, every blast of lightning, every strike, every searing conflagration intended to incinerate you seems to not only not find any proper purchase upon you, nor does it merely direct your enhancements but instead it seems to directly feed your power and bring you to new heights.
+
+
+**Boosted Gear**
+Cost: 8 SP
+Required:(Trump/Brute) Twice Critical (5 SP)
+Required:(Shaker) Amped Up
+Required:(Trump) Limit Break
+Required: Vital, Noble, or Shardless
+Twice Critical’s functionality has evolved through synergy with your abilities to amplify your surroundings and push past your limitations.
+
+You no longer have a hard limit on how many times you can double your strength, instead your limit is a soft-cap set by your baseline strength, the stronger you are as a baseline, the more boosts you can withstand. You can even go beyond your cap, although doing so causes strain on you which scales with how far past your limits you are. The stamina cost from boosting scales with how many times you’ve boosted. Transferring boosts to others still draws the stamina costs from you, however other beings have their own limits and going past those causes strain to them not you, so don’t give your allies more than they can handle.
+
+Your capability to transfer boosts has also grown. You can now double specific properties, even those of inanimate objects or phenomena. Double a sword’s sharpness, a shield’s durability, a fire’s heat, or a laser’s power. This is not subject to Amped Up’s limitation of one property per target and you can even spread out a boost across multiple attributes, although the end result is still capped at double the original state. Objects have their own limits based on their quality, however due to their nature they don’t incur much of a stamina cost. You can also spread out a boost across multiple targets to not overwhelm them.
+
+To give a sense of scale, using multiple boosts on a single property allows you to do things like turning a simple lighter into a conflagration capable of slagging metal and torching entire buildings. Be wary however, as continuous boosting can quickly drain your Shard’s reserves if the boosts get big enough, although Negentropy or Shardless render this a non-issue.
+*Juggernaut Drive*
+Required:(Brute) Lung
+Your baseline boost softcap scales greater than before, and as your draconic transformation reaches higher and higher levels, your softcap continues to rise while the stamina cost from boosting scales slower. In simpler terms, the more your transformation progresses, the more you can boost and the less it costs to boost. The strength you can gain from this is such that you could fight non-sandbagging Endbringers on even ground and fight entire armies of parahumans with contemptuous ease
+
+**Unlimited POWAAAAHHHH!**
+Cost: 6 SP
+Required:[[#(Trump) Ramp]]
+Required:Real Pumped
+You now possess the ability to amplify your strength and powers up to 50 times their normal levels, both physically and in terms of any active or passive abilities. This ramp-up requires about 5 minutes to reach full strength. To activate this boost, you must either be actively using your power or engaged in combat.
+
+If you activate this boost by using your power outside of a fight, only active abilities will be enhanced; passive powers won’t receive the boost. In this mode, you must maintain continuous use of the power, as any break longer than 5 seconds will reset the boost.
+
+However, if you engage in combat, both active and passive abilities will continue to ramp up for as long as you remain in the fight, steadily increasing until you reach the full 50-fold enhancement. The boost ends only when combat is fully over, allowing you to unleash your maximum potential throughout the encounter.
+*Lung Wannabe*
+Required:(Trump) Active Combat
+In combat, your powers have no upper limit on how high they can grow. The rate of your power amplification accelerates in response to the strength, numbers, and intensity of your opponents. The stronger or more numerous your foes, the faster you ramp up, allowing you to adapt quickly and push your abilities beyond prior limits. Your base level will never go below 50 times in 5 minutes.
+
+
+# OTHER TRUMP POWERS (SHARDLESS, EMPOWERING)
+
+### Physical Powers
+
+**Homebred Homunculus**
+Cost: 10 SP
+You are not a natural human, but an artificial construct; a homunculus created in the image of mankind through alchemy, arcane science, or advanced synthesis. Every part of your body is an engineered imitation of human biology, optimized and stabilized to exceed the flaws of natural life. You look and act human, but your body does not age, mutate, or degrade like theirs. You are a living replica designed to surpass the species you were modeled after.
+
+Your baseline physical and mental performance is over twice that of an average human across all categories. You are stronger, faster, more durable, and more precise. You can lift weights that would crush a human’s bones, endure impacts that would kill a normal body, and maintain peak performance for hours without fatigue. Your cognitive structure is equally enhanced, capable of perfect recall, rapid pattern recognition, and complex multitasking without loss of focus.
+
+You are naturally talented in any learned skill. Your synthetic neural architecture is optimized for adaptive mastery, allowing you to learn and refine techniques at a fraction of the normal time. If a human needs years of training to reach expert level in a discipline, you require only one. This includes magic or supernatural skills if you either personally have it or if it exists in your setting.
+The biggest thing is how your body is built specifically to hold any powers you have in the CYOA. This strengthens those powers by a whole magnitude and gives you preprogrammed instincts for higher-leveled uses of them, making growth easier and stronger. Every part of your body is adapted to house and refine them. For example, if you have Chakra (Naruto), your body is built to perfectly regulate, refine, and circulate it. Your artificial chakra coils are denser and more efficient than human ones, allowing you to store far more chakra and recover it much faster. Your control is instinctively on the level of Tsunade, and advanced techniques like the Rasengan or nature transformation come naturally. Techniques that normally require years of training are reduced to months, and your chakra output scales several times higher than human limits. As you grow stronger, your body continuously optimizes itself to handle more power, automatically reinforcing your chakra network and sharpening your instinctive control. The stronger your chakra becomes, the more perfectly your body evolves to wield it.
+
+**Natural Born Destroyer (One Piece)**
+Cost: 20 SP
+You’re a genetic anomaly, a freak of nature, born fundamentally different from the rest of your species. No one knows how or why. You just are.
+Your body defies natural limits. From the moment you open your eyes, you're brimming with power. You grow faster, bigger, and stronger than anyone around you. Your skin is tougher than steel, your teeth harder than stone, as your strength keeps multiplying with age.
+But it doesn't stop at the physical. Spiritually and magically, you're the outlier that every system wasn’t built to handle. You break through barriers meant only for the “chosen ones.” Abilities that are supposed to be one-in-a-million — like Conqueror’s Haki or god-tier spiritual pressure — well, you were born with them. Nothing is truly beyond grasp because it will simply come naturally to you.
+In time, you’ll undoubtedly rise to the top of your universe, untouchable by nearly all. The only threats left will be your own ego and the limits you choose not to break.
+
+
+
+## Esoteric and Abstract 
+
+
+**Dungeon Maker**
+Cost: 20 SP
+At will, you can open permanent portals to endless dungeons. You may at any time close a portal no matter the distance, this can be done by setting a mental timer or be done at will. Not just infinite in size, these dungeons are filled with monsters, traps, and loot that respawns regularly, growing deadlier and more valuable the farther you stray form the entrance. You may determine the danger level of the new dungeon's entry area each time you create a portal, from 'dangerous to an unarmed, average teenager' to 'dangerous to you, with all your powers'. Every dungeon always offers up at least one means of permanently empowering an adventurer, granting them skills, powers, enhanced attributes, and more. Those that die inside a dungeon make it stronger and deadlier for as long as their souls are not retrieved.
+
+*Instant Dungeon*
+Required:Tower Lost in Time
+Required:Gamer System
+On top of its original abilities, your Dungeon Maker power now has the full scope of Han Jihan's Instant Dungeon (ID) Skill from 'The Gamer' manwha, alongside being able to add more customizability options later down the line as you level up.
+
+*Mystery Dungeon*
+Required:Pokémon (Pokemon)
+You now gain the ability to have Dungeon Maker create Mystery Dungeons as per the namesake Pokémon Mystery Dungeon games.  
+These dungeons possess many floors filled with hostile Pokémon, traps, and, most importantly, useful items. The items you can gain within these Mystery Dungeons include items from the mainline Pokémon games and Mystery Dungeon games.  
+  
+This includes simple money in the form of gold coins, various beneficial consumable items that include ones that can heal you, keep you fed and healthy, increase your power permanently, or unlock new powers. Various wearable equipment, such as species-specific ones able to raise your power as much as 3 times and grant other helpful effects, special belts, special ribbons, and glasses with various special vision buffs.  
+The deeper you delve into these Mystery Dungeons, the greater your rewards; however, so too will the danger and difficulty increase. Should you explore carefully, you may find special rooms with rare and powerful items. Also, delve deep enough and you discover Mythical and Legendary Pokémon who will fight you, and should you win, may offer a boon.  
+  
+Lastly, you gain a safety net in that should you be able to die, you will instead black out and be kicked out of the dungeon you are currently in. Then a cooldown will initiate with a duration based on the depth you were in the dungeon. This cooldown can vary from one day to as long as a month at max.
+
+**This isn't even my final form**
+Cost: 25 SP
+You now have the ability to take on a series of immensely powerful transformed states of your own design, with the first one giving a 10x boost to all your powers and physical stats, and the others after that offering a 10x boost to the previous form. These transformations could take a myriad of themes and appearances that follow them, maybe you want to look more animalistic or more regal, have a more monstrous theme etc, you can choose and design each form provided it follows your transformation's theme.
+Note, that each form drains stamina and the stronger the form is the more stamina it drains and if not careful, could kill you, this can be mitigated through training.
+You start with your first form and can unlock more in the future through training or a sudden boost of extreme emotion such as rage.
+
+**Upgrade**
+Cost: 25 SP
+You possess the ability to upgrade anything—whether it's powers, items, spells, or even abstract concepts. You can choose to enhance an entire thing at once or focus on individual aspects, upgrading them one at a time. The more powerful or complex the thing is, the greater the effort and resources required to upgrade it.
+
+To perform an upgrade, whether for an entire item or just specific aspects, you will need materials, time, effort, or even more abstract resources like lifeforce or rare items. The more powerful or obscure the thing you wish to upgrade, the more difficult the requirements will be. However, nothing will be impossible to upgrade—just harder to achieve or gather in terms of materials. For example, if you wanted to upgrade Excalibur, aspect by aspect, the types of materials required would remain consistent, but the quantity, energy, and time needed would increase as Excalibur is already an extremely powerful weapon.
+
+You will have access to an upgrade tree, which will show the aspects you can enhance and the results of those upgrades. Keep in mind, each time you upgrade something, it will alter future options in the tree. Additionally, you can roll back an upgrade, returning the item to its original state and recovering half of the resources you used. However, this rollback feature comes at a cost, so use it wisely.
+With time, effort, and the right materials, there is nothing you can’t upgrade. You can even choose to upgrade yourself or others. Starting as an ordinary human (or whatever you are), you could enhance your strength, power, and other attributes until you become a multiversal entity—and possibly beyond. But achieving such a transformation would require vast resources and time. This power also has the potential to mutate or change anything it upgrades, meaning the final result may differ from what you initially expect. To really get the most use out of this power the user must be creative.
+
+**Gambler’s Intuition**
+Cost: 15 SP
+In your soul, there is a gambling machine. At the start, the chances of you getting a jackpot is 1 in 100000, but with every roll the chances double. You cannot make a roll while a roll is already in progress. The time needed to complete a roll is based on its current success rate (if there is a 1 in 100000 chance of getting a jackpot, then the time needed to complete the roll is 1/100 of a second, if there is a 1 in 50000 chance of getting a jackpot, then the time needed to complete the roll is 1/50 of a second.)
+When you get a jackpot, all your capabilities are greatly boosted, up to nearly a 100 times. The duration is based on the roll’s success rate (if there is a 1 in 100000 chance of getting a jackpot, then the duration is 10 minutes, if there is a 1 in 50000 chance of getting a jackpot, then the duration is 5 minutes.)
+While you have a jackpot, you cannot roll.
+
+**The Tutorial Boss**
+Cost: 5 SP
+
+You are a BOSS! Okay, well, the one the hero beats at the start to get a hang of things. But that's ok, it's not a matter of how big your health bar is, it's how you use it!  
+First things first, you're just stronger then the average in every aspect. Stronger, tougher, smarter, etc. Unlike other Joes' though, you don't buckle to damage like them. Even if a hole is blown clean through your stomach, you can still stand and fight, presuming you live afterwards.  
+You also have second phase that activates when you're severely damaged, or 40% HP in game terms. Your second phase will see you being 15% stronger in every aspect, powers included. You also get a one-shot protection, where no single attack can make you dip below 40%. Although, once you reach that number, it's fair game. You also get a visual signifier when you are, perhaps glowing hair and eyes, or a red aura. It won't give any advantages, but it will look cool.  
+  
+You also gain a copy of the power system of the world you are in, becoming above average in that aspect, provided you are compatible with the system and can use it. Make sure you show that hero how to really use the power system!  
+You also have an exceptional ability to lead, ensure loyalty to your goons, and recruit new ones.
+
+
+## Foundation
+
+**Gamer System**
+Cost: 20 SP
+
+You gain access to a game-like system to manage your power(s). By default, you have access to a basic system that includes attributes and the ability to grow by gaining experience. You gain experience by completing quests or defeating enemies (does not need to involve killing them) and can increase your attributes by training. How the system works in details depends on the user, you can either create a custom gamer system for yourself or choose a version from any franchise/fictional work you know, gaining all its features, (note that you can not use this to gain an Instant dungeon) two people with this power can have systems that work differently.  
+This power will interface with other abilities you choose. As you use them, they will grow in strength and will unlock new aspects. While your growth is not limited, the stronger an ability is the harder it will be to improve it.
+
+*Dynamic System*
+Required:Dynamist Jr.
+Gamer System is trumped by Dynamist Jr.  
+It will get new features and improvements over time, but cannot affect Dynamist Jr. in return.
+
+*Gamer²*
+Required:(Trump) Gamer System
+Your Gamer Systems have fused, requiring far less experience than normal with a greater range of evolutions. It's as if they compounded on each other, you can not only grow but can predict your powers and skill evolutions to plan ahead. You can even stockpile and spend experience on skills even if you haven't used them. This allows you to level up powers that have a harder time being used.
+
+*Voice of the Gamer*
+Required:Voice of the World (Tensura)
+The Gamer System and Voice of the World have merged. Allowing you to gain skills from the Voice of the World and level them up through The Gamer. This allows you to level each skill gained from 1 to 100 before evolving the skill to a higher tier outside of the normal tiers of Voice of the World. In addition, the speed by which you gain skills and experience towards your level and skills has been increased slightly.
+
+*The System Store*
+Required:Multiversal Marketplace
+
+Your Gamer System has been transformed by The Multiverse Marketplace, granting you access to both a regular marketplace and a unique Marketplace created by Gamers for Gamers. You can explore the standard Multiverse Marketplace alongside the Physical Gamer Marketplace, where you can sell your items and purchase new ones. Within the System Tab, you can also sell products specifically tailored for gamers. The Physical Gamer Marketplace is a safe zone free from violence, offering a variety of items crafted by gamers, including skills, powers, unique weapons, exclusive tech, different races and even pets and companions.  
+The System Tab is managed by a helpful and cheerful AI that ensures you find whatever you desire—chances are it’s available in the System Store.  
+Additionally, there is a hidden feature within the Gamer System called the Module Store. This store focuses on new Gamer System expansions in the form of tabs, which can be purchased using various types of Gamer Currency. Some modules include the Crafter Module, which centers on a crafting system, along with others like Alchemy, Blacksmithing, and Spell Crafting. There are even fictional modules, such as Star Wars, which grant you access to the Force. The possibilities for expansion within the Module Store are virtually limitless.
+
+*Nemesis System*
+Required:The Tutorial Boss
+
+Your Gamer System interfaces with your nature as a Tutorial Boss, transforming into a Nemesis system. You are no longer just a hurdle for heroes to overcome – instead becoming an ever-evolving adversary, incapable of being permanently defeated. When you fall, you awaken later, at the cost of a significant portion of your accumulated experience. Each resurrection also hardens you, granting increased stats and resistance to what previously killed you.  
+  
+The title of a Tutorial Boss also provides a flat +10% to all stats (for a total of +25% when under 40% hp) and to your XP gain that gets stronger as your boss rank increases.  
+To cap it all off, as you gain levels and grow stronger, your boss rank increases, beginning as the Tutorial Boss and advancing to the ranks of First Real Boss, Midgame Boss, and beyond. With each new rank, your inherent bonuses become even more potent, amplifying your stats and ensuring that your presence is always felt.
+
+Dynamist Jr.
+
+Cost: 20 SP
+
+This power integrates with your other abilities and improves them over time. It will mutate in two ways: _horizontally_, by adding new related abilities, and _vertically_, by increasing the strength of specific aspects. Powers with a lower initial SP cost have a faster growth until they catch up to your other powers.  
+  
+While you can direct the general shape of those changes, your power will also respond and adapt to any challenge you face. When your powers are impotent, immediately useful mutations will be prioritized over long term utility. When you have time to let them grow, new optimizations and sub-powers based on predicted challenges and past difficulties, will be added. Any useless or redundant part will be shed or fused into existing abilities. With time, your weaknesses will be reduced and your options broadened.  
+  
+It is recommended you give your power time to perform routine maintenance and optimizations between heavy engagements to avoid a buildup of mutation debt. If this debt becomes too high, the quality and reliability of mutation decreases due to the stress placed on your power.  
+  
+This power works at a slower rate than _Dynamist_.
+
+
+# Beauty & Charisma Powers
+
+
+## Esoteric & Abstract
+
+**Crown of Royalty**
+Cost: 15 SP
+
+A Crown hovers above you—unseen by most, but felt by all.  
+  
+It marks you as Royalty, present since birth, growing heavier with time, and with it, so do you. Your beauty is enchanting, your eyes shine brighter, your words carry further, your steps lead truer.  
+  
+Your very being becomes greater, **_more_** than all else. There is no summit to this ascent; to limit you would be to betray the order of all things.  
+  
+Strength, endurance, longevity, spirit and more stretch beyond mortal bounds. You move with greater poise, perceive with greater clarity, and strike with deeper weight—physically, mentally, spiritually, ontologically, even metaphysically.  
+  
+Obstacles—material, magical, ideological, or otherwise—yield where they would resist others. Laws of nature and society bend subtly or part entirely. Reality inclines in your favor: your voice, your will, your motion, all settle outcomes with disproportionate finality. What you wield—tool, word, or force—moves as though fate steadies your hand and inevitability presses down onto existence.  
+Your abilities grow with unnatural pace, resist outside influence, remove limits and surge with self-actualizing momentum. They refine themselves in silent recognition of your station, ever pressing toward mastery and beyond.  
+  
+Should another outstrip your talents in anything, such as swordplay, sorcery, chess or esoteric things, your own talent rises to meet and surpass theirs—until your precedence is restored.  
+  
+These talents must be something your species can be born with or aquire. They must also exist in the World you are in. If you want talents beyond your species or World, they must be aquired another way first.  
+  
+In all things tied to rule and refinement—command, diplomacy, art, bearing—you move with a native ease, as if born to embody these things.
 
 
 

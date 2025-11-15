@@ -1,5 +1,5 @@
 ---
-lastSync: Wed Oct 08 2025 23:16:34 GMT-0400 (Eastern Daylight Time)
+lastSync: Wed Nov 12 2025 16:25:18 GMT-0500 (Eastern Standard Time)
 ---
 ## Sites (Like Goodreads or other lists)
 
@@ -144,7 +144,6 @@ monster fantasy
 [Blackouts by Justin Torres | Goodreads](https://www.goodreads.com/book/show/131127539-blackouts) (civvie modern lgbt)
 [The Great Divide by Cristina Henríquez | Goodreads](https://www.goodreads.com/book/show/183542441-the-great-divide) (civvie historical ~1910)
 [The Bullet Swallower by Elizabeth Gonzalez James | Goodreads](https://www.goodreads.com/book/show/125183438-the-bullet-swallower) (fantasy historical 1895,1964)
-[Monstrilio by Gerardo Sámano Córdova | Goodreads](https://www.goodreads.com/book/show/62888185-monstrilio) (horror modern? fantasy)
 [How Not to Drown in a Glass of Water by Angie Cruz | Goodreads](https://www.goodreads.com/book/show/59808037-how-not-to-drown-in-a-glass-of-water) (civvie historical 1920s great depression)
 [Olga Dies Dreaming by Xóchitl González | Goodreads](https://www.goodreads.com/book/show/57693171-olga-dies-dreaming) (civvie modern 2017 lgbt)
 [Chilean Poet by Alejandro Zambra | Goodreads](https://www.goodreads.com/book/show/58492105-chilean-poet) (civvie modern)

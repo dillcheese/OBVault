@@ -650,7 +650,57 @@ FOR j_rec IN cursor LOOP
 END LOOP;
 
 
-## Class 9 ()
+## Class 9 (Nov 11)
+
+### Stored Procedures
+
+Modularize code into subprograms
+
+Minor differences between procedures and functions
+
+**What are subprograms?**
+
+• A PL/SQL subprogram is a named PL/SQL block that can be called with a set of parameters.  
+• You can declare and define a subprogram within either a PL/SQL block or another subprogram.  
+• A subprogram consists of a specification and a body.  
+• A subprogram can be a procedure or a function.  
+• Typically, you use a procedure to perform an action and a function to compute and return a value.  
+• Subprograms can be grouped into PL/SQL packages.
+
+
+| Anon. Blocks                                 | Subprograms                                                     |
+| -------------------------------------------- | --------------------------------------------------------------- |
+| Unnamed PL/SQL blocks                        | Named PL/SQL blocks                                             |
+| Compiled every time                          | Compiled only once                                              |
+| Not stored in the database                   | Stored in the database                                          |
+| Cannot be invoked by other  <br>applications | Named and, therefore, can be invoked by  <br>other applications |
+| Do not return values                         | Subprograms called functions must return  <br>values.           |
+| Cannot take parameters                       | Can take parameters                                             |
+
+**Example:** 
+CREATE OR REPLACE PROCEDURE sp_job_update (
+p_jobid IN varchar,
+p_new_description IN varchar
+)
+IS
+-- declare any variables here
+BEGIN
+    UPDATE hr_jobs
+    SET job_title = p_new_description
+    WHERE job_id = p_jobid;
+   
+    COMMIT;
+END;
+
+select * from hr_jobs
+execute sp_job_update('SA_MAN','Regional Sales Manager' ) --test case
+
+## Class 10 (Nov 18)
+
+
+
+
+
 
 
 

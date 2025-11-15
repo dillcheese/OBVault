@@ -1,5 +1,5 @@
 ---
-lastSync: Fri Nov 07 2025 18:23:01 GMT-0500 (Eastern Standard Time)
+lastSync: Fri Nov 14 2025 12:39:50 GMT-0500 (Eastern Standard Time)
 ---
 ## Week 1 (Sept 5)
 
@@ -209,6 +209,9 @@ No need for a memo for the Group Assignment 3
 
 Executive summary is 10% the length of the report.
 
+
+## Week 10 (November 14)
+Rough draft by next week
 
 
 

@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Nov 04 2025 09:04:58 GMT-0500 (Eastern Standard Time)
+lastSync: Tue Nov 11 2025 09:53:15 GMT-0500 (Eastern Standard Time)
 tags:
 ---
 # Week 1 Class 1 (Sept 2)
@@ -163,7 +163,15 @@ Project B overview
 
 
 
+# Week 10 Class 1 (Nov 11)
 
+
+Web Design Pyramid
+1. Architectural Design ( MVC)
+2. Navigation Design
+3. Content Design
+4. Aesthetic Design
+5. UI/UX design
 
 
 

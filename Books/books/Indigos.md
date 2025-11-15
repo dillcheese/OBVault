@@ -1,5 +1,5 @@
 ---
-lastSync: Mon Nov 10 2025 21:38:25 GMT-0500 (Eastern Standard Time)
+lastSync: Wed Nov 12 2025 16:24:39 GMT-0500 (Eastern Standard Time)
 tags:
   - books
   - indigo
@@ -99,8 +99,7 @@ tags:
 - [ ] scorpion queen by Mina #fantasy 
 - [ ] wool by Hugh Howey #modern #scifi 
 - [ ] crave by Tracy #fantasy  #modern 
-- [ ] to steal from thieves by mk #fantasy 
-- [ ] dream girl drama by tessa #civvie
+- [ ] to steal from thieves by mk #fantasy
 - [ ] funny story by Emily #civvie 
 - [ ] my fault by Mercedes #civvie 
 - [ ] uglies by Scott #modern 
@@ -117,15 +116,14 @@ tags:
 - [ ] psycho shifters 
 - [ ] song of legends lost
 - [ ] Hekate
-- [ ] of jade and dragons by amber #fantasy 
+- [ ] of jade and dragons by amber chen #fantasy 
 - [ ] by invitation only by Alexandra #civvie #modern 
 - [ ] sky shade by Alex aster #fantasy 
-- [ ] The naturals by Jennifer #modern 
+- [ ] The naturals by Jennifer Lynn #modern 
 - [ ] someone is always watching by Kelly #civvie 
 - [ ] night birds by Kate #fantasy 
 - [ ] pure by Jennifer armentrout #fantasy 
 - [ ] dream by the shadow by Logan #fantasy 
-- [ ] Carving shadows into gold by Brigid #fantasy 
 - [ ] Learn my lesson by Katee #fantasy 
 - [ ] Serial killer games by Kate #civvie 
 - [ ] accomplice to the villian by Kate #fantasy 
@@ -147,6 +145,14 @@ tags:
 - [ ] King of scars by Leigh #fantasy 
 - [ ] The navigators children by tad #fantasy 
 - [ ] Queen demon by Martha #fantasy 
+- [ ] the house Saphir by Marissa #fantasy 
+- [ ] so witches we became by Jill #modern #fantasy 
+- [ ] perfect girl by Tracy #modern 
+- [ ] A forgery of fate by Elizabeth #fantasy 
+- [ ] this woven kingdom by tahereh #fantasy 
+- [ ] hush hush by Becca 
+- [ ] seven deadly thorns by amber #fantasy 
+- [ ] a fate so cold by Amanda #fantasy 
 - [ ] 
 - [ ] 
 - [ ] 
@@ -184,8 +190,7 @@ Berserk of gluttony
 - [ ] The lightdtruck by sunya mara  
 - [ ] Realm of wonders by Alexandra monir  
 - [ ] Sinner's isel by Angela  
-- [ ] Moonstorm by yoonha  
-- [ ] The naturals by Jennifer Lynn  
+- [ ] Moonstorm by yoonha 
 - [ ] Marvel encyclopedia  
 - [ ] The Blackthorne key by Kevin sands    
 - [ ] Broken blade by Melissa Blaire  
@@ -208,8 +213,7 @@ Berserk of gluttony
 - [ ] A thousand steps into night by ^  
 - [ ] A shadow bright and burning by Jessica  
 - [ ] Storm of Olympus by Claire Andrews  
-- [ ] Half blood by Jennifer armentrout  
-- [ ] Of jade and dragons by amber Chen  
+- [ ] Half blood by Jennifer Armentrout  
 - [ ] The night hunt by Alexandra Christo  
 - [ ] The Blackwood's by brandy Colbert  
 - [ ] After death by Melissa de la Cruz  #fantasy
