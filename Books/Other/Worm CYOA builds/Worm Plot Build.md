@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Nov 11 2025 11:52:05 GMT-0500 (Eastern Standard Time)
+lastSync: Sun Nov 16 2025 17:57:56 GMT-0500 (Eastern Standard Time)
 ---
 
 # Base Build
@@ -624,8 +624,6 @@ You have the uncanny ability to randomly "remember" a technique, spell, power, o
 What this means is that if you were facing someone who is about to hit you with a massive attack, you may come up with a new way to use your powers that would allow you to block, redirect, or even nullify said attack. If someone is about to mind control you, then you might end up "remembering" that you had a special way of using your powers to protect your mind.  
 This does not give you powers by itself, nor does it let you suddenly do things that you could not potentially do before. For example, if someone is shooting a fireball and you have magic, you might "remember" an anti-fire ward spell. But if you did not have magic, then you would not "remember" such an ability and would either have to dodge or hope you don’t burn.
 
-
-
 > [!info]+ Build Screenshot
 >
 >
@@ -637,7 +635,66 @@ This does not give you powers by itself, nor does it let you suddenly do things 
 
 
 
+## Foundation Powers
 
+
+**Polybius Remastered**
+Cost: 12 SP
+You gain 3 slots that can be filled with very weak powers, roughly equivalent in strength to a 3 SP power; they can be either weakened versions of powers found in this CYOA or present in the world(s) you visit, like Quirks from MHA, Esper Powers from Raildex, Magic or Psionics from D&D, Kryptonian or Green Martian biology from DC, and so on. The only exception is Polybius Remastered itself.
+
+Of course, when weakened, your Kryptonian powers would only provide you with a minor enhancement in strength and durability, the ability to float a few inches above the ground and move at a slow pace, and some control of the direction when you fall, while retaining a major weakness to Kryptonite.
+You can switch those powers whenever you want. While a power is in a slot, it will slowly grow in strength through use or training. However, this process is very slow, around 1 SP every twelve days if you train for several hours every day. The growth is retained if the power is switched out then later recalled.
+The other component of this power is a pool of energy that can be used to accelerate the growth of your powers and provide temporary boosts in strength. Your energy pool takes 24 hours refill from empty. You can divert part of this regeneration towards power growth; when equally split between your slots, each power grows by 1 SP every nine days passively. You can also burn an hour worth of energy to increase the strength of a power by 20% for 5 minutes; this buff does not stack.
+
+Growth slows down every 12 SP and each stage adds 3 days to the time it takes for the power to grow stronger. It slows down even further when it reaches 60 SP, where the time to grow doubles every 5 SP until it reaches 120 SP, where growth stops entirely.
+
+You can choose to permanently lock a slot to a specific power, which increases its growth rate by 100% in exchange for the ability to switch it out. If you lock all slots, the growth rate increases by another 50%, for a total of 250%.
+
+
+**Architect Jr.**
+Cost: 12 SP
+
+You have 3 slots that can host powers.  
+This power has a pool of energy that can be used to create and improve powers. The pool generates one charge every 8 hours and has the capacity to hold 12 charges. You can spend three charges to create a weak power of your choice, equivalent to 3 SP in strength, inside of a slot. It takes 5 minutes for the power to form. If all of your slots are full, you can spend 1 charge to either archive a power, swap one active power with one from the archive, or restore one power from the archive. This process also takes 5 minutes.  
+The powers in your slots grow in strength through use or training. However, this process is very slow, around 1 SP every twelve days if you train for several hours every day. You can spend charges to modify aspects of the power to your liking or increase its strength. It takes 9 charges to grow a power by 1 SP. However, growth slows down every 12 SP and each stage requires 3 additional charges to grow stronger. It slows down even further when it reaches 60 SP, where the number of charges doubles every 5 SP until it reaches 120 SP, where growth stops entirely.  
+You can sacrifice a power worth 12 SP (84 charges) to either gain one new slot or increase the number of charges generated every 8 hours by one. The rank of power you need to sacrifice increases for every upgrade, shared between slots and charge generation, until you reach 60 SP (or 876 charges) where it stays constant.
+
+*Unified Slots*
+Required:Polybius Remastered
+
+You no longer need to spend charges to archive, swap, or fill slots, and creating 3sp powers is now free of charge. Additionally, Polybius Remastered’s energy pool can now be shared with Architect Jr.’s powers to increase their passive growth rate or provide temporary buffs. 
+Beyond that, you now have the option to spend Architect Jr.'s charges to boost powers created by Polybius Remastered. Slots made by Architect Jr. can also be locked in the same way as Polybius Remastered. If needed, you can spend three charges to unlock a locked slot, whether it was created by Architect Jr. or Polybius Remastered.
+
+**Terrestrial Inventory**
+Cost: 20 SP
+
+You gain access to the _Terrestrial Inventory_. This power allows you to summon almost anything you can imagine and store it in a dimensional pocket—be it mundane, supernatural, all the way to the metaphysical, you can summon any item in the known omniverse, providing you have the energy.  
+  
+To summon an item, you have to use energy which you slowly accumulate. By default, you gain enough energy to summon an item worth 5SP per day. This energy is stored if not spent which you can use to summon objects worth more.  
+  
+You have a mental search that allows you to search for specific items. When looking at items from this list, you gain a description of what it is, what it can do, how powerful it is, and what restrictions it has as well as its side-effects.  
+  
+When not in use, you can store anything you summon in a special pocket dimension by touching it again.  
+  
+Note: As actual 'SP' usually scales exponentially, the amount of energy you would need to save in your pool to create something worth '20SP' wouldn’t be 4 days but closer to 14-20, with an even longer wait to something worth '30SP' and higher.
+
+*Fictisummon*
+Required:(Trump/Striker) Fictiportation
+
+With the theoretically-unlimited-but-slow Inventory, you can now use the charge from Terrestrial Inventory to supersede the PRT Rating 10 limit from _Fictiportation_.  
+Naturally, as only a certain category of items would eclipse this power, it functionally lets you ‘budget’ charges to succeed your limits.
+
+*Dead Artificer Society*
+Required:The Celestial Workshop
+
+Thanks to the Inventory, you can breathe life into your creations permanently.  
+Anything you create with the _Celestial Workshop_ can be created through the Terrestrial Inventory for half of the energy it would usually require to produce, though it is required to be fully completed within the Celestial Workshop before you get this ‘discount’.
+
+*Inventory of Wonders*
+Required:Collector of Wonders
+
+Through the _Collector of Wonder_, any item summoned through the _Terrestrial Inventory_ will manifest within _The Celestial Workshop_, appearing as though you crafted it yourself.  
+Furthermore, the Right of Ownership will extend to all items summoned through the Terrestrial Inventory. You can also teleport any item created or summoned via _The Celestial Workshop_ or _Terrestrial Inventory_ into your pocket dimension, regardless of distance.
 
 
 # Trump Powers (Empowers Other Powers)
@@ -1058,46 +1115,70 @@ This power will interface with other abilities you choose. As you use them, they
 Required:Dynamist Jr.
 Gamer System is trumped by Dynamist Jr.  
 It will get new features and improvements over time, but cannot affect Dynamist Jr. in return.
-
 *Gamer²*
 Required:(Trump) Gamer System
 Your Gamer Systems have fused, requiring far less experience than normal with a greater range of evolutions. It's as if they compounded on each other, you can not only grow but can predict your powers and skill evolutions to plan ahead. You can even stockpile and spend experience on skills even if you haven't used them. This allows you to level up powers that have a harder time being used.
-
 *Voice of the Gamer*
 Required:Voice of the World (Tensura)
 The Gamer System and Voice of the World have merged. Allowing you to gain skills from the Voice of the World and level them up through The Gamer. This allows you to level each skill gained from 1 to 100 before evolving the skill to a higher tier outside of the normal tiers of Voice of the World. In addition, the speed by which you gain skills and experience towards your level and skills has been increased slightly.
-
 *The System Store*
 Required:Multiversal Marketplace
-
 Your Gamer System has been transformed by The Multiverse Marketplace, granting you access to both a regular marketplace and a unique Marketplace created by Gamers for Gamers. You can explore the standard Multiverse Marketplace alongside the Physical Gamer Marketplace, where you can sell your items and purchase new ones. Within the System Tab, you can also sell products specifically tailored for gamers. The Physical Gamer Marketplace is a safe zone free from violence, offering a variety of items crafted by gamers, including skills, powers, unique weapons, exclusive tech, different races and even pets and companions.  
 The System Tab is managed by a helpful and cheerful AI that ensures you find whatever you desire—chances are it’s available in the System Store.  
 Additionally, there is a hidden feature within the Gamer System called the Module Store. This store focuses on new Gamer System expansions in the form of tabs, which can be purchased using various types of Gamer Currency. Some modules include the Crafter Module, which centers on a crafting system, along with others like Alchemy, Blacksmithing, and Spell Crafting. There are even fictional modules, such as Star Wars, which grant you access to the Force. The possibilities for expansion within the Module Store are virtually limitless.
-
 *Nemesis System*
 Required:The Tutorial Boss
-
 Your Gamer System interfaces with your nature as a Tutorial Boss, transforming into a Nemesis system. You are no longer just a hurdle for heroes to overcome – instead becoming an ever-evolving adversary, incapable of being permanently defeated. When you fall, you awaken later, at the cost of a significant portion of your accumulated experience. Each resurrection also hardens you, granting increased stats and resistance to what previously killed you.  
-  
 The title of a Tutorial Boss also provides a flat +10% to all stats (for a total of +25% when under 40% hp) and to your XP gain that gets stronger as your boss rank increases.  
 To cap it all off, as you gain levels and grow stronger, your boss rank increases, beginning as the Tutorial Boss and advancing to the ranks of First Real Boss, Midgame Boss, and beyond. With each new rank, your inherent bonuses become even more potent, amplifying your stats and ensuring that your presence is always felt.
+*The Restaurant System*
+Required:The Humble Merchant
+Required: Cooking By The Book, (Tinker/Trump) Gourmet, or (Thinker/Master) Chef Supreme
+Required: Homecoming, or World-Walker
+You gain access to a restaurant that exists within a pocket dimension, connected to the entire Multiverse. You can enter it at will and have complete control over its appearance both interior and exterior and can change it at any time.
 
-Dynamist Jr.
+You can open doors to any world known to you from any source, or make it completely random. As the owner, you have the absolute authority to deny entry or forcibly expel anyone. Within its walls, all guests are perpetually safe.
+The restaurant is fully equipped with every tool you need to prepare any dish. If you require additional tools in the future, they will be generated automatically. The facility is self-cleaning and can expand or shrink as necessary to accommodate any number of guests.
 
+You gain access to a store, allowing you to purchase ingredients from across the Multiverse, with all currencies converted automatically.
+
+You also gain the ability to create clones possessing all your skills and abilities to help manage both your restaurant and the store. Your mind exists across all clones simultaneously, and your multitasking ability increases with the number of active clones. However, clones cannot leave the property.
+If you have Merchant of Myth Upgrade customers can pay using esoteric or conceptual goods and if you have Traveling Merchant Add-On: Your store and restaurant can merge into any configuration you choose.
+
+**Dynamist Jr.**
 Cost: 20 SP
 
 This power integrates with your other abilities and improves them over time. It will mutate in two ways: _horizontally_, by adding new related abilities, and _vertically_, by increasing the strength of specific aspects. Powers with a lower initial SP cost have a faster growth until they catch up to your other powers.  
   
 While you can direct the general shape of those changes, your power will also respond and adapt to any challenge you face. When your powers are impotent, immediately useful mutations will be prioritized over long term utility. When you have time to let them grow, new optimizations and sub-powers based on predicted challenges and past difficulties, will be added. Any useless or redundant part will be shed or fused into existing abilities. With time, your weaknesses will be reduced and your options broadened.  
-  
 It is recommended you give your power time to perform routine maintenance and optimizations between heavy engagements to avoid a buildup of mutation debt. If this debt becomes too high, the quality and reliability of mutation decreases due to the stress placed on your power.  
-  
 This power works at a slower rate than _Dynamist_.
+
+**Idle Trainer**
+Cost: 10 SP
+Welcome to the realm of Idle Training, where you can gain the results of training while being a couch potato. With this extraordinary power, you can create a perfect virtual simulation of yourself training in your mind. Within this simulation, your virtual counterpart possesses the ability to train and learn any skill or discipline that you are capable of. By simply selecting the desired focus for training, the simulation engages in rigorous practice without rest, while the time within the simulated realm moves three times faster. Once you drop the simulation, you absorb all the benefits gained as if you had done the arduous process yourself, whether it's muscle, skills, expertise, and everything else, as if you had personally undergone the training.
+
+*Percolate*
+Required:108 Skills
+
+Armed with a copy ability that defies all logic, even a simulation of yourself isn't completely safe from imitation. While the simulation is running, you constantly gain 1/108th of the benefits that the virtual you gets from the training. This does not reduce the benefits you gain from dropping the simulation.
+
+*Idle Grinding*
+Required: Gamer System, (Trump) Gamer System
+
+Now addition to training a specific skill, power, attribute etc., Your virtual counterpart now has the ability to passively farm EXP in the idle trainer simulated realm.  
+You can choose to either manually spend the accumulated EXP yourself or have it automatically spend the EXP based on parameters you choose
+
+*World Simulation*
+Required:Survivor Simulation (10 SP)
+
+As an alternative to the white void, you may expend your daily use of Survivor Simulation to project your simulated self into a perfect, dynamic copy of the real world, starting from the present moment. This simulation runs three times faster than reality, allowing you to observe the immediate future unfold from your double's perspective and guide its actions in real-time. When the simulation ends, you absorb its complete memories and trained skills, and are granted a a single choice of five random rewards your simulated self earned, just as if you had completed a Survivor Simulation.  
+Naturally, you cannot use Idle Trainer nor Survivor Simulation inside the World Simulation.
 
 
 # Beauty & Charisma Powers
 
-
+ 
 ## Esoteric & Abstract
 
 **Crown of Royalty**
@@ -1119,6 +1200,11 @@ Should another outstrip your talents in anything, such as swordplay, sorcery, ch
 These talents must be something your species can be born with or aquire. They must also exist in the World you are in. If you want talents beyond your species or World, they must be aquired another way first.  
   
 In all things tied to rule and refinement—command, diplomacy, art, bearing—you move with a native ease, as if born to embody these things.
+
+
+
+## Tinker/Tech/Artifice/Item Powers
+
 
 
 
