@@ -1,5 +1,5 @@
 ---
-lastSync: Sun Nov 16 2025 17:57:56 GMT-0500 (Eastern Standard Time)
+lastSync: Sun Nov 16 2025 21:08:29 GMT-0500 (Eastern Standard Time)
 ---
 
 # Base Build
@@ -645,7 +645,6 @@ You gain 3 slots that can be filled with very weak powers, roughly equivalent in
 Of course, when weakened, your Kryptonian powers would only provide you with a minor enhancement in strength and durability, the ability to float a few inches above the ground and move at a slow pace, and some control of the direction when you fall, while retaining a major weakness to Kryptonite.
 You can switch those powers whenever you want. While a power is in a slot, it will slowly grow in strength through use or training. However, this process is very slow, around 1 SP every twelve days if you train for several hours every day. The growth is retained if the power is switched out then later recalled.
 The other component of this power is a pool of energy that can be used to accelerate the growth of your powers and provide temporary boosts in strength. Your energy pool takes 24 hours refill from empty. You can divert part of this regeneration towards power growth; when equally split between your slots, each power grows by 1 SP every nine days passively. You can also burn an hour worth of energy to increase the strength of a power by 20% for 5 minutes; this buff does not stack.
-
 Growth slows down every 12 SP and each stage adds 3 days to the time it takes for the power to grow stronger. It slows down even further when it reaches 60 SP, where the time to grow doubles every 5 SP until it reaches 120 SP, where growth stops entirely.
 
 You can choose to permanently lock a slot to a specific power, which increases its growth rate by 100% in exchange for the ability to switch it out. If you lock all slots, the growth rate increases by another 50%, for a total of 250%.
@@ -660,41 +659,127 @@ The powers in your slots grow in strength through use or training. However, this
 You can sacrifice a power worth 12 SP (84 charges) to either gain one new slot or increase the number of charges generated every 8 hours by one. The rank of power you need to sacrifice increases for every upgrade, shared between slots and charge generation, until you reach 60 SP (or 876 charges) where it stays constant.
 
 *Unified Slots*
-Required:Polybius Remastered
-
+Required: Polybius Remastered
 You no longer need to spend charges to archive, swap, or fill slots, and creating 3sp powers is now free of charge. Additionally, Polybius Remastered’s energy pool can now be shared with Architect Jr.’s powers to increase their passive growth rate or provide temporary buffs. 
 Beyond that, you now have the option to spend Architect Jr.'s charges to boost powers created by Polybius Remastered. Slots made by Architect Jr. can also be locked in the same way as Polybius Remastered. If needed, you can spend three charges to unlock a locked slot, whether it was created by Architect Jr. or Polybius Remastered.
 
-**Terrestrial Inventory**
+**Weaver of Destinies**
+Cost: 10 SP
+
+You have gained the ability to perceive the threads of fate connecting people to their destinies, including your own. These threads display various colors, reflecting the level of fortune or misfortune in each person's life. Darker threads indicate unfortunate destinies, while lighter threads signify good fortune. Through physical contact with these threads, you gain insight into the near future of the individual, revealing crucial moments known as "Opportunities." These Opportunities represent instances of either extraordinary good or profound misfortune awaiting the person.  
+You possess the capacity to intervene in someone's life during these Opportunities, potentially averting their impending misfortunes and enhancing your own threads of destiny slightly. This intervention also serves to lighten the person's thread, leading them towards a brighter path. Alternatively, you can choose to exploit the fortunate Opportunities of others, causing their threads to darken. Continuously engaging in this act could eventually turn the target threads completely black, resulting in a scenario where every aspect of the affected individuals' lives would be plagued by incredible misfortune.
+
+**The Game of Life**
+Cost: 15 SP
+
+Welcome to "The Game Of Life", through this power you hold the fate of your actions in your hands. This power offer three main functions: Dice, Reroll, and Devilish Luck.  
+*Dice*: Imagine materializing a magical D20 dice before any crucial action you take. This enchanting dice brings an element of chance to your endeavors. Roll a 1, and your action might face some obstacles. Roll between 2 and 5, and there's no extra modifier for success. But don't worry, things start looking up from there! Rolling between 6 and 10 increases your chances of success. Land between 11 and 15, and your action becomes not only more likely to succeed but also more effective. With a roll between 16 and 19, your action gains a supernatural touch, significantly boosting the odds of success. And if you manage to land that elusive 20, your action could defy logic itself, as probability itself bends to ensure your action have at least a 50% chance of succeeding! Remember, you can summon the Dice up to 3 times each day to sway fate in your favor.  
+*Reroll*: Have you ever wished you could turn back time to make better choices? With Reroll, that dream becomes a reality. You possess the ability to rewind time from a mere 10 seconds up to a generous 5 minutes! Made a hasty decision or took a wrong turn? Did you have a bad Dice roll? No worries! Simply trigger the Reroll and get another shot at it. However, like any precious gift, this power is limited to 3 uses per day, so use it wisely and purposefully.  
+*Devilish Luck*: Once every three days, you have the opportunity to embrace an hour of sheer fortune with Devilish Luck. During this time, the very fabric of probability bends to ensure that you experience an unprecedented streak of serendipity. Opportunities fall into your lap, things seem to work out effortlessly, and life smiles upon you in countless ways. Use this power sparingly, and remember that its effects last for one hour only.
+
+**Daily Login System**
+Cost: 30 SP
+You have gained the Daily Login System. Everyday, you can log in to your system and gain an award. The award can range from powers to objects. Normal rewards are usually either common objects or weak powers (1-5 SP), but you can gain special rewards by logging in continuously for a few days. A week of continuous logging in will get you an uncommon object or an above average power (5-10 SP). A month of continuous logging in will get you a rare object or a rare power (10-20 SP). A year of continuous logging in will get you a legendary object or a legendary power (20-50 Sp). The rewards will be based of your achievements and day to day life.
+
+**Figurines Collector**
 Cost: 20 SP
 
-You gain access to the _Terrestrial Inventory_. This power allows you to summon almost anything you can imagine and store it in a dimensional pocket—be it mundane, supernatural, all the way to the metaphysical, you can summon any item in the known omniverse, providing you have the energy.  
+You have been chosen by the realm where shadows dance and imagination intertwines with reality. Once a day, you can summon forth a perfect living doll crafted from the depths of your own shadow. These dolls can take the form of original characters from the depths of your creativity or be inspired by existing characters.  
   
-To summon an item, you have to use energy which you slowly accumulate. By default, you gain enough energy to summon an item worth 5SP per day. This energy is stored if not spent which you can use to summon objects worth more.  
+Each doll possesses a unique power, derived either from its inherent nature or based on the character it represents. These powers, will initially remain within the realm of street-tier abilities but offer a glimpse of formidable potential. Though initially modest, these powers shall flourish and expand over time, growing in strength and versatility alongside your own mastery.  
   
-You have a mental search that allows you to search for specific items. When looking at items from this list, you gain a description of what it is, what it can do, how powerful it is, and what restrictions it has as well as its side-effects.  
+When crafting a doll based on an existing character, it is not merely their appearance that is captured but also their knowledge and personality. These dolls embody the essence of the characters they represent, allowing them to act with the same wisdom and motivations. However, regardless of whether they are original creations or replicas of beloved characters, the dolls are bound to you by an unyielding loyalty, their unwavering devotion solely directed towards you.  
   
-When not in use, you can store anything you summon in a special pocket dimension by touching it again.  
+Additionally, you are also able to store and recall these dolls into your own shadow. When the dolls face defeat or succumb to injuries, they are instantly recalled to the sanctuary of your shadow. Within this ephemeral refuge, they are restored to full vitality, their wounds healing as if they were never inflicted. After three days, you can summon them forth once more, ready to stand by your side and fulfill their purpose with unflinching loyalty.  
   
-Note: As actual 'SP' usually scales exponentially, the amount of energy you would need to save in your pool to create something worth '20SP' wouldn’t be 4 days but closer to 14-20, with an even longer wait to something worth '30SP' and higher.
+Initially, you can maintain an active roster of seven dolls at any given time. However, as your mastery deepens and your connection with shadows grows stronger, the number of dolls you can command will expand, allowing you to harness a greater ensemble of allies in your endeavors.
 
-*Fictisummon*
-Required:(Trump/Striker) Fictiportation
+*Familiar Collector*
+Required:Familiar Contract
 
-With the theoretically-unlimited-but-slow Inventory, you can now use the charge from Terrestrial Inventory to supersede the PRT Rating 10 limit from _Fictiportation_.  
-Naturally, as only a certain category of items would eclipse this power, it functionally lets you ‘budget’ charges to succeed your limits.
+Your ability to make familiar contracts and the ability to summon living dolls from your shadows synergized. All of your dolls will benefit from a familiar contract, and you will also grant the benefits of being bound to your shadows to a normal familiar. If your familiar is weaker than the street level baseline power, they will be boosted to that level, sometimes even gaining new abilities and powers depending on their existing skills and personality.  
+  
+The number of dolls you can have in your active roster is also partially lifted, as you can now have any number of them being active, but you still only start with seven slots for healing and reviving within your shadow, and if you have more of them injured or dead, they will be in a stasis and waiting in queue for healing. The rate of growth and affinity attunement your familiars get within your soul is also split between the number of them bathing in your energy.
 
-*Dead Artificer Society*
-Required:The Celestial Workshop
+*Figurine’s Sanctuary*
+Required:Terrestrial Inventory
 
-Thanks to the Inventory, you can breathe life into your creations permanently.  
-Anything you create with the _Celestial Workshop_ can be created through the Terrestrial Inventory for half of the energy it would usually require to produce, though it is required to be fully completed within the Celestial Workshop before you get this ‘discount’.
+You can use energy from the Terrestrial Inventory to create new dolls or enhance existing ones with greater power.  
+  
+This follows the same logic as Terrestrial Inventory: the stronger the doll, the more energy it takes to create or upgrade it. For example, creating a cosmic-level being to life would require 120 SP worth of energy.
 
-*Inventory of Wonders*
-Required:Collector of Wonders
+**Authority**
+Cost: 15 SP
 
-Through the _Collector of Wonder_, any item summoned through the _Terrestrial Inventory_ will manifest within _The Celestial Workshop_, appearing as though you crafted it yourself.  
-Furthermore, the Right of Ownership will extend to all items summoned through the Terrestrial Inventory. You can also teleport any item created or summoned via _The Celestial Workshop_ or _Terrestrial Inventory_ into your pocket dimension, regardless of distance.
+You have awoken your Authority, transforming you as a self-actualized conceptual being. The strength of your Authority, otherwise known as your Weight, is dependent on how much you have trained and experienced. Each step on your journey boosts your physical and mental capabilities, gradually unlocking incredible powers and abilities tied to your training focus.  
+  
+Your Authority only grows broader as you experiment, the more you delve into a specific domain, such as strength, intelligence, magic, or any other skill, the more your understanding of that concept expands. In addition to your natural self-actualizing capabilities, your Authority acts as a resource that can be allocated, although not consumed, to specific parts of your being. Eventually putting more Authority into your capacity to travel or traverse space could find you crossing miles of space with each step. Enforcing your will to live via your Authority could strip away the very concept of mortality from your being, rending your immortal and undying for as long as you will it.  
+  
+Through a permanent allocation of your Authority, known as an Aspect, you are able enhance or add something to your being. The amount of Authority that goes into every individual Aspect is up to you, it can be a one time thing, where you don’t add any more Authority beyond the initial amount, you can add more Authority later on as you grow, you can even have it so a constant percentage of your Authority is devoted an Aspect as you grow.  
+  
+Aspects are considered your new baseline, allowing you to both train your Aspects over time as well as an enhancement through the temporary allocation of Authority. If you do inevitably want to remove an Aspect, you can either suppress it which allows you to recall it in the future, or permanently sunder it from your being, removing it entirely as if it was never there.
+
+
+**100 Sacred Treasures**
+Cost: 25 SP
+You now have the power to instantly summon and dismiss 100 sentient and intelligent entities that you can seamlessly communicate telepathically with no matter the distance.
+The entities' collective strength grows as you ascend the hierarchy, reaching its pinnacle at entity 100. For instance, entity number 10 surpasses entity number 1 in every conceivable way by a factor of 100.
+Initially, you can only summon the number 1 entity, manifesting as twin dire wolves, double the size of an adult male polar bear. Each wolf exhibits ten times the physical strength and speed of an elite Olympic male athlete, has super senses, and with durability capable of easily deflecting concentrated medium-caliber artillery fire. Their claws and teeth are sharp enough to cleave through steel, and they possess the special ability to traverse through shadows, manipulating them at will.
+
+Each entity boasts unique supernatural abilities, ranging from shadow manipulation, elemental control, to healing, and telekinesis, etc. These special abilities become increasingly potent and fantastical as you ascend the ladder. These entities also exhibit enhanced passive growth, becoming stronger with increased utilization of their abilities.
+To summon higher-level entities, such as entity number 2, you must summon them and defeat them using your own abilities. If you successfully defeat them, you gain control over them, enabling unrestricted summoning. In the event of defeat, the entity will never kill you and will disappear for 24 hours before the process can be initiated again. Each entity that you successfully defeated or was already able to summon like entity number 1, will demonstrate an unwavering and unconditional allegiance in perpetually serving you, this bond can never be broken under no influence, not even your own.
+
+Free from the need for sustenance and immune to fatigue, these entities, if vanquished, require a 24-hour regeneration period before they can be summoned again at full capacity. Unless dismissed, they persistently remain in your service; they might also develop a unique personality of their own, if you so allow it.
+*Fel-Ascended Treasures*
+Required:Fel Blood (Warcraft)
+The infusion of Mannoroth the Destructor's blood with the entities from your 100 Sacred Treasures has birthed a transformation of unparalleled might. All facets of their physical attributes has been enhanced by a factor of 2.5, this also includes their innate potential for overall growth.
+They are now totally immune against harmful magical influences. Adversarial spells are rendered impotent, including an immunity to all illnesses, diseases, and poisons. They are also now nigh-impossible to affect through psychic means, though they can still use magic or psychic abilities with great efficiency. In fact, their control and talent with it is even further augmented.
+If vanquished, they will now require only a period of 12 hours instead of 24 hours to be summoned again at full capacity.
+
+
+**The Three Musketeers**
+Cost: 15 SP
+
+The benevolence of fortune shines upon you as the goddess of luck bestows three intelligent humanoid pawns in your favor.  
+You hold the artistic freedom to craft their overall appearance and personalities. A telepathic link unites all four of you, fostering seamless communication and coordination, transcending any distance.  
+Each pawn specializes in one of the three major combat roles: DPS, Tank, and Support.  
+  
+Although starting at a weak power level—barely street level—these pawns compensate with an incredible innate potential for growth. As living entities, given sufficient time, with each battle, practice session, and experience gained, they manifest increasingly fantastical abilities tailored to their respective roles. For example, an end-game Support pawn could resurrect the dead, instantly heal fatal wounds, buff teammates, debuff enemies, dispel curses, cast curses, and much more. In terms of potential alone, your Three Musketeers stand unparalleled in their respective fields.  
+Sustenance and fatigue are of no consequence to your pawns. If vanquished, they only require a 24-hour period before reappearing in your general vicinity. Devoted solely to you, their loyalty is unwavering, impervious to any influence, even your own. In the event of your demise, the pawns will have a window of 72 hours to bring about your revival; failure to do so will result in their death as well.
+
+*Expy*
+Required:Template Cosplay
+
+Instead of just you having a template, each and everyone of your Musketeers have one template slot too. Besides just gaining the powers, skills and items of the template, they can also gain the appearance, memories and personality to varying levels, if you allow it. They may only have one slot but you're able to swap their template with a new one and they do not lose synchronization with it—not only that but it will be at the same progress if you swap them back.  
+These templates do not erase their initial abilities as pawns and runs parallel to their growth from that. Their slots and templates do not count towards your ability to gift others a single template every 24 hours, doing this as well will effectively allow them to have two templates active at once.
+
+**Copy-Fusion-Evolve**
+Cost: 25 SP
+
+This power is intricately linked to your soul, a unique force solely yours, akin to the semblances in RWBY. The power unfolds with distinct features and is governed by specific rules. When activated, it manifests as an interface visible only to you.  
+  
+The first feature is the Copy Ability, enabling you to replicate any power, skill, or bloodline encountered, though limited to one at a time. A prerequisite condition must be met to choose what to copy, ranging from friendship to overcoming a specific challenge. The copied attribute initiates at level one, necessitating training through real-life application or combat to reach level one hundred. Conditions may vary, such as defeating the source using a designated skill or surviving a confrontation. Skills encompass a broad spectrum, from weapon mastery to elemental resistance.  
+The second ability, Fusion, permits the fusion of two or more copied powers or skills. A preview of the resulting fusion and its effects is presented, allowing cancellation if undesirable. However, fusion entails losing the involved powers or skills, necessitating recopying, which resets them to level one.  
+The third ability, Evolve, comes into play once a power, skill, or bloodline reaches level one hundred. Upon evolution, it undergoes transformative changes, potentially becoming an entirely new power or skill. A list of possible evolutions is provided for your selection, or randomness can be embraced. Post-evolution, the new power or skill reverts to level one, demanding further leveling.  
+  
+Restrictions apply, allowing a maximum of 25 powers and 25 skills, with bloodline abilities counting as powers. Attempting to exceed this limit results in losing other elements, potentially including memories. However, the power provides the option to delete any unwanted power or skill, offering a degree of control over your acquired abilities. You will gain more slots over time through effort and dedicated training.  
+In the future, you will be able to share any power or skill you possess with those you trust or bond with.
+
+
+**VitaSync**
+Cost: 10 SP
+
+Magic runs through your veins. Your spirit is deeply tied to your bones. Your nerves carry psionic signals that your mind responds to. In all things, your body is something that could be considered a reflection of your abilities. Any time you bump into something esoteric or otherwise supernatural, you’ll find you have a little potential to use it that improve your body, which in turn allows you to improve your powers.  
+The way this works is that you carry an awareness of what parts of your body hold various effects, though generally, they will be lumped in with similar parts if viable. For example, the Force would grow just the same as any other psychic power through the improvement of your nervous system, despite the presence of midichlorians in your cellular structure. From there, you may work on your body to improve these capabilities however you wish, be it naturally, artificially, etc.  
+In general, the structure of your self-improvements to your own system will reflect the improvements your various supernatural systems gain. Take up a regimen that leaves your cardiovascular system more robust, and you'll find your magical abilities generally growing in breadth and depth in a controlled way, whereas if you give yourself a high-tech cybernetic heart to better circulate blood, you'll find your magic vastly faster to respond and more powerful, but with far less room to organically grow, for instance.  
+This power is not without risks, as significant damage to your body will tear at your ability to cast spells, channel your spirit, or focus your psionics to a proportional degree to the damage you take. It should be noted, however, that these very same things can provide a level of healing themselves, should you train them well enough - even to the point of a separated sample of blood bringing you back from the dead, after some time, or other such things. However, you will not have any special level of healing to begin with, just a slow, steady, human-level recovery rate.
+
+*My Body is a Temple*
+Required: Magic And Muscle (Mashle), or Conditioning
+
+Through VitaSync, the synchronicity between your body and your magic has been extended to all the supernatural systems you wield. Now, not only does strengthening your body result in your abilities becoming stronger, but strengthening your abilities strengthens your body in turn, resulting in your body and all your supernatural abilities constantly matching each other in might.  
+Additionally, if the bodily system carrying one of your supernatural systems is damaged, the rest of your body can now compensate in part. For example, the psionics in your nerves or the spiritual energy in your bones can support your magic in your veins if some of them are cut.
+
 
 
 # Trump Powers (Empowers Other Powers)
@@ -1154,26 +1239,154 @@ While you can direct the general shape of those changes, your power will also re
 It is recommended you give your power time to perform routine maintenance and optimizations between heavy engagements to avoid a buildup of mutation debt. If this debt becomes too high, the quality and reliability of mutation decreases due to the stress placed on your power.  
 This power works at a slower rate than _Dynamist_.
 
+
 **Idle Trainer**
 Cost: 10 SP
 Welcome to the realm of Idle Training, where you can gain the results of training while being a couch potato. With this extraordinary power, you can create a perfect virtual simulation of yourself training in your mind. Within this simulation, your virtual counterpart possesses the ability to train and learn any skill or discipline that you are capable of. By simply selecting the desired focus for training, the simulation engages in rigorous practice without rest, while the time within the simulated realm moves three times faster. Once you drop the simulation, you absorb all the benefits gained as if you had done the arduous process yourself, whether it's muscle, skills, expertise, and everything else, as if you had personally undergone the training.
 
 *Percolate*
 Required:108 Skills
-
 Armed with a copy ability that defies all logic, even a simulation of yourself isn't completely safe from imitation. While the simulation is running, you constantly gain 1/108th of the benefits that the virtual you gets from the training. This does not reduce the benefits you gain from dropping the simulation.
 
 *Idle Grinding*
 Required: Gamer System, (Trump) Gamer System
-
 Now addition to training a specific skill, power, attribute etc., Your virtual counterpart now has the ability to passively farm EXP in the idle trainer simulated realm.  
 You can choose to either manually spend the accumulated EXP yourself or have it automatically spend the EXP based on parameters you choose
 
 *World Simulation*
 Required:Survivor Simulation (10 SP)
-
 As an alternative to the white void, you may expend your daily use of Survivor Simulation to project your simulated self into a perfect, dynamic copy of the real world, starting from the present moment. This simulation runs three times faster than reality, allowing you to observe the immediate future unfold from your double's perspective and guide its actions in real-time. When the simulation ends, you absorb its complete memories and trained skills, and are granted a a single choice of five random rewards your simulated self earned, just as if you had completed a Survivor Simulation.  
 Naturally, you cannot use Idle Trainer nor Survivor Simulation inside the World Simulation.
+
+**The Chad Grindset Enjoyer**
+Cost: 5 SP
+
+You possess Joy of the Grind, an intuitive power that grants you a sixth sense to always know the best way to improve. Effortlessly, you discern the optimal strategies, skills, and actions required for self-enhancement and conquering challenges. Embracing the joy of continuous progress, you find fulfillment in the journey of growth and unyielding determination to become your very best.
+
+**Hunter of [Insert Target Here]**
+Cost: 10 SP
+You've become the ultimate Hunter, those who seek to pursue and eliminate specific foes with unwavering determination. By designating a target, the user gains an extraordinary boost in all aspects, as well as abilities tailored specifically to counter and hunt down their chosen adversary.
+
+Upon selecting their target, the wielder will feel a shift in their physical and mental attributes. Their strength, speed, agility, and intellect all receive a boost, empowering them to hunt their formidable foe. The user's instincts also sharpen to unparalleled levels, enabling them to perceive weaknesses and anticipate the enemy's moves with uncanny precision.
+
+However, this power requires the user to be near the target to stay active, within a range of 10 kilometers. The potency of the boost depends on the precision and strength of the designated target. Against broad categories like demons or vampires, the enhancement may be moderate, providing a 20-30% increase in abilities and a minor ability to counter the creature. Such as against demons, the user may gain the ability to imbue their touch with holy energy.
+
+But if the user designates a single, exceptionally powerful individual as their target, their newfound abilities and strength skyrocket. Their power can easily double or triple. Moreover, a suite of specialized abilities to pierce through defenses and exploit vulnerabilities is unlocked. This might encompass the ability to discern and bypass magical barriers, exploit elemental weaknesses, or even adapt in real-time to counter the target's strategies.
+
+Furthermore, this power grants the user a sixth sense, allowing them to always know the location of their designated target within a range of over 100 kilometers. This unparalleled awareness ensures they can constantly track down and confront their adversary, never losing sight of their pursuit.
+
+
+**Limit Breaker**
+Cost: 15 SP
+
+Limit breaks are the designation of techniques and abilities that go beyond the current limits of their user's capability. They are miraculous trump cards that only arise in moments of desperation, greatly swinging the tide of battle for the one able to pull them off. Now you too can use limit breaks.  
+You now have an internal pool of energy that slowly builds over time as you begin and continue to battle, which can be visualized as 3 gauges. The more intense the battle, the faster the bar fills up. When one of the bars fills up completely, you can amplify a single attack or ability by 5 times its original potency. The amplifications stack upon one another, so using 2 bars would boost the potency to 25 times, and using all 3 bars would boost the ability to 125 times its original potency.  
+  
+This boost in potency doesn’t only give a raw boost in power but also an additional modifier that the attack or ability did not have before such as a healing spell gaining the ability to resurrect the dead, a defensive ability granting invulnerability to all damage for a time or an attack gaining the capability to ignore all defense and becoming sure hit. The more gauges are used the more additional modifiers will be granted to the abilities.  
+The bar can only be charged up when engaging in combat but will not dissipate when the battle is over. This means you can save limited gauge energy for future encounters. While you start with 3 bars your internal pool of energy can grow over time with the use of limit breaks so you can gain additional bars as you keep using them.
+
+**Breaker of Chains**
+Cost: 25 SP
+
+You have shattered the shackles of impossibility and improbability, emerging as a force capable of achieving the extraordinary and defying the odds. What others deem impossible and unimaginable, you perceive as mere challenges to conquer. Destiny and fate hold no sway over you, for you are immune to their confines. Neither seals nor chains can ever confine you again. You shall never be ensnared or trapped against your will, effortlessly breaking free from any hindrance that obstructs your path. Your potential for growth knows no bounds, and any limitations imposed upon your abilities can be shattered through perseverance and the passage of time.
+
+**We are live in 1, 2, 3.**
+Cost: 20 SP
+
+You are a streamer baby. you gain the ability to broadcast your POV whether it be in first or third person directly not only to the internet or any equivalent there is in the current world you are in but also to the wider interdimensional internet which allows you to broadcast from one universe to the next without any problem your broadcast can not be blocked digitally nor can anyone prevent other digital device from accessing your broadcast.  
+When people felt entertained or engaged with your content you gain a stream point which could be exchanged 1 for 1 with USD or any currency with equal value, You could also use stream points to purchase items and abilities or upgrade what you already have at a rate of 10000 points per 1 SP. You could also receive donations from your viewer gaining 1 stream point for every dollar they give.  
+Hopefully, you got a colorful personality and are fun to watch. Oh, and make sure to not let all of that overinflate your ego.
+
+**Promethean Ichor**
+Cost: 10 SP
+
+Your heart has crystallized itself, becoming indestructible and eternal. No longer is it mere blood being pumped throughout your body. Through your veins runs your life force condensed into an impossible form, the Prima Materia, an iridescent golden ichor. You have surpassed the realm of men, breaching into a new level of existence.   
+Due to your heart's transformation, your ichor constantly seeps into your mind and body, enhancing it, improving all aspects of yourself, and granting you endless mental and physical stamina, allowing you to function at your best indefinitely. You are able to direct your life force through your heart, allowing you to improve yourself at the cellular level. Nothing is impossible with enough experience and dedicated life force. Your mutations will be manageable and never will negatively impact each other.  
+  
+Your human imperfections will be burnt away, allowing you to progress beyond human limits with enough dedication to your actions. Igniting your heart's power fills you with divine inspiration as you burn away your imperfections, enabling you to improve through means of regression to perfection. Finding balance will come with time, knowing when it is best to start with a fresh slate and proper comprehension. Every time you regress you set yourself up for a better future learning faster depending on how many times you've burnt out the impurities of your actions.  
+Your life force lets you heal from scrapes and wounds instantly, while regrowing fingers in minutes, and arms and legs in hours. You will never have to worry about old age, for you have undergone an ascension, putting you among the immortal ones for as long as your heart beats true. Your healing is perfect, always restoring you to your best.  
+Whenever you do not actively wish to keep your ichor outside your body, the Prima Materia will shift into liquid lead, unconnected to your existence.
+
+**Forged In The Trials of Combat**
+Cost: 10 SP
+
+Your power now grows rapidly whenever you engage in combat. The harder you push your limits, the faster your fighting capabilities develop in both potency and mastery.  
+In battle, connections form in your mind more quickly. Techniques you have just learned, even unfamiliar ones, swiftly become second nature. As you seek ways to counter your opponent, new uses for your existing power will emerge, with inspiration and epiphanies rushing into your mind.  
+With this power, a friendly sparring session can be more effective than a week of regular training. A life-or-death struggle, where death is almost certain, would enhance both the potency and mastery of your power, as well as your battle IQ, equivalent to a year of intense training.
+
+**Monster of Desire**
+Cost: 10 SP
+
+You become a monstrous being truly driven by its own desires. When you gain this power, you must pick an obsession to be your primary desire (or simply let your naturally strongest desire take over) and revel in it, which will slowly make you better and stronger, improving your core being and all of your powers.  
+Simple indulgence like lazing around like a sloth or satisfying your vanity by taking selfies will benefit you, but at a quite slow rate. But when you become truly depraved, you and your powers will rapidly evolve as you rob a bank out of greed, slaughter a group of criminals for justice, kill the entire family of your enemy out of jealousy, and revel in the high of becoming greater as you conquer everything you dreamt of.  
+Not all desires are inherently evil; after all, one can become a monster of justice and benevolence just as easily as any other "sin”.  
+  
+The more absurd your actions and the more you ride the high of your own excitement, the more your powers evolve and restrictions lessen. When you truly outdone yourself riding the manic ecstasy of your self-indulgence, you can even reach enlightenment, unlocking transformations massively amplifying and evolving your entire power kit, even developing new secondary powers.  
+  
+Meanwhile, you will always beholden to your primary desire, and as you discover more of it, you can branch out to any connected vices. After all, you can satisfy your pride by being a perfect paragon of justice while also being a proud owner of the finest collection of wines. And truly, is there anything humanity can’t lust for?  
+But this comes with the drawback that your satisfaction is always temporary. You will always dream of greater ecstasy, chasing a new experience like a deep abyss of sweet temptation, which drives you to dive deeper and deeper, making your potential to evolve and grow more powerful truly endless. Your ability to indulge is limitless, as whatever your primary desire is, it can always become better, more and _more_ and _**more**_ and _**MORE**_…
+
+*Unleashed Monstrosity*
+Required:Innocent Monster (Type-Moon)
+
+_The Ugliest Flower_  
+You revel in your monstrous reputation, which no longer affects you in your everyday life as you are in peace with your own desires and actions, allowing you to keep up your normal appearance. But your awful power is not lost. When you embrace your own reputation or are in great distress, it will make you undergo a new transformation, showing the world what they believe you to be and removing all mental inhibitions that would stop you from fulfilling your desires, turning you into a true monster. This transformation is only undone if you are truly defeated or if the goal that made you transform is achieved.
+
+*Self-Indulgence of Desire*
+Required:Cursed Energy Manipulation (Jujutsu Kaisen)
+
+As a sorcerer your mindset can no longer hold you back, just like how Satoru Gojo has an absolute belief in his own invincibility you have the same confidence in your own boundless desires. This will allow you to advance and experience rapid breakthrough in all jujutsu techniques you have, your growth can never be stunted as you will always desire to be greater than before.
+
+*Prime Desire*
+Required:Prime Soul (ULTRAKILL)
+
+Your willpower joined your desire in an unholy coalescence, creating a corrupted but much more powerful driving force. Now, when you die, you will experience everything you’ve done to indulge in your primary desire in a single moment, fueling and evolving your manifested soul form, making it more powerful depending on the amount of indulgence you experienced during your lifetime. Because of this fusion, you can fuel your willpower by indulging in your primary desire, so as long as you stay true to yourself, your will is unbreakable!
+
+*Creature of Sin*
+Required:Half-Devil (High School DxD)
+
+Your primary sin as a devil will synergize with your primary desire, which allows you to grow your demonic energy quality and quantity through indulgence. Your power of imagination-based spells will also greatly increase in both efficiency and potency if it serves your desire. Through multiple transformations, you might even achieve a final form comparable to Sirzechs Lucifer’s true form through sheer monstrous desire, even without any bloodline power to assist you.
+
+*Awakened Monster*
+Required:Awakened Origin (Type-Moon)
+
+If you choose to have the same origin and desire, then you are no longer limited to the improvement and evolution of your existing powers; now, out of sheer desire, you can develop new powers. Gain enhanced senses to stalk your prey in your ravenous gluttony, obtain super strength to satisfy your pride, or possess the power to imprison a creature in a seal, enacting your personal justice. Now there is nothing you cannot do; the question is, is your desire great enough for it?
+
+*Secondary Obsession Drive*
+Required:Negative Emotion Drive (Magical Girl Tyrant Sylph)
+
+Now you are not only fuelled by negative emotions, but you can also create and store energy from your own primary desires. This secondary stockpile can only be unleashed when you are already under the effect of the Negative Emotion Drive, mixing your desire with the already present negativity, creating an even more potent driving force and also driving you into a frenzy of your darkest desires.
+
+*Monster of the Grind*
+Required:The Chad Grindset Enjoyer
+
+Your need for indulgence has been replaced with the Joy of the Grind, creating a powerful feedback loop of indulgence. The more you indulge, the more you improve, the more you improve, the more you indulge. This massively increases the benefits gained from pursuing your desires, allowing any indulgence, no matter how small, to provide a feeling of improvement.  
+No longer do you chase desire with withdrawal but with the thrill of being one step closer to becoming your very best.
+
+**The Honored One**
+Cost: 20 SP
+
+From the moment you entered the world, the definition of power was forever redefined.  
+Your rise to be the strongest is almost inevitable, with the only thing capable of stopping you is if you slack off on your training, or an early demise. This power is accomplished through incredibly fast and virtually unstoppable growth, for you are him. You are the exception, the coincidence, the thing that shouldn’t happen yet it does. Yet, one day, your ascent will slow as you encounter three profound hurdles on your path to being the strongest. Each hurdle will challenge you more than you would expect, but overcoming one will grant you a surge in power and accelerate your growth even further, with each hurdle being more potent then the last.  
+  
+First hurdle: The Depth of Resolve  
+What will you sacrifice for power? How much are you willing to sacrifice to be the strongest? Perhaps family, or a bit of your sanity? Sometimes the desire of power demands an obscene amount of sacrifice. Will you meet its demands and make the sacrifices that must be made, or will you demand freedom of choice?  
+  
+Second hurdle: The Acceptance of Self  
+Every individual is unique, and uniqueness brings flaws. You must embody your true self to the highest degree, otherwise what is the point in existing? If you are a hypocrite, you must accept your hypocrisy and revel in it. If you are a warrior, then you must bathe in blood and stand above the corpses of your enemies. You must accept every single aspect of yourself, or change your true self until you embody the ideals you desire.  
+  
+Third hurdle: The Pinnacle of Strength  
+“Throughout Heaven and Earth, I alone am the honored one.”  
+You do not chase for power, power chases you. Your strength is true, not because it towers above others, but because it stands unshaken by doubt. Arrogance isn’t what you possess—it's in knowing who you are, even when the world trembles in rejection. Yet now comes the ultimate question: What does it mean to be the strongest? In isolation, when there is no audience to witness, no foe to vanquish, and no accolades to earn, what does it mean to be the strongest?
+
+*Royalty*
+Required:The Sanctioned Action (Kill Six Billion Demons)
+
+“There is only one step on the path to royalty. It is the idiot’s step, and it stretches to the horizon.” -Ya’at Death Poem  
+You have achieved what could be considered both the hardest and easiest feat possible: understanding the true name of God and reach a state of being, attained by few throughout the history of the Wheel—true Royalty.  
+You have mastered yourself entirely, attaining self-mastery, self-acceptance, and self-actualization to become the king of your own being. This level of self-realization grants you absolute freedom from all outside influence, even from the bounds of reality itself.  
+You have forged an invincible sense of self and an unbreakable will, impervious to any force. Not even the strongest mental assaults, the most seductive illusions, the pain of unbearable torture, unfathomable eldritch truths, or cosmic shattering revelations can leave a trace on the tower that is your mind.  
+The three hurdles designed to slow your progress have effectively ceased to exist, as your current state has far surpassed the challenges they present. This fuels your unstoppable growth even further accelerating your already rapid advancement to an exponential degree, transforming you into a continuous cutting motion that moves ever forward to your intended destination.
 
 
 # Beauty & Charisma Powers
@@ -1201,10 +1414,141 @@ These talents must be something your species can be born with or aquire. They mu
   
 In all things tied to rule and refinement—command, diplomacy, art, bearing—you move with a native ease, as if born to embody these things.
 
+## Foundation
+
+**The Great Man Theory**
+Cost: 15 SP
+
+You are not one to rely on ancestral powers or borrowed abilities. Instead, you possess an innate and extraordinary power that sets you apart as a natural genius and modern-day Great Person. This power is uniquely yours, always active and under your complete control. It is a reflection of your own capabilities and achievements, unrestricted by any external influences or compulsions.  
+  
+As you accomplish great feats, your accomplishments themselves transform into incredible abilities. The magnitude of your achievements determines the power you gain. Whether it be changing the world through revolutionary discoveries or leaving a lasting impact on society, the greater your accomplishments, the more immense your bestowed abilities become. Strangling a hundred individuals may grant you supernaturally strong arms, while reshaping the world with the popularization of easy electricity use could empower you to unleash lightning that can glass an entire continent.  
+  
+In addition to your unparalleled intellectual prowess, your mastery of martial arts transcends the limits of what is considered possible, allowing you to defeat highly trained operatives effortlessly, regardless of their supernatural abilities. Your strikes bypass esoteric defenses and supernatural shields, leaving your opponents unable to negate the impact of your devastating martial moves.  
+  
+Moreover, your innate charisma and intuition enable you to assemble a formidable team. You possess an extraordinary talent for identifying individuals who share similar traits, powers, skillsets, or even partner preferences. Even among the rarest occurrences, you can swiftly locate those who possess parallel abilities and effortlessly persuade them to join your cause, provided they are not already affiliated with a rival group. The world bends to your will as you effortlessly gather a group of like-minded individuals with whom you can achieve greatness.
+
+# Tinker/Tech/Artifice/Item Powers
+
+## Foundation
+
+**Terrestrial Inventory**
+Cost: 20 SP
+
+You gain access to the _Terrestrial Inventory_. This power allows you to summon almost anything you can imagine and store it in a dimensional pocket—be it mundane, supernatural, all the way to the metaphysical, you can summon any item in the known omniverse, providing you have the energy.  
+  
+To summon an item, you have to use energy which you slowly accumulate. By default, you gain enough energy to summon an item worth 5SP per day. This energy is stored if not spent which you can use to summon objects worth more.  
+  
+You have a mental search that allows you to search for specific items. When looking at items from this list, you gain a description of what it is, what it can do, how powerful it is, and what restrictions it has as well as its side-effects.  
+  
+When not in use, you can store anything you summon in a special pocket dimension by touching it again.  
+  
+Note: As actual 'SP' usually scales exponentially, the amount of energy you would need to save in your pool to create something worth '20SP' wouldn’t be 4 days but closer to 14-20, with an even longer wait to something worth '30SP' and higher.
+*Fictisummon*
+Required:(Trump/Striker) Fictiportation
+With the theoretically-unlimited-but-slow Inventory, you can now use the charge from Terrestrial Inventory to supersede the PRT Rating 10 limit from _Fictiportation_.  
+Naturally, as only a certain category of items would eclipse this power, it functionally lets you ‘budget’ charges to succeed your limits.
+
+*Dead Artificer Society*
+Required:The Celestial Workshop
+Thanks to the Inventory, you can breathe life into your creations permanently.  
+Anything you create with the _Celestial Workshop_ can be created through the Terrestrial Inventory for half of the energy it would usually require to produce, though it is required to be fully completed within the Celestial Workshop before you get this ‘discount’.
+
+*Inventory of Wonders*
+Required:Collector of Wonders
+Through the _Collector of Wonder_, any item summoned through the _Terrestrial Inventory_ will manifest within _The Celestial Workshop_, appearing as though you crafted it yourself.  
+Furthermore, the Right of Ownership will extend to all items summoned through the Terrestrial Inventory. You can also teleport any item created or summoned via _The Celestial Workshop_ or _Terrestrial Inventory_ into your pocket dimension, regardless of distance.
+
+**Tinker of Fiction**
+Cost: 25 SP
+
+You gain the ability to build technology from fictional worlds. Worlds where the technology requires a specific energy source or materials will give you knowledge on how to make that material using what you have, or produce that energy with specially designed equipment. You fully understand the mechanics behind the technology and can iterate or build upon it as you feel like.  
+Technology trees are split into up to ten tiers depending on how much depth they offer. World with multiple distinct technology trees need to be purchased individually (Endless Space would have a tree for each faction for example).  
+Each week (or 168 earth hours), you gain one charge which can be used to either purchase a new random technology tree at first tier or raise the tier of an existing one. You can only have on tree active at once, you can choose which tree you will have active for the next day but cannot change during the day, the change happens at midnight.
 
 
-## Tinker/Tech/Artifice/Item Powers
+**Gudako!**
+Cost: 50 SP
+
+You have the ability to randomly get a single 'item', 'power' or 'person' of significance in fiction per 'roll'. They generally manifest in form of cards which you can use to summon them, however you may choose how they manifest. Other than the above specified items, you can also get power boosting and weakness removal cards which you can use for both yourself and your summon. The rarity of the card determines how bad a weakness can be removed. Any changes to the world caused by this power is retroactive and would not cause any suspicion among the residents of the world.  
+Any powers or items you get work no matter what universe you are in. Similarly, people summoned by the gacha also have their power unchanged. The people summoned by the Gacha while not completely loyal to you, are willing to work with you if you don't go too much against their principles (your relationship with them is similar to Master-Servant relationship from Fate).  
+  
+You also possess three command seals (refreshed daily) that you can use to give them an absolute order. Any item you get from gacha repairs itself with time if broken, with stronger items taking more time for repair. Any summoned person who died can only be resurrected with the use of resurrection card (that you may get from gacha) or some other resurrection power. This power by itself doesn't have any innate ability to resurrect them.  
+You get a single gacha point daily and can get more when you defeat your enemies, interact with people important to plot and complete or change plot points of your world. The number of points you get varies from one to ten, depending upon the power of your enemies, importance of the person in plot and how major plot points you have completed or change. An example being preventing Scion from destroying earth will give you ten points. Similarly meeting the protagonist will also give you ten points because of their central role in the story.  
+The tiers of your items, summons and powers are: F, E, D, C, B, A, S, SS and SSS with F being Junk items, E being an item like "always filled water bottle" and SSS being top tier divine abilities and authorities (taken into account that you are a non-powered mortal). If you roll five junks (F tier) one after another, you get a pity point, preventing you from getting a junk in the next roll.  
+Your power generally manifest in the form of a HUD, where you can spin a wheel to get your items. Or you can freely design how it appears.  
+(You may choose to not absorb the power you get from Gacha and give it to someone else. You may also choose to give the items you get to others. However, any power or item you get from this Gacha, will never be able to hurt you. The rate of getting items from higher tiers decreases exponentially from F tier, with SSS tier having the lowest probability. The items and power you get from the Gacha varies depending on your base power level, such that no item or power is totally useless to you (except if you roll F tier). The probability of getting same items or powers is extremely low, and in case you get the same item or power, you can sacrifice one of them to strengthen the other.)
+
+*Whale IT!*
+Required: The Celestial Market (World Seed Jump - Anon303)
+
+With the Celestial Market, you've just unlocked an exciting new feature called the Cash Shop for Gudako!. By spending CC, you can purchase a variety of items designed to enhance your experience and support Gudako! such as reducing the repair timer, acquiring powerful support cards (such as resurrection and weakness removal), buying additional Gacha points, unlocking costumes for your summoned persons, buying gifts for your summons to increase their affection towards you, and even activating new features for Gudako! such as a dorm room for your summons to reside which will increase their affection, and accelerates their recovery.
+
+*Essence Of The Gacha (Meta Essence CYOA)*
+Required: Template Cosplay
+
+You have the ability to randomly summon one important item or person from fiction per roll. These entities appear on cards that can be summoned, but once summoned, they cannot revert back. You have access to a list of all cards and options to narrow your search. Cards can enhance summoned items, people, or yourself, but they are destroyed in the process. The strength boost depends on the card’s rarity, based on the being's or item’s importance. additionally you can treat character cards as template options above the current strength restrictions for template choosing.  
+Summoned items will always function regardless of the universe and remain in perfect condition. They can only be used by you unless others have your permission. Items with resources, like energy or ammunition, are infinitely supplied but can't be siphoned. Summoned people will be loyal, cannot harm or kill you, and will always be restored to full health if injured. They may disobey orders they dislike, as long as they don’t involve you directly.  
+You form a bond with each summoned person, starting at level 0 (stranger) and rising to 10 (total devotion). You receive 1 gacha point per day, with the option to buy more at $1 per point, up to $100 a month. There are three gacha modes: the first lets you spend 3 points for a guaranteed 3-star card, with a chance for 4-star or higher, or 30 points for 10 cards, including at least one 3-star and one 4-star card. The second mode offers 10 free cards per day, limited to 1-3 stars. The third mode lets you summon items and people from your current universe, costing 6 or 60 points, with a minimum of 4-star cards. This mode works only if the universe has 4-star or higher cards available. You may decide how this Essence manifests.
+
+*Infinite Gudako!*
+Required:Infinite Gacha (Mugen Gacha Level 9999)
+
+With the Infinite Gacha, you draw energy from both the environment and within yourself to create gacha points. In a low-energy or magic-less environment, a normal person can only generate about three normal gacha points per day before becoming exhausted.  
+  
+However, you can also adjust the energy you invest in each gacha point, allowing you to influence both the quantity and quality of the cards you receive. Spending less energy per point lets you generate more points but confines you to common rank rolls such as E-rank or F-rank rolls. On the other hand, investing more energy increases your chances of obtaining high rank rolls like A-rank or even SSS-rank rolls with your points. Additionally, you can choose to focus a gacha point on one of three categories—items, summons, or powers, but doing so significantly raises the energy cost per point.
+
+**Gacha Hunter**
+Cost: 10 SP
+
+As a Gacha Hunter, your victories over enemies may yield exciting rewards in the form of mystical cards. When broken, these cards have the potential to grant you a wide array of skills, powers, or items related to the enemy you defeated. Whether it's acquiring the world-ending blade of a Demon Lord or gaining the culinary expertise of a Master Chef, the possibilities are endless.  
+  
+However, obtaining these valuable cards is not guaranteed. The chances of acquiring a card greatly increase when you defeat enemies near your own level or even stronger opponents. Therefore, prepare yourself for epic battles against formidable foes, as they are more likely to bestow upon you a chance to get powerful and rare cards.  
+These cards can hold immense worth in the world, as apart from enhancing your own capabilities, you also have the option to trade or sell them to interested parties. Play it right and the market value of these cards could become astronomical, and even a handful of them can bring you immense wealth and recognition.  
+It's important to note that you can even gain cards from repeatedly defeating the same enemy. However, there is a 24-hour cooldown period before you have the chance of obtaining another card from that particular enemy. This adds an element of anticipation and strategy to your hunts, as you must carefully plan your encounters and manage your resources.  
+Embrace the thrill of the hunt, seize victory over your adversaries, and unlock the vast potential hidden within these coveted cards. May your journeys be filled with exhilarating battles and bountiful loots!
+
+
+# Thinker/Skill Powers
+
+
+## Foundation
+
+**Universal Aptitude**
+Cost: 5 SP
+
+Your Universal Aptitude allows you to comprehend any skill, practice, or discipline, in the universe no matter its complexity. From the simplicity of juggling to the depths of ancient magic, and even extending to reality-bending or cosmic manipulations, there is no limit to what you can learn. This ability enables you to master concepts that appear mutually exclusive, showcasing your extraordinary ability to absorb and understand even the most esoteric subjects.  
+  
+This aptitude ensures you can achieve a novice level of proficiency with ease across any field. As long as you have teaching materials or examples of the practice/skill you can easily grasp the basics in no time. However, progressing beyond this initial stage demands more than this natural talent alone; it does not offer any shortcuts to advanced expertise.  
+  
+Additionally, while your aptitude spans all subjects, it doesn’t grant you the specific energies, physical conditions, or capabilities needed to fully utilize these powers. Even if you have an aptitude for it you can’t use the practice or skill if you don’t have the requirements to use it. For instance, understanding the principles of shard powers is one thing, but wielding them without the requisite shard biology is impossible. Your aptitude is tied to the rules of the universe you inhabit, your power's foundation is rooted in the norms of the world you first appear in. To extend its reach, you must reside in a new universe for at least 6 months, after which your aptitude will adapt to encompass everything within that realm as well.  
+The journey to harness your full potential rests solely in your hands.
+*Curiosity Catalyst*
+Required: The Chad Grindset Enjoyer
+
+The Joy of the Grind alongside your Universal Aptitude has fused to create the Curiosity Catalyst. This fusion has ignited within you an unstoppable enthusiasm for all the universe has to offer. Whether it's the intricacies of coding, the profound depths of the Dao, or the arcane secrets of magic, your curiosity for learning knows no bounds. Your pursuit of knowledge has transcended superficiality, allowing you to delve into each subject covered by your aptitude with passion. Your mind is a constant whirlwind of discovery, always asking questions, seeking answers, and leading you to breakthroughs and innovations.  
+The universe is vast, and your thirst for its knowledge is endless. You will never tire of learning about its wonders. You may turn off the Curiosity Catalyst at any time you wish, and it will never negatively influence your mental state, so don’t worry about becoming a mad scientist.
+
+**A Step Beyond**
+Cost: 7 SP
+
+Any skill you may have, be it cooking, martial arts, or even walking, can be pushed beyond the level of mundane, all while remaining mundane in nature. The more often you use a skill, the better it gets, taking the skill to its logical extreme. Casually cooking a few times a day will result in your cooking dramatically improving, reaching the level far beyond any mundane cooking in a year. Actively practicing and learning to improve a skill will drastically increase the rate of its improvement.  
+With enough time and effort, your cooking could cause even the most vicious demons to be kind, your martial arts could defeat armies, or you singing can bewitch fairies. Just note that you may reach bottlenecks at times, as it will require certain mindsets or understandings to further improve a skill.
+*A World Beyond*
+Required:The Chad Grindset Enjoyer
+
+Engaging with life's basics fuels a deep understanding, elevating you beyond mere observation to an intuitive grasp of reality.  
+  
+This enlightenment enhances every skill you possess. For instance, in cooking, after a year of casual practice, you don't just follow recipes; you blend flavors with an instinctual mastery, creating dishes that defy convention, perhaps even granting immortality.  
+This enlightenment permeates all your abilities, whether in art, music, or combat, elevating them to miraculous levels. Ultimately, you embody the limitless potential of human experience, constantly reshaping reality with each action.
+
+*Existence Beyond it All*
+Required:VitaSync
+
+As you journey through the vast expanse of existence, every facet of your being undergoes a metamorphosis, evolving in tandem with your deepening understanding of reality.  
+Your abilities, honed by passive observation, transcends its very nature, fortifying your body, sharpening your mind, and enriching your soul. Each passing day enriches the tapestry of your existence, empowering your physical form to ascend beyond the bounds of mortality. Your flesh becomes impervious, your beauty irresistible, and even the resonance of your voice carries a potent sway over those who hear it.  
+This evolution is not instantaneous, requiring the patient passage of time to unfurl its transformative magic, yet diligent training and profound introspection can hasten its pace, unlocking untold potential within.  
+So it begins, the Apotheosis.
 
 
 
-
+# Bottom
