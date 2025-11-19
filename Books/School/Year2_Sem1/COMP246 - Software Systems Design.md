@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Nov 11 2025 09:53:15 GMT-0500 (Eastern Standard Time)
+lastSync: Tue Nov 18 2025 09:39:35 GMT-0500 (Eastern Standard Time)
 tags:
 ---
 # Week 1 Class 1 (Sept 2)
@@ -174,17 +174,16 @@ Web Design Pyramid
 5. UI/UX design
 
 
+# Week 11 Class 1 (Nov 18)
 
+Half can present, half can be there to answer questions
+Final Exam: Tuesday (Last Week)
 
+**Design Patterns**
 
+*Singleton:* Ensure a class only has one instance
 
-
-
-
-
-
-
-
+Facade: 
 
 
 

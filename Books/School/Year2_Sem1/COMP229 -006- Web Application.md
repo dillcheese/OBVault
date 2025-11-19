@@ -910,12 +910,48 @@ vite.config.js
 
 Many sites to deploy apps
 
-
-
-
-
 ### Class 2
+Work time for group project
+
+## Week 11
+
+### Class 1  (Nov 17)
+
+CI/CD (Continuous Integration/ Continuous Development)
+
+End to End Tests:
+
+
+**Integration Tests:** Test the entire behaviour of the system
+
+**Unit Tests:** Tests code for small isolated pieces  (single function)
+
+Lint: checks for unnecessary imports, unused variables etc.
+
+Playwright: Testing Framework/Software
+
+1. Cross Origin Testing
+2. 
 
 
 
-Week
+
+## Week 12
+
+
+
+## Week 13
+
+
+## Week 14
+
+
+
+
+
+
+
+
+
+
+

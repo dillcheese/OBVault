@@ -1,5 +1,5 @@
 ---
-lastSync: Mon Nov 10 2025 10:37:42 GMT-0500 (Eastern Standard Time)
+lastSync: Mon Nov 17 2025 11:32:23 GMT-0500 (Eastern Standard Time)
 ---
 # Java 
 2 MCQ (midterm and final, 5% each for a total of 10%. Closed book)
@@ -144,7 +144,37 @@ Integration of Java with databases
 
 
 
-Week 10: Write Java Applications - Database Records
+## Week 10: Collections/ Arrays  
+*Write Java Applications - Database Records?*
+
+generate Arrays: are typesafe
+
+non generate: can push any type
+
+ArrayList (FIFO)
+ArrayList cars = new ArrayList();
+cars.add(321)
+cars.add("bmw")
+[321, bmw]
+
+
+enhanced for loop 
+for (String i : cars)
+
+**Queue** 
+
+
+
+**Stack**
+
+Stack Integer> stack = new Stack  Integer>> ();
+
+
+**LinkedList**
+	
+
+
+
 
 
 Week 11: Multithreading

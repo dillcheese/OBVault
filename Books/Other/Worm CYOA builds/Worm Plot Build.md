@@ -1,5 +1,5 @@
 ---
-lastSync: Sun Nov 16 2025 21:08:29 GMT-0500 (Eastern Standard Time)
+lastSync: Wed Nov 19 2025 00:52:12 GMT-0500 (Eastern Standard Time)
 ---
 
 # Base Build
@@ -781,6 +781,31 @@ Through VitaSync, the synchronicity between your body and your magic has been ex
 Additionally, if the bodily system carrying one of your supernatural systems is damaged, the rest of your body can now compensate in part. For example, the psionics in your nerves or the spiritual energy in your bones can support your magic in your veins if some of them are cut.
 
 
+**The Study of Laws and Concepts**
+Cost: 20 SP
+
+You possess the rare ability to study and realize the Laws and Concepts that underpin all of existence. These represent various aspects of reality, such as Thunder, Fire, or even higher concepts such as death. Most beings, like gods, hold a limited degree of control over specific Laws or Concepts. For example, a deity like the Raiden Shogun may command 50% control over the concept of Thunder. Beings with higher control can often exercise their mastery unrestricted, even over others who share lesser control of the same Law or Concept.  
+  
+However, your ability is unique. You can study any Law or Concept, gradually going from powerless to being able to use powers or abilities based upon the percentage of the law or concept that you have learned. Through study, your mastery over the chosen subject grows, granting you new powers tied to that domain. Once you reach 100% mastery of a Law or Concept, you achieve its Truth, unlocking 10% true control of it. This allows you to apply that Law or Concept across different worlds. If you ascend further to 100% Truth realization, you gain full omniversal control, wielding the power to shape reality at the highest level.  
+  
+For instance, by studying a concept such as Solid or Sharp, you can manifest its principles in versatile ways. You might combine it with other Concepts, like Fire or Barriers, creating entirely new applications. Once mastered, these powers grow exponentially stronger, enabling feats such as defeating powerful beings or achieving seemingly impossible goals. You can also combine your concepts with each other to create unique effects, or even create a true fusion expanding the power of your concepts greatly, true fusions will be harder to achieve just not impossible.  
+Some Laws and Concepts are inherently more challenging to study and master. Examples include Higher laws and concepts such as Finality, Death, Life, Dreams, Infinity, and Kabbalah's Tree of Life, they will just take a long time to study, master, and eventually realize the truth. However, any Truth you realize significantly enhances your abilities, empowering you to challenge even divine beings.  
+  
+You can study up to three Laws or Concepts simultaneously, with the option to pause progress on one and switch focus as needed. Additionally, delving into forbidden knowledge, such as the domains of Outer Gods, comes with risks. These forbidden Laws and Concepts may have profound effects on your being, abilities, and even your sanity.  
+Approach this journey with caution. The deeper your understanding, the greater your power—and the higher the stakes.
+
+*Idle Study Partitions*
+Required: Idle Trainer, or Archive
+
+Your ability to study laws and concepts has evolved. You can now create "Study Partitions," which passively study your chosen laws and concepts while you do nothing or even while actively studying another law or concept. This allows for continuous progress without needing to pause or switch focus. Initially, you can create two partitions, with an additional partition becoming available each year. However, overusing this ability may strain your mind, so caution is advised.  
+As you add more partitions and accumulate knowledge, a vast simulated world—the "Library of Knowledge"—will take shape. This library reflects the depth of your studies and serves as a testament to your progress. Within this simulated world, mastery and understanding of laws and concepts are accelerated. Instead of directly experiencing these concepts yourself, your alternate self within the study partition absorbs the brunt of the experience. Also with each new partition created the strain on your mind will be reduced as you get used to the current number of partitions.  
+By using "Idle Trainer" or "Archive" you can summon simulations of beings who possess mastery over your chosen concepts. These beings may include experts in abstract disciplines, such as a master of martial arts like "The Edge of Taixuan." Learning from these simulated teachers allows for faster progress in your studies. The more teachers you summon who specialize in a single concept, the quicker your learning rate for that particular law or concept.  
+Over time, your study partitions will naturally generate new attacks and powers derived from the vast archive of knowledge within the simulated world. These innovations provide practical applications for your studies, enabling you to advance not only in understanding but also in skill and capability.
+
+
+
+
+
 
 # Trump Powers (Empowers Other Powers)
 
@@ -1387,6 +1412,55 @@ You have achieved what could be considered both the hardest and easiest feat pos
 You have mastered yourself entirely, attaining self-mastery, self-acceptance, and self-actualization to become the king of your own being. This level of self-realization grants you absolute freedom from all outside influence, even from the bounds of reality itself.  
 You have forged an invincible sense of self and an unbreakable will, impervious to any force. Not even the strongest mental assaults, the most seductive illusions, the pain of unbearable torture, unfathomable eldritch truths, or cosmic shattering revelations can leave a trace on the tower that is your mind.  
 The three hurdles designed to slow your progress have effectively ceased to exist, as your current state has far surpassed the challenges they present. This fuels your unstoppable growth even further accelerating your already rapid advancement to an exponential degree, transforming you into a continuous cutting motion that moves ever forward to your intended destination.
+
+**Ringbearer**
+Cost: 20 SP
+
+Hail, Ringmaker/Ringbearer. Hail to that who hold the words.  
+  
+As ringmaker, you have a singular ability: you can summon a single ring each month. Multiple of these rings can be summoned at once should multiple months have passed. Similarly, you can recall a ring into yourself to be reproduced, no matter how far from you it may be or who is wearing it.  
+  
+The rings themselves are more complex. Their primary purpose is to be gifted to others; to this end, they vary in form, shifting in size and shape to fit the taste of whoever is their ringbearer.  
+  
+The Rings’ most visible ability, however, is enhancement. While a ringbearer wears it, you can enhance any abilities they may have as if 20SP were given to them. This includes giving them new attributes or powers as long as you yourself already possess them.  
+  
+The flow of this energy is not one-way, however. The ring’s main function is to supplement yourself with others, allowing you to duplicate their own attributes and abilities as long as they wear your gift. For example, a Pyromancer wearing your gift to unleash torrents of hellfire would, in turn, grant you their prior level of proficiency in the magic before the ring’s enhancement.  
+  
+Finally, the ring’s most insidious facet. The more a Ringbearer wears a ring, the more their will begins to defer to your own. When coupled with the implicit loyalty required to receive their new power, very few will be willing to openly defy their Ringmaker.  
+  
+You can wear your own rings, but they will be reduced to half of their usual potency.
+
+Shackle
+
+Required:A Warrior's Bond
+
+Thanks to your understanding of the Warrior’s Bond, you’re able to transform individuals into Rings instead of using your own well of energy. While transformed, they are almost identical to other Rings, but both lightly affect the personality of the wearer, and require a clash of wills with their wielder, as they usually would if transformed unwillingly.
+
+Lesser Amendments
+
+Required:Ten Commandments
+
+Your spheres and their workings have impacted your ring making. Your Rings can now act as ‘lesser’ spheres of our own, being of roughly half the potency of your ‘real’ spheres.  
+  
+The rings cannot be imbued and must be worn, but otherwise act as conduits of Destruction, Alteration, and Creation. They are also subject to your Thinker abilities as a result.
+
+Adornment
+
+Required:Alloy Fusion
+
+You can use your Alloy pool to fuse rings, combining their potency in all factors.
+
+Long Distance Engineering
+
+Required: Engineer, Builder, (Trump/Tinker) Shards, (Trump) Shard Supply Store, or Pramant
+
+Your rings now function as tinkering nodes for your other powers, allowing you to modify and enhance granted abilities as if they were an extension of your own power. Each ring, when given to others, act as 20SP nodes that you can reconfigure at any time or distance, without the wearer’s awareness or consent.  
+  
+As a result, you are not restricted to giving or enhancing powers you already possess or those thematically linked to the wearer. A ring can now give any ability you can create, creating a possibility for diverse and adaptable power set for any user.  
+  
+Additionally, you can remotely reconfigure, weaken, or fully disable a ring’s enhancements at will. The ring’s influence over its wearer can also be adjusted at any time, subtly scaling their deference to your will as needed.  
+  
+If worn by you instead of another, the ring still provides free customizable 10SP of enhancements to your own abilities that can be changed at a moments notice.
 
 
 # Beauty & Charisma Powers

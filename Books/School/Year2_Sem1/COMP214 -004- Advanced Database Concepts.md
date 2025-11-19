@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Nov 04 2025 18:02:03 GMT-0500 (Eastern Standard Time)
+lastSync: Tue Nov 18 2025 17:56:48 GMT-0500 (Eastern Standard Time)
 ---
 # Advanced Database Concepts
 
@@ -697,11 +697,49 @@ execute sp_job_update('SA_MAN','Regional Sales Manager' ) --test case
 
 ## Class 10 (Nov 18)
 
+Functions?
 
 
 
+### Triggers: 
 
 
+**Scope**:  on 1 table, on Database (Table, View, Schema, or Database [all users])
+
+You can write triggers that fire whenever one of the following operations occurs in the database:  
+• A database manipulation (DML) statement (DELETE, INSERT, or UPDATE).  
+• A database definition (DDL) statement (CREATE, ALTER, or DROP).  
+• A database operation such as SERVERERROR, LOGON, LOGOFF, STARTUP, or SHUTDOWN.
+
+**Event:** (can have multiple options)
+	INSERT or UPDATE or DELETE  or UPDATE of columns
+	shutdown  or start up or logon or logoff
+	
+**Timing:** (1 or the other, only 1 option)
+	BEFORE  or  AFTER
+
+**Purpose:**
+	Security  (to stop and block)
+	Monitoring/Auditing (tracking)
+	Table replication
+	Parent child referential integrity (constraints, primary key, foreign key)
+	apply complicated business rules
+	
+**Impact** (how many times trigger will perform an action)
+	statement (command) level  -- 1 time (default)
+	FOR EACH ROW -- many times
+
+
+
+## Class 11 (Nov 25)
+
+Triggers?
+
+
+December 2: Group Project Presentation
+
+
+December 9: Final Exam
 
 
 
