@@ -1,5 +1,5 @@
 ---
-lastSync: Wed Nov 19 2025 00:52:12 GMT-0500 (Eastern Standard Time)
+lastSync: Fri Nov 21 2025 02:35:30 GMT-0500 (Eastern Standard Time)
 ---
 
 # Base Build
@@ -714,10 +714,25 @@ Cost: 15 SP
 You have awoken your Authority, transforming you as a self-actualized conceptual being. The strength of your Authority, otherwise known as your Weight, is dependent on how much you have trained and experienced. Each step on your journey boosts your physical and mental capabilities, gradually unlocking incredible powers and abilities tied to your training focus.  
   
 Your Authority only grows broader as you experiment, the more you delve into a specific domain, such as strength, intelligence, magic, or any other skill, the more your understanding of that concept expands. In addition to your natural self-actualizing capabilities, your Authority acts as a resource that can be allocated, although not consumed, to specific parts of your being. Eventually putting more Authority into your capacity to travel or traverse space could find you crossing miles of space with each step. Enforcing your will to live via your Authority could strip away the very concept of mortality from your being, rending your immortal and undying for as long as you will it.  
-  
 Through a permanent allocation of your Authority, known as an Aspect, you are able enhance or add something to your being. The amount of Authority that goes into every individual Aspect is up to you, it can be a one time thing, where you don’t add any more Authority beyond the initial amount, you can add more Authority later on as you grow, you can even have it so a constant percentage of your Authority is devoted an Aspect as you grow.  
-  
 Aspects are considered your new baseline, allowing you to both train your Aspects over time as well as an enhancement through the temporary allocation of Authority. If you do inevitably want to remove an Aspect, you can either suppress it which allows you to recall it in the future, or permanently sunder it from your being, removing it entirely as if it was never there.
+
+UPGRADE
+
+**Aristocrat**
+Cost: 3 SP
+Required: Authority
+
+You were born a blue blood, a nobility of the highest order. Your Authority reflects this, self-actualizing your own power to a higher level, tremendously increasing the fluidity and strength of your Authority. Your Aspects grow as if they received the full amount of your Authority’s growth, understand that you do not actually lose any Authority for this new method of development. Temporarily and permanently allocating Authority is now qualitatively more effective. Even temporarily allocating your Authority will permanently increase your base level by a small fraction of what the original boost was if utilized effectively  
+There are no limits to what you can achieve through your self actualizing capabilities, although that does not mean that everything will be easy. You will now receive even greater benefits from performing outstanding feats.
+
+**Warrior**
+Cost: 3 SP
+Required: Authority
+
+Your Authority is attuned to combat in all its forms, granting you an instinctual understanding of how to manipulate your body and Authority for proper combat. Martial techniques will come to you as if you were born to use them. Through a small concentrated effort you can create Methods, powerful techniques that harness your Authority and its Aspects to dramatically enhance your capabilities.  
+Mundane techniques can be blended together to form an art that could let even a mortal fight against those that are supernatural. You can create both mundane techniques in addition to Methods. While Methods can be easily created, it takes true dedication and insight to elevate and evolve a Method to new heights. Methods can be utilized in conjunction with one another or merged for greater effect.  
+You start off knowing 4 Methods as a starting bonus, one devoted to the offense, one for defense, another for utility, and a final one for movement. While these four starting Methods are nothing incredible, they can be taken to unto
 
 
 **100 Sacred Treasures**
@@ -746,12 +761,21 @@ Each pawn specializes in one of the three major combat roles: DPS, Tank, and Sup
   
 Although starting at a weak power level—barely street level—these pawns compensate with an incredible innate potential for growth. As living entities, given sufficient time, with each battle, practice session, and experience gained, they manifest increasingly fantastical abilities tailored to their respective roles. For example, an end-game Support pawn could resurrect the dead, instantly heal fatal wounds, buff teammates, debuff enemies, dispel curses, cast curses, and much more. In terms of potential alone, your Three Musketeers stand unparalleled in their respective fields.  
 Sustenance and fatigue are of no consequence to your pawns. If vanquished, they only require a 24-hour period before reappearing in your general vicinity. Devoted solely to you, their loyalty is unwavering, impervious to any influence, even your own. In the event of your demise, the pawns will have a window of 72 hours to bring about your revival; failure to do so will result in their death as well.
-
 *Expy*
 Required:Template Cosplay
 
 Instead of just you having a template, each and everyone of your Musketeers have one template slot too. Besides just gaining the powers, skills and items of the template, they can also gain the appearance, memories and personality to varying levels, if you allow it. They may only have one slot but you're able to swap their template with a new one and they do not lose synchronization with it—not only that but it will be at the same progress if you swap them back.  
 These templates do not erase their initial abilities as pawns and runs parallel to their growth from that. Their slots and templates do not count towards your ability to gift others a single template every 24 hours, doing this as well will effectively allow them to have two templates active at once.
+
+UPGRADE
+**Three For One**
+Cost: 10 SP
+Required:The Three Musketeers
+"Individually mighty, collectively indomitable."  
+  
+The concept of unity has become an intrinsic part of the core connection binding you four entities under the mantle of pawns and master.  
+Collaboration among your three musketeers yields substantial benefits based on the undertaken activity. For example, when the trio coordinates offensively to bring down an enemy, they experience a 50% buff to all their combat capabilities and abilities. Similarly, when they unite in defense of a target, their defensive abilities receive a 50% boost. Essentially, the assembly of the three musketeers always ensures a consistent advantage and buffs across the aspects they represent—DPS, tank, and support—depending on the circumstances they encounter. This wouldn't negatively affect their capabilities in any way should they act alone.  
+The concept of unity has also extended to their master. Now, the only way to inflict harm of any nature on you, is for all three musketeers to be vanquished.
 
 **Copy-Fusion-Evolve**
 Cost: 25 SP
@@ -803,8 +827,174 @@ By using "Idle Trainer" or "Archive" you can summon simulations of beings who po
 Over time, your study partitions will naturally generate new attacks and powers derived from the vast archive of knowledge within the simulated world. These innovations provide practical applications for your studies, enabling you to advance not only in understanding but also in skill and capability.
 
 
+**Temporally Challenged**
+Cost: 20 SP
+
+_Time is an enigma, it never quite acts how you expect._  
+Time doesn’t truly work around you as it should. Your natural state of existence is at a dead stop, able to perceive things around you in frozen time. Thankfully, with a bit of effort you should be able to right yourself into moving at regular speeds.  
+This isn’t all however, as by focusing your will, and undergoing a not insignificant amount of training, you can change the flow of time around you. This means you could create time-locked zones where not even oxygen can move, slow bullets, reverse local time, bring things back from future timelines and the past, and more.  
+It is worth noting: going forwards is always easier than back, speeding time up, advancing age, all of these things take about half of the effort and energy it takes to do the inverse. Traveling back in time any substantial distance is a monumental feat of will and skill, for instance.  
+Learn enough about how Temporal Meta-Chrono-Physics works and one day you might truly be a time-warping monster to behold, but until then I’m afraid we’ll just have to call you **Temporally Challenged**.
 
 
+**Theft**
+Cost: 20 SP
+
+You’ve gained the ability to steal anything, not just physically but conceptually. What this means is that you can take anything from anyone or anything, whether it's tangible, intangible, or entirely abstract.  
+Steal someone’s strength and they’ll grow weak as you gain what they lost. Steal their immortality, their ability to lie, their confidence, their fire resistance, their voice, their divinity, their potential, or even their friendships. You can even steal their powers, leaving them helpless while you wield their abilities as your own. You can steal their fate, twist the future meant for them, or take their memories and leave nothing behind. If it exists in any form, you can take it.  
+Theft applies to more than just people. You can steal a building’s structural integrity, a forest’s dryness, a concept’s relevance, or a technique’s uniqueness. You could take the sharpness out of every blade in an army, the originality out of an artist’s work, or the light of day from the sky itself.  
+The things you steal become yours to keep, to use, or to return. This can be permanent, temporary, or conditional. You can steal from groups, objects, locations, phenomena, or even from entire systems or ideas. Steal the need for fuel from a machine, the definition of law from a courtroom, or the effect of gravity from a falling object.  
+At first, your theft is simple and grounded. Small physical objects come easiest, and things like tools, weapons, or basic traits offer little resistance. More abstract or conceptual targets, such as powers, fate, or identity, can be taken, but doing so is difficult and draining, sometimes nearly impossible. The deeper or more essential something is, the more effort it takes to steal and hold. The more you try to carry at once, the more the strain builds as pressure weighs on you. If you push yourself too far, you may begin to lose your grip, allowing some things to slip away as you're forced to let them go.  
+While you begin with only smaller-scale thefts coming easily to you, such as minor traits, basic abilities, surface-level emotions, or single moments of luck, your power can grow with use, sharpening your grip and expanding your reach. These things may stay with you for a time, but without rest or experience, you’ll struggle to maintain your hold. With continued use, your power grows rapidly, and what once took effort to keep can be held with ease as your limitations begin to loosen. In time, even the most complex things on the greatest scales can be stolen so completely and deeply that they remain permanently yours as if they always were. There is no real limit to how far your theft can eventually go.  
+You can choose how thoroughly to steal. You might take just a portion of someone’s charisma, or all of it. You can steal something and make it so no one notices it’s missing, or make it glaringly obvious to all.  
+You can also freely choose what to steal and from whom, allowing you to take only what you want without affecting related elements. You’ll intuitively steal only what you intend to steal, never causing unintended loss unless doing so intentionally.
+
+**Epithet Collector**
+Cost: 10 SP
+
+You now have the power to gain epithets or titles when you accomplish something noteworthy or if enough people attribute something to you. There are titles for everything, and each one grants you some kind of positive effect — whether that be an affinity for something, a physical buff, or anything else, as long as it stems from you. These titles can be turned off or on, but can never be lost, and there is no limit to how many you can have active at once. The title of **“Vampire Slayer”**, for example, would give you an advantage against vampires of all kinds, with your attacks hitting harder against them and making it easier to pick up on their weaknesses.  
+  
+The more specific the title, the greater the buff. A title like **“Element Master”** would give you a 20% boost in using and controlling all elements, but one such as **“Master of Fire”** could make you immune to all natural fire, give you an easier time learning anything related to fire, and reduce the energy cost of any fire magic by half.  
+You are able to set up to 3 titles as public. This makes it so that anyone who sees or knows about you instantly knows the names of those titles, which may bring people trying to challenge you or believing you unworthy of being called that title — but in exchange, those titles get up to a 50% boost in all categories.  
+At the beginning, you are able to select either 1 title that can give you a 100% collective boost in something, or 3 separate titles that each give a maximum boost of 30% in separate fields. Titles can only improve so much, and if a title is too strong for your body to handle, it will be downgraded until it can fit you — for instance, changing **“God of Fire”** into **"Flameborne"** or **“One Loved by Fire”**.
+*Grand Epithet*
+Required: Ancient Name (Genshin Impact)
+Your Ancient name has been recognized as your main title standing above all others you will gain. It now has received a permanent 50% buff in whatever it provided for you and if you have more than 1 ancient name they all receive the same buff and you can choose any one or all of them to be public as your Main title always being the first thing people think of when they see you.  
+Your Ancient name can now also grow stronger by absorbing related titles with similar domains to it to grant it new effects or increase the base strength of the title. Your main title is counted as separate and doesn’t affect your 3 public slots.
+
+**One Thousand Cuts**
+Cost: 5 SP
+
+Most warriors plateau when no longer challenged. A seasoned swordsman can only sharpen their blade so much against a novice; without a worthy rival, progress stagnates. Growth demands friction—conflict against those who match or surpass you, a mirror that forces evolution.  
+You felt it was a pain to leave the tutorial zone.  
+Now, even foes beneath your level become stepping stones, their cumulative resistance shaping you. It’s arithmetic in motion: if your opponent possesses only half your strength, then facing two of them will yield the same growth as one battle with your equal. Ten weak foes, ten fragments of strength—they add up. Fight enough, and even the meek can forge the mighty.  
+This applies to all parts of combat: physical effort, reaction speed, movement control, and decision-making. Even if the fights are easier, repeating them still builds physical conditioning and sharpens awareness. Over time, you will gain the same amount of experience and instinctual growth you would gain from fighting stronger opponents.
+
+**Conceptual Enforcement**
+Cost: 25 SP
+
+You have learned how to actualize and enforce the intent behind your actions, using your metaphysical weight to enhance their effects. This begins rather weakly—merely making actions slightly more successful than they should be: a dodge carrying you farther and being more effective, an attempt at hiding leaving fewer traces, and so on. However, as the conceptual weight behind your actions grows stronger, so too do the effects of your enforcement—eventually bestowing supernatural traits and culminating in truly conceptual acts at higher levels.  
+While low-level enforcement of a sword swing might merely cause the blade to cut slightly better than it should, medium-level enforcement could allow you to block or cut things you normally couldn’t—such as a simple steel sword slicing through metal like butter or even blocking a lightsaber. At the highest levels, you achieve truly conceptual feats: an attempt at hiding could become so effective that reality itself forgets your existence, allowing you to do things like achieve agelessness by hiding from the very flow of time.  
+  
+There are two ways to increase the conceptual weight you can bestow upon your actions. The first is by enriching your own existence—enhancing your metaphysical weight through some means. Whether through time and experience, sheer power, or something more exotic, the greater the meaning and significance behind your existence, the more force your actions will carry.  
+The second method is more specialized: by repeatedly practicing an action, you increase the weight behind that specific act. Your mastery bestows further force. The speed of this development depends on how specific the action is. Mastering the entirety of swordsmanship to a conceptual level might take several lifetimes, while mastering a single sword stroke could be achievable within an average human lifespan.  
+This effect is incredibly pervasive, capable of being applied to any act—both mundane tasks and the use of powers. For example, enforcing fire magic might initially make your flames burn hotter and spread faster than they should. But with enough metaphysical weight, your flames could eventually burn through space, time, fate, and other conceptual entities.
+
+*Enlightened Enforcement*
+Required:An Enlightenment
+
+Your Oneness with a concept has permanently altered not just your essence but how you interact with it as well, which has in turn impacted your ability to enforce your actions.  
+You experience rapidly accelerated development of conceptual weight and greater returns when enforcing your actions when said act falls under the umbrella of your enlightenment. For example an enlightenment relating to oneness with nature would make actions relating to nature benefit more from your conceptual enforcement. The benefits are greater and more efficient the closer the act committed aligns with your enlightenment.
+
+*Spiritual Decree*
+Required: Prime Soul (ULTRAKILL), or Spiritual Ascendance
+
+Your soul is simply worth more than others, its presence fundamentally greater than that of others. And with this your metaphysical importance has soared, your every action carrying orders of magnitude more conceptual weight.  
+Even from the beginning you have enough force to make your actions minorly warp reality to align with their purpose and intent. Hiding causes your presence to fade, spear thrusts unerringly seek weak points, dodges warp space to turn sure hits into near misses, etc.
+*Devilish Authority*
+Required:What Do You Fear? (Chainsaw Man)
+
+As the embodiment of a concept tethered to the fear of an entire species, you naturally exert more influence upon the world, especially when it comes to what concept you represent.  
+As the manifestation of the fear of a concept, you are naturally conceptual important, possessing greater metaphysical weight which only grows greater the more your concept is feared.  
+But this is only the tip of the iceberg, the real benefit lies in your ability to derive extra conceptual force from the fear of what you represent. You can use it as an extra source of weight, albeit one which can only be used to enforce acts related to your nature and powers as a devil.
+
+**Covenant**
+Cost: 5 SP
+
+You can declare a desired reward, anything from the very specific—such as a weapon that ignores all defenses, or the power to become a dragon—to something vague like “I want to be stronger.  
+  
+Rewards can be concrete (a weapon, wealth, abilities), abstract (love, influence, knowledge, safety), or even a mixture of unrelated things. You may ask for one prize or several at the same time.  
+Requests do not have to be precise. A vague wish is enough, and the power will always determine the perfect and most fitting form of the reward, even if you aren’t fully sure what you want. A vague request will be interpreted into an ideal result.  
+  
+Sometimes, even when a request is made very specifically, the result may be adjusted and refined into something better than the user thought to ask for. In this way, every reward feels like the “true” version of what was wanted, whether clearly named or only half-formed in intent.  
+You may also choose how the reward comes to you. It can be produced directly by the power at the end, or it can be gained naturally along the course of the quest itself. Smaller, related rewards may also appear as milestones while progressing. Rewards do not necessarily need to be aligned with the quest you take, although if you want to acquire it naturally along the questline, it will naturally accommodate that.  
+When a request is made, a quest forms. You’ll immediately know its name, its themes, and a general sense of what lies ahead. You gain an instinctive feel for the difficulty involved and a constant awareness of your progress as you advance. The quest keeps you updated, lets you track your current status, and shows you the next few objectives and steps, though never the entire quest.  
+When the quest first forms, you have the ability to accept it as is or renegotiate it. You can raise the difficulty for greater or more numerous rewards, or lower it for smaller, safer rewards. You can also alter time-based components as well, expanding or crunching them for similar effects.  
+You may also nudge the quest towards a certain style, whether combat-focused, investigative, social, or endurance-based. The final form, however, is always set by the power itself. Once accepted, the quest is fixed, and the only way out is to abandon it, forfeiting the prize. You can abandon a quest at any time; it will not prevent you from trying to get the same reward at a later time.  
+You may have as many active quests as you want, although some may merge into one larger one where appropriate. Every quest is tailored to the user, taking the user’s requested rewards and their own capabilities into mind. The same request may demand little from someone strong but impose a great trial on someone weaker. This means that as you get more powerful, the difficulty scales in your favor.
+
+
+**Desire Manifestation**
+Cost: 15 SP
+
+Within your existence lies a truly unique ability—the power to bridge desire and realization. Your cravings, when sustained and genuine, begin to manifest as tangible change, transforming both yourself and the world to fulfill them. This manifestation scales with the strength and depth of your craving. While you cannot fully control how your desires manifest at first, particularly in broad or undefined cravings, this control can itself be developed.  
+At the lowest levels, this effect is subtle: a desire for strength may slightly accelerate muscle development or push your body to adapt more efficiently during training. Wanting to learn a skill may improve your memory, attention, and coordination toward that purpose. Desiring to survive may heighten your reflexes or resistance at critical moments, granting weak regenerative ability that slowly heals small cuts and bruises. Craving to enhance your existing powers can gradually refine their efficiency, raise their upper limits, or unlock new applications of those abilities.  
+The stronger and more absolute your craving becomes, the greater the effects it produces. A sustained craving for strength could eventually reshape your physiology beyond normal limits, granting supernatural durability and might. A desire to master a skill could lead to instinctive understanding and talent beyond genius. Craving survival and growth could induce continuous forced evolution, allowing adaptation to nearly any environment or circumstance, or granting powerful regeneration capable of restoring deep wounds or even lost limbs. At higher levels, this ability can even act upon itself.  
+Manifested effects tied directly to active cravings will weaken as the desire that sustains them fades. Once a craving loses its strength, abilities born purely from that yearning will diminish or vanish entirely. However, changes that have already become part of your being remain; only the ongoing growth or active manifestation tied to the craving ceases. For example, losing the desire for strength halts accelerated improvement but does not strip away the strength already attained. Likewise, refinements of self gained through desire persist as part of your nature, such as a talent or understanding developed through sustained yearning. With time and sufficient depth in a desire, its manifested effects can become imprinted, remaining even after the desire itself has faded.  
+  
+The power’s potential is limited by how deeply you are capable of craving. Ordinary human desire cannot reach far beyond the mundane. To manifest effects that alter reality itself requires an intensity of yearning that borders on inhuman—cravings so absolute that they define your being. But for you, there exists a unique ability, an innate faculty that allows the strength of your soul or the weight of your existence to directly determine how deeply you are capable of craving, actively deepening your capacity for desire as they grow, enabling you to reach and bear levels of craving that normal beings could never withstand without losing yourself to it.  
+  
+At the highest levels, the act of wanting itself becomes Law—a force encompassing all of existence, capable of warping probability, rewriting reality, and bending the world to fulfill your will, where all its manifested effects attain permanence, for the potential of this power is limitless.
+
+**666 Evil Eyes (Essence Meta)**
+Cost: 20 SP
+
+You are the bearer of the 666 Evil Eyes, granting supernatural abilities to one of your eyes. The default eye, known as The Blankest Eye of The Great King of Normalcy, allows you to see all things supernatural, pierce illusions, and see through obstacles. Each of the 666 Evil Eyes has a unique name, changing the appearance of your eyes and providing specific powers related to its name.  
+  
+Using an Evil Eye other than the default requires effort and cannot be maintained constantly. With practice, you can extend its usage, but you need to return to the default form to rest your eye. These abilities are not fixed; they can grow and change with training and effort, becoming more potent and versatile without limits. Even new Evil Eyes not among the 666 can appear over time.  
+  
+To use a specific Evil Eye, you must first attune to it by using it. The more you use it, the stronger the connection becomes, increasing its chances of appearing again during selection until you can use it at will. You also start fully attuned to two randomly selected additional Evil Eyes.  
+Among the 666 Evil Eyes, 99 are classified as Supreme Evil Eyes, appearing during extreme emotional stress or near-death experiences. These Eyes are incredibly powerful and can cause world-altering events when unleashed. Using them initially enters you into an unconscious berserker state, and their powers become unpredictable. Learning to control a Supreme Evil Eye's abilities is challenging but possible with great mental discipline and training.  
+The power of the Evil Eyes is not tied to the physical form of your eye. If lost, the power transfers to your remaining eye or another body part until the lost eyes are replaced. You can grant copies of fully attuned Evil Eyes to others, instilling loyalty and providing them with similar, albeit weaker, powers initially. You can remove copies of Evil Eyes you've granted at any time.
+
+**Mystery Slayer (Type-Moon)**
+Cost: 10 SP
+
+Yours is the power to cancel or destroy any manifestation of Mystery, erasing its supernatural expression, allowing you to counter and confront the metaphysical in whatever form it may appear; for this reason, you are a slayer of myths, an ender of fantasy, a killer of phantasms, and a revealer of mysteries. Though others throughout history have wielded similar abilities, none have your potential. You are not merely another hunter of mysteries but destined to become _The Slayer of Mystery_—once you have amassed enough power.  
+  
+The essence of your power lies in its ability to kill or eliminate Mysteries—entities or phenomena that transcend current human understanding. This grants you the unique capacity to "slay" Mysteries of any kind, whether they stem from alien science, supernatural magic, or any force beyond the established scope of the Human Order. As long as it exists outside the bounds of human comprehension, it can be neutralized by your power.  
+At first, your strength is humble, barely registering as E-rank by most standards, granting only a minor conceptual edge in combating Mystery, subtly enhancing everything you do, whether offensive or defensive. Yet, even this minuscule amount of power allows an ordinary human to contend against the supernatural forces of the moonlit world, secret societies, and magical realms—provided they are well-prepared and use their abilities strategically.  
+Additionally, this power synergizes seamlessly with abilities that drive innovation and expand humanity's collective knowledge. As the mysteries of the supernatural are unraveled and cataloged, your strength will naturally grow, feeding off humanity's increasing understanding and advancement. The more you unveil, the stronger you become—dismantling and countering the very essence of Mystery itself. For what better weapon is there against the darkness of Mystery than the light of discovery and understanding?  
+  
+Gradually, as you test your mettle against the supernatural, through whatever form it may take, growing stronger with each small victory. Eventually, you'll outgrow the scale altogether, being able to solidify the Human Order in an area with your mere presence at EX-Rank.  
+  
+This power, by its very nature, can lead to stagnation, as you may inadvertently destroy Mysteries faster than they can be assimilated and understood by the Human Order. In doing so, you disrupt the natural evolution of discovery and growth, risking humanity's progress and limiting its potential to explore and comprehend the unknown.
+*Eternal Light of Civilization*
+Required:Pioneer of the Stars (Type-Moon)
+
+You are now more than just a slayer of Mysteries—you have become a guiding light of innovation, discovery, exploration, and progress. With the acquisition of the Star attribute, all facets of your power have been enhanced, transforming you into a "North Star" for others to look up to, drawing inspiration, motivation, and insight from your presence.  
+As the embodiment of excellence, those who strive to follow in your footsteps and emulate you as their idol will find themselves unusually inspired. They'll absorb information more quickly, think more abstractly, and gain clarity in their actions as if your very existence accelerates their intellectual and personal growth.  
+Not only does your presence reinforce the Human Order, but it also helps others to digest and assimilate once-incomprehensible Mysteries, expanding humanity's understanding of the unknown. You now serve as both protector and beacon, guiding others to grasp what was once beyond reach.
+*The Extraordinary Gentleman*
+Required:The Great Man Theory
+
+You are no longer a mere slayer but have ascended into something far grander—a brilliant thinker of great rapport and a refined gentleman of many talents. With each Mystery you defeat, you gain the unique ability to _appropriate_ some of their strengths, learning to harness their abilities for your own purposes. Over time, as you defeat multiple Mysteries of the same type, your understanding of them shall deepen, enabling you to unlock peerless insights into their nature.  
+Eventually, you may even bring down Mysteries once associated with the gods and entities of the same realm or nature to humanity's level, demystifying them and revealing their inner workings. In doing so, you will not only expand your achievements but also grant humanity unparalleled knowledge of the cosmos and heavens, transforming the unknown into accessible knowledge. Moreover, this new aspect will mitigate the risk of stagnation inherent in your ability, effectively allowing you to curate what grand wisdom humanity may attain.  
+As a consequence of this new acquisition, you will also find yourself acting much more gentlemanly in everything you do, with such supreme grace and elegance as to mesmerize all who witness you.
+
+**D.A.G. (Devour, Assimilate, Gift)**
+Cost: 15 SP
+
+In its essence, D.A.G. consists of three fundamental abilities that allow you to interact with the very essence of your enemies: Devour, Assimilate, and Gift.  
+  
+Devour is the deadliest facet, capable of consuming almost anything: from humans and monsters to angels, demons, and spiritual entities. At its core, Devour directly attacks the soul, but its reach is broader, able to consume energy, attacks, or even fragments of space. When using this ability, you absorb the complete or partial soul of the target, gaining a permanent 15% of their energy reserves, as well as fragments of their knowledge, skills, memories, and emotions. Through this ability, you not only acquire what the target has left behind but can also evolve the devoured skill or power, strengthening your abilities over time.  
+However, this ability is not infallible. It will not work against divine beings or those significantly stronger than you unless your power increases. Additionally, when you only consume a fraction of the soul, what you gain is proportionally reduced. Devour also has a mental cost, as consuming too many souls too quickly can overwhelm your mind with the emotions and memories of the devoured. Fortunately, by spacing out its use, you can mitigate this effect and even retain the souls to gain multiple lives, should you wish.  
+The physical manifestation of Devour is Amarok, a giant wolf bound to you. Amarok can teleport to defend you and tirelessly hunt its prey, dividing into a pack of smaller wolves if necessary. If Amarok is destroyed, it will simply reform when called. Note You can share Amarok's senses, and speak through it as well, Amarok also has the ability to shrink or grow depending on its needs, its most powerful ability is its power to adapt to any situation. Amarok is extremely durable and its strength is enough to toss around heavy duty vehicles.  
+  
+Assimilate, on the other hand, is the non-lethal version of your power. It allows you to defeat an opponent and steal what defines them, without the need to destroy their soul. When activating this ability, you will have 10 minutes to absorb what the opponent offers, but it will take 30 minutes to recharge it. The benefits you gain from using Assimilate include a permanent 5% increase in your energy reserves, a random trait (such as maximum health, ambidexterity, or innate talent), and, depending on the enemy, new knowledge, techniques, and skills. Unlike Devour, what you absorb is less invasive but equally powerful, allowing you to gain strength without the more destructive consequences of consuming a soul.  
+Each skill you assimilate starts in its most basic form and will require training to fully develop. Additionally, any negative effects related to the assimilated skill are automatically removed, ensuring you only retain the useful parts. You cannot assimilate the same target more than once, and the results are always unpredictable.  
+  
+Lastly, Gift allows you to share what you have acquired with an ally. Whether it is a power, skill, or technique obtained through Devour, Assimilate, or natural development, you can permanently transfer it to another. However, this act has a price: the power you gift is lost to you forever.
+
+**SPEEDRUNNER (Terminal Montage Mario)**
+Cost: 30 SP
+You gain the ability to see the source code of reality and manipulate it directly through seemingly nonsensical actions and movements, which may defy physics as you perform them. This power is limited by your understanding of the source code of the reality you reside in, along with your speed; with more speed, making it far easier to bend and even break reality.
+However, some realities which hold more esoteric and complicated metaphysics or realms with higher powers. Being in such realities will make it harder for you to learn and manipulate reality, such as Marvel Comics and DC Comics, which are massively multidimensional realities and have various local gods that will not be happy with your meddling.
+To grow stronger, you must overcome challenges and fights before leaping to another timeline to repeat this action endlessly. You can set a single special marker in space-time to create a starting line for your speedruns, which you can repeat as many times as you want. The faster you complete this process and the more you do it, the faster you will become until you eventually gain immeasurable speed. Once you reach this level, reality itself becomes your plaything, with you able to do anything. With enough speed, you can exist in multiple timelines at once, acting as a powerful form of immortality and granting you the ability to create time clones.
+Starting off, you will have enough understanding of the source code where you reside and speed to move at sub-light speed, and treat the environment as a bounce house, and manipulate reality in small ways. You gain the knowledge of how to perform the terrifying backwards long jump, which allows you to treat nearly any surface as a launch pad, allowing you to increase your speed exponentially, and is your main means to jump to different timelines.
+Now go forth and speedrun your way to glitch godhood.
+*Ghost in the code*
+Required:Beneath Notice
+It would seem as though you have found a special glitch that allows you to stay hidden from any higher powers just up until you become strong enough to threaten them. This means you can freely gain power without any need to fear drawing unwanted attention.
+*A NEED FOR SPEED*
+Required:Monster of Desire
+You have a NEED a need for speed, that is. Your obsession is focused on increasing your speed and control over reality above everything else. This desire will help and fuel your growth to levels unimaginable to such a degree that becoming a speedrunning god becomes an inevitable question of when, not if.
+*INFINITE SPEED*
+Required:Speed Force (DC Comics)
+You have done it, you have attained the holy grail of Speedrunners, that is to say: INFINITE SPEED.
+You no longer have any need to leap across timelines to gather speed, as you now have it in infinite amounts by default, thanks to the Speed Force. Your ability to use the Speed Force is also massively increased to such a degree that you become freely able to time-travel freely with no fear of causing any kind of time paradoxes.
+The mental enhancements from the Speed Force allow you to more quickly and easily grasp the source code of reality. Even the trickiest and esoteric of realities become an open book to your enhanced mind. Dialing your abilities to the reality you reside in becomes nearly effortless, with you able to calibrate mundane realities near instantly and more complicated ones in weeks at most.
+With this combination of powers, you become a virtual god of speed, able to almost effortlessly manipulate reality.
 
 
 # Trump Powers (Empowers Other Powers)
@@ -1208,7 +1398,6 @@ Cost: 5 SP
 You are a BOSS! Okay, well, the one the hero beats at the start to get a hang of things. But that's ok, it's not a matter of how big your health bar is, it's how you use it!  
 First things first, you're just stronger then the average in every aspect. Stronger, tougher, smarter, etc. Unlike other Joes' though, you don't buckle to damage like them. Even if a hole is blown clean through your stomach, you can still stand and fight, presuming you live afterwards.  
 You also have second phase that activates when you're severely damaged, or 40% HP in game terms. Your second phase will see you being 15% stronger in every aspect, powers included. You also get a one-shot protection, where no single attack can make you dip below 40%. Although, once you reach that number, it's fair game. You also get a visual signifier when you are, perhaps glowing hair and eyes, or a red aura. It won't give any advantages, but it will look cool.  
-  
 You also gain a copy of the power system of the world you are in, becoming above average in that aspect, provided you are compatible with the system and can use it. Make sure you show that hero how to really use the power system!  
 You also have an exceptional ability to lead, ensure loyalty to your goons, and recruit new ones.
 
@@ -1246,42 +1435,155 @@ Required:The Humble Merchant
 Required: Cooking By The Book, (Tinker/Trump) Gourmet, or (Thinker/Master) Chef Supreme
 Required: Homecoming, or World-Walker
 You gain access to a restaurant that exists within a pocket dimension, connected to the entire Multiverse. You can enter it at will and have complete control over its appearance both interior and exterior and can change it at any time.
-
 You can open doors to any world known to you from any source, or make it completely random. As the owner, you have the absolute authority to deny entry or forcibly expel anyone. Within its walls, all guests are perpetually safe.
 The restaurant is fully equipped with every tool you need to prepare any dish. If you require additional tools in the future, they will be generated automatically. The facility is self-cleaning and can expand or shrink as necessary to accommodate any number of guests.
 
 You gain access to a store, allowing you to purchase ingredients from across the Multiverse, with all currencies converted automatically.
-
 You also gain the ability to create clones possessing all your skills and abilities to help manage both your restaurant and the store. Your mind exists across all clones simultaneously, and your multitasking ability increases with the number of active clones. However, clones cannot leave the property.
 If you have Merchant of Myth Upgrade customers can pay using esoteric or conceptual goods and if you have Traveling Merchant Add-On: Your store and restaurant can merge into any configuration you choose.
+
+UPGRADES
+
+**Debugger Console**
+Cost: 20 SP
+Required: Gamer System, or (Trump) Gamer System
+
+You can access the inner workings of your system(s?) through the Debugger Console. This special window grants you access to the source code and assets that run the Gamer System. The language used is unknown to you unless you have code-related powers or skills. Modifications you do through the console happen in real-time and your system will glitch out if your code has bugs. Thankfully, there is a version control system built in so you can save your modifications and revert to an earlier state if you wish.  
+While you can modify the inner workings of the system and are able to change the rules, you cannot modify your player data directly and are still limited by some rules. The level of freedom you have with your modifications depends on how strong you are.
+*Superuser*
+Required:Shard-Like
+Required:Code Caster
+Your expertise in handling the system’s source code reaches the kernel, your modification now can range to a complete overhaul of the system’s mechanics, and you can code just about any feature by programming it within the system. This results in the jailbreaking of the system itself.
+*Editor UI*
+Required:Toolbar (Animator vs Animation)
+Your Toolbar has granted you access to the Editor Subsystem, which takes the form of any 3D editor of your choice and can be customized to suit your preferences. This subsystem gives you complete control over your Powers and Skills, allowing you to reshape their mechanics and forms like clay. It even enables you to create entirely new powers and skills, though with certain limitations. For instance, you must design any new power from scratch, and unfortunately, you cannot grant these powers to yourself instantly. While the Gamer System can create things from nothing, it doesn’t allow you to gain everything without effort. The stronger the power you design, the more challenging the conditions for acquiring it will be.
+
+**Guild Master**
+Cost: 20 SP
+Required: Gamer System, or (Trump) Gamer System
+
+You now have a Guild connected to your system, which is located inside a pocket dimension for your own use. You can use it to invite people you know to be with you, Guild also grants a system for each person that you invite into your Guild, letting them have unlimited potential, eventually surpassing any limits they had before.  
+Your Guild is anchored to you and your system, and thus can be brought with you to any place you've been to. Inside the pocket dimension, you can adjust the flow of time by anywhere from 10% to 1000%, individually for each room. It also has a wide array of other functions and benefits that you could need for your day-to-day needs, and even entertainment of any non-supernatural variety you would want for there to be.  
+Your Guild also has levels of its own as well, which can be increased by members both pooling their own resources into it and through just plain hard work: As your guild grows in levels, it will not only grow in size and complexity, but gain new abilities and refine old ones.
+
+**Game World**
+Cost: 5 SP
+Required: Gamer System, or (Trump) Gamer System
+Required:Idle Trainer
+Required:Class Change
+
+When you sleep, you gain access to an entirely new dimension—a hyper-realistic game realm directly connected to your Gamer System. You can choose the layout of this realm. It can be modeled after the world of an existing game, such as Dark Souls, or it can be an entirely unique creation shaped by your imagination. Within this realm, you’ll encounter NPCs, monsters, and an array of game mechanics, such as respawn, quick time events and more.  
+The realm also offers opportunities for your Class Change. For example, you can locate specialised trainers who align with your chosen class. These mentors can accelerate your development, enabling you to level up rapidly and even granting access to rare or hidden class-specific abilities. Exploration and interaction play a key role, as building relationships with NPCs can lead to benefits, ranging from hidden items, quests or even more.  
+Progress made within this realm directly affects your real-world self. Skills, experience, and abilities gained transfer seamlessly between both realities. Additionally, relationships formed with NPCs may reach a level where they can be brought into the real world.  
+Time in the Game World is faster that the real world, with 3 hours in the game world being 1 hour in the real world. If you took _Accelerated Training_ upgrade then the time in the Game World can be accelerated further.
+*Hacker’s Interface*
+Required:Debugger Console
+
+The Debugger Console grants you direct access to the underpinnings of the game world, enabling you to alter game mechanics and assets in real-time. With the Debugger Console, you are no longer just a player—you become a system manipulator. Through this console, you can interact with and edit the game’s source code, game logic, NPC behaviors, and world assets.  
+The modifications you make using the Debugger Console are live, meaning the world reacts immediately to changes, but be careful—any errors or bugs in your code can cause system glitches or even destabilize the game world temporarily. Fortunately, a built-in version control system helps mitigate this risk. You can save versions of your work and revert to a previous state if necessary.  
+While your ability to modify the system is powerful, the extent of what you can do depends on your strength
+
 
 **Dynamist Jr.**
 Cost: 20 SP
 
 This power integrates with your other abilities and improves them over time. It will mutate in two ways: _horizontally_, by adding new related abilities, and _vertically_, by increasing the strength of specific aspects. Powers with a lower initial SP cost have a faster growth until they catch up to your other powers.  
-  
 While you can direct the general shape of those changes, your power will also respond and adapt to any challenge you face. When your powers are impotent, immediately useful mutations will be prioritized over long term utility. When you have time to let them grow, new optimizations and sub-powers based on predicted challenges and past difficulties, will be added. Any useless or redundant part will be shed or fused into existing abilities. With time, your weaknesses will be reduced and your options broadened.  
 It is recommended you give your power time to perform routine maintenance and optimizations between heavy engagements to avoid a buildup of mutation debt. If this debt becomes too high, the quality and reliability of mutation decreases due to the stress placed on your power.  
 This power works at a slower rate than _Dynamist_.
+
+UPGRADES
+
+**Skill Tree Jr.**
+Cost: 5 SP
+Required:Dynamist Jr.
+
+Instead of automatically mutating, Dynamist Jr. will build an ever-growing upgrade tree for your powers.  
+Each power has its own upgrade tree, how it works depends on the power itself but will usually follow either a fully diverging tree or a simple web of interconnected nodes.  
+The number of nodes you can select depends on the form of the skill tree. For webs, the number of choices is proportional to the size  
+Choices are not permanent, you can change your selection whenever you want. It takes around 5 minutes of meditation for the power to reconfigure itself, during this it cannot be used actively. Interrupting the meditation will result in a failed reconfiguration and other consequences.
+
+**Growth Boost (Dynamist Jr.)**
+1
+Cost: 7 SP
+Required:Dynamist Jr.
+
+With each purchase of this upgrade, Dynamist Jr.'s rate of growth both vertically and horizontally is doubled: Power mutations that would normally take four days to manifest would now take two days, then one, then twelve hours, and so on. This upgrade also divides the time needed for Skill Tree Jr. to reconfigure itself by 1.5 with each purchase.
+
+**Fine-Tuned Growth**
+Cost: 5 SP
+Required:Dynamist Jr.
+You can now much more accurately influence the direction that your powers’ growth takes, allowing you to guide your mutations through specific and niche pathways rather than general themes and shapes - though, the prioritization of more imminently-useful adaptations when you are challenged or in need still remain.  
+As a secondary bonus, you can now “plan” your powers’ growth and set them on a sort of autopilot, allowing them to continue on a specific, predetermined course you've visualized without continued influence, assuming no such moments of immediate need arise.
+
+*Precision Power Engineering*
+Required:Engine of Escalation
+
+With the influence of Engine of Escalation, the rate at which you can develop desired mutations has skyrocketed. While significant deviations still take a long time to achieve, small improvements in line with how the power already functions can be manifested in mere minutes.  
+This also has nullified any need for maintenance, as any manifestation of mutations will already be precisely engineered to integrate with your existing powers.  
+Lastly, you can now exclude some powers from developing chaotic mutations at all if you do not wish so, with them only growing in strength, not at all, or only manifesting precisely the mutations you desire.
+
+**Lesser Dynamist**
+Cost: 40 SP
+Required:Dynamist Jr.
+
+Your mutation engine gains a deeper core of intelligence and autonomy. It is now capable of a more concentrated evolution, applying its strength with far greater focus.  
+You gain three Major Powers that each cost up to 30 SP and five Minor Powers that each cost up to 15 SP. You can choose powers from the Shard list only if you have Essence of Shard. These powers are integrated directly into the core of your mutation engine and serve as the foundation of its focused evolution.  
+Dynamist Jr. evolves these core powers at close to twice its normal speed and strength, enhancing them both horizontally with new sub-abilities and vertically by reinforcing key traits. However, all other non-core powers will still mutate at the the normal rate of Dynamist Jr.  
+Once selected, these core powers are fixed. They cannot be swapped, replaced, or reassigned by any abilities tied to Dynamist jr. Your mutation engine treats them as permanent fixtures and uses them as its preferred ground for experimentation and refinement.
+*Unified Evolution*
+Required:Dynamist
+
+Your mutation engine seamlessly integrates its two branches of evolution. All powers selected through Dynamist are now treated as core powers for the purposes of Lesser Dynamist. They receive the full benefit of accelerated growth—both in speed and strength—and are prioritized by the engine for mutations, optimizations, and sub-power development.
+*Retasked Focused*
+Required: Fine-Tuned Growth, Skill Tree Jr., or Upgrade Tree (Dynamist)
+
+Your mutation engine now has dynamic control over its evolutionary priorities. You can now manually retask the enhanced growth effect of Dynamist Jr. (and Dynamist, if applicable) onto any powers of your choosing.
+*Dynamist Released*
+Required:Dynamist Unbound
+
+All of your powers, regardless of core status, now benefit from the enhanced speed and strength of core power growth. Horizontal mutations, vertical reinforcements, and synergistic refinements occur across your entire build without distinction.  
+With no need for selective focus, the engine operates at peak efficiency at all time for all powers allowing your entire power suite to evolve in tandem.
+
+
 
 
 **Idle Trainer**
 Cost: 10 SP
 Welcome to the realm of Idle Training, where you can gain the results of training while being a couch potato. With this extraordinary power, you can create a perfect virtual simulation of yourself training in your mind. Within this simulation, your virtual counterpart possesses the ability to train and learn any skill or discipline that you are capable of. By simply selecting the desired focus for training, the simulation engages in rigorous practice without rest, while the time within the simulated realm moves three times faster. Once you drop the simulation, you absorb all the benefits gained as if you had done the arduous process yourself, whether it's muscle, skills, expertise, and everything else, as if you had personally undergone the training.
-
 *Percolate*
 Required:108 Skills
 Armed with a copy ability that defies all logic, even a simulation of yourself isn't completely safe from imitation. While the simulation is running, you constantly gain 1/108th of the benefits that the virtual you gets from the training. This does not reduce the benefits you gain from dropping the simulation.
-
 *Idle Grinding*
 Required: Gamer System, (Trump) Gamer System
 Now addition to training a specific skill, power, attribute etc., Your virtual counterpart now has the ability to passively farm EXP in the idle trainer simulated realm.  
 You can choose to either manually spend the accumulated EXP yourself or have it automatically spend the EXP based on parameters you choose
-
 *World Simulation*
 Required:Survivor Simulation (10 SP)
 As an alternative to the white void, you may expend your daily use of Survivor Simulation to project your simulated self into a perfect, dynamic copy of the real world, starting from the present moment. This simulation runs three times faster than reality, allowing you to observe the immediate future unfold from your double's perspective and guide its actions in real-time. When the simulation ends, you absorb its complete memories and trained skills, and are granted a a single choice of five random rewards your simulated self earned, just as if you had completed a Survivor Simulation.  
 Naturally, you cannot use Idle Trainer nor Survivor Simulation inside the World Simulation.
+
+UPGRADES
+**Synchronize**
+Cost: 5 SP
+Required:Idle Trainer
+
+You no longer need to drop the simulation to gain the benefit of the simulation training. The benefit you receive from the simulation is provided to you in real time.
+
+**Additional Trainer**
+Cost: 10 SP
+Required:Idle Trainer
+
+Instead of just being able to create 1 simulation you can now create up to five in total. Each simulation can be directed to train and study different things or have an additive effect when directed to train in one specific thing. For example, if you have 2 simulations dedicated to sword training then you would reap double the benefit.  
+As you continue to use this power you will gradually gain the ability to create additional simulations over time
+
+**Accelerated Training**
+1
+Cost: 10 SP
+Required:Idle Trainer
+
+The Flow of time in the simulated realm is increased. Each purchase of this upgrade increases the flow speed by five times over, starting at 3x to 15x, then 75x, then 375x, and then finally 1875x.
+
 
 **The Chad Grindset Enjoyer**
 Cost: 5 SP
@@ -1300,7 +1602,6 @@ But if the user designates a single, exceptionally powerful individual as their 
 
 Furthermore, this power grants the user a sixth sense, allowing them to always know the location of their designated target within a range of over 100 kilometers. This unparalleled awareness ensures they can constantly track down and confront their adversary, never losing sight of their pursuit.
 
-
 **Limit Breaker**
 Cost: 15 SP
 
@@ -1315,6 +1616,15 @@ Cost: 25 SP
 
 You have shattered the shackles of impossibility and improbability, emerging as a force capable of achieving the extraordinary and defying the odds. What others deem impossible and unimaginable, you perceive as mere challenges to conquer. Destiny and fate hold no sway over you, for you are immune to their confines. Neither seals nor chains can ever confine you again. You shall never be ensnared or trapped against your will, effortlessly breaking free from any hindrance that obstructs your path. Your potential for growth knows no bounds, and any limitations imposed upon your abilities can be shattered through perseverance and the passage of time.
 
+UPGRADE
+**Broken Limiter**
+Cost: 10 SP
+Required:The Chad Grindset Enjoyer
+Required:Breaker of Chains
+
+The road to even greater progress usually gets steeper as you ascend and your strength and powers reach previously unheard-of levels. Not for you, though. You don't follow the rules about bottlenecks, soft caps, or decreasing returns. Rather, your advancement travels along a distinct path, unrestricted by traditional boundaries. Whenever you train, you experience a situation where every step you take forward causes your progress to accelerate exponentially. Essentially, the more you advance in power, the faster you will advance, experiencing an incredible adventure filled with limitless possibility and unwavering growth.
+
+
 **We are live in 1, 2, 3.**
 Cost: 20 SP
 
@@ -1327,7 +1637,6 @@ Cost: 10 SP
 
 Your heart has crystallized itself, becoming indestructible and eternal. No longer is it mere blood being pumped throughout your body. Through your veins runs your life force condensed into an impossible form, the Prima Materia, an iridescent golden ichor. You have surpassed the realm of men, breaching into a new level of existence.   
 Due to your heart's transformation, your ichor constantly seeps into your mind and body, enhancing it, improving all aspects of yourself, and granting you endless mental and physical stamina, allowing you to function at your best indefinitely. You are able to direct your life force through your heart, allowing you to improve yourself at the cellular level. Nothing is impossible with enough experience and dedicated life force. Your mutations will be manageable and never will negatively impact each other.  
-  
 Your human imperfections will be burnt away, allowing you to progress beyond human limits with enough dedication to your actions. Igniting your heart's power fills you with divine inspiration as you burn away your imperfections, enabling you to improve through means of regression to perfection. Finding balance will come with time, knowing when it is best to start with a fresh slate and proper comprehension. Every time you regress you set yourself up for a better future learning faster depending on how many times you've burnt out the impurities of your actions.  
 Your life force lets you heal from scrapes and wounds instantly, while regrowing fingers in minutes, and arms and legs in hours. You will never have to worry about old age, for you have undergone an ascension, putting you among the immortal ones for as long as your heart beats true. Your healing is perfect, always restoring you to your best.  
 Whenever you do not actively wish to keep your ichor outside your body, the Prima Materia will shift into liquid lead, unconnected to your existence.
@@ -1338,6 +1647,20 @@ Cost: 10 SP
 Your power now grows rapidly whenever you engage in combat. The harder you push your limits, the faster your fighting capabilities develop in both potency and mastery.  
 In battle, connections form in your mind more quickly. Techniques you have just learned, even unfamiliar ones, swiftly become second nature. As you seek ways to counter your opponent, new uses for your existing power will emerge, with inspiration and epiphanies rushing into your mind.  
 With this power, a friendly sparring session can be more effective than a week of regular training. A life-or-death struggle, where death is almost certain, would enhance both the potency and mastery of your power, as well as your battle IQ, equivalent to a year of intense training.
+
+UPGRADE
+**Perfected In The Fires of War**
+Cost: 15 SP
+Required:Forged In The Trials of Combat
+
+You embody the phrase "What doesn't kill you makes you stronger." Your power grows exponentially with each combat encounter.  
+  
+You possess a godly battle IQ, allowing you to instantly analyze the entire battlefield, identifying points of interest, useful items, and the strengths and weaknesses of your opponent. This advanced analytical ability enables you to devise effective tactics and strategies, no matter how unconventional they may be.  
+The trials of battle also enhance your own powers and skills. With each use, your abilities develop beyond their original conception. You can adapt or create new techniques on the fly, making them as familiar to you as if you had practiced them your entire life. Additionally, the same technique will rarely work against you twice.  
+Given the means, you can also copy your opponent's powers or techniques by creating your own version that is functionally identical.  
+Even outside of combat, your creativity regarding all things related to battle is massively increased, allowing you to find new uses for your powers and combine them into lethal mixtures.  
+Sparring is now more effective for you than months of training, and life-or-death struggles, where one wrong move could lead to death, enhance your power equivalent to years or even decades of training depending on how long the battle lasted.
+
 
 **Monster of Desire**
 Cost: 10 SP
@@ -1417,50 +1740,141 @@ The three hurdles designed to slow your progress have effectively ceased to exis
 Cost: 20 SP
 
 Hail, Ringmaker/Ringbearer. Hail to that who hold the words.  
-  
 As ringmaker, you have a singular ability: you can summon a single ring each month. Multiple of these rings can be summoned at once should multiple months have passed. Similarly, you can recall a ring into yourself to be reproduced, no matter how far from you it may be or who is wearing it.  
-  
 The rings themselves are more complex. Their primary purpose is to be gifted to others; to this end, they vary in form, shifting in size and shape to fit the taste of whoever is their ringbearer.  
-  
 The Rings’ most visible ability, however, is enhancement. While a ringbearer wears it, you can enhance any abilities they may have as if 20SP were given to them. This includes giving them new attributes or powers as long as you yourself already possess them.  
   
 The flow of this energy is not one-way, however. The ring’s main function is to supplement yourself with others, allowing you to duplicate their own attributes and abilities as long as they wear your gift. For example, a Pyromancer wearing your gift to unleash torrents of hellfire would, in turn, grant you their prior level of proficiency in the magic before the ring’s enhancement.  
   
 Finally, the ring’s most insidious facet. The more a Ringbearer wears a ring, the more their will begins to defer to your own. When coupled with the implicit loyalty required to receive their new power, very few will be willing to openly defy their Ringmaker.  
-  
 You can wear your own rings, but they will be reduced to half of their usual potency.
 
-Shackle
-
+*Shackle*
 Required:A Warrior's Bond
 
 Thanks to your understanding of the Warrior’s Bond, you’re able to transform individuals into Rings instead of using your own well of energy. While transformed, they are almost identical to other Rings, but both lightly affect the personality of the wearer, and require a clash of wills with their wielder, as they usually would if transformed unwillingly.
 
-Lesser Amendments
-
+*Lesser Amendments*
 Required:Ten Commandments
 
 Your spheres and their workings have impacted your ring making. Your Rings can now act as ‘lesser’ spheres of our own, being of roughly half the potency of your ‘real’ spheres.  
-  
 The rings cannot be imbued and must be worn, but otherwise act as conduits of Destruction, Alteration, and Creation. They are also subject to your Thinker abilities as a result.
 
-Adornment
-
+*Adornment*
 Required:Alloy Fusion
-
 You can use your Alloy pool to fuse rings, combining their potency in all factors.
 
-Long Distance Engineering
-
+*Long Distance Engineering*
 Required: Engineer, Builder, (Trump/Tinker) Shards, (Trump) Shard Supply Store, or Pramant
 
 Your rings now function as tinkering nodes for your other powers, allowing you to modify and enhance granted abilities as if they were an extension of your own power. Each ring, when given to others, act as 20SP nodes that you can reconfigure at any time or distance, without the wearer’s awareness or consent.  
-  
 As a result, you are not restricted to giving or enhancing powers you already possess or those thematically linked to the wearer. A ring can now give any ability you can create, creating a possibility for diverse and adaptable power set for any user.  
-  
 Additionally, you can remotely reconfigure, weaken, or fully disable a ring’s enhancements at will. The ring’s influence over its wearer can also be adjusted at any time, subtly scaling their deference to your will as needed.  
-  
 If worn by you instead of another, the ring still provides free customizable 10SP of enhancements to your own abilities that can be changed at a moments notice.
+
+**Evolution**
+Cost: 10 SP
+
+Every action performed by you is meticulously recorded, and each action generates a specific amount of energy based on its nature, significance, and impact. This energy accumulates over time, steadily building within you. Once the accumulated energy reaches a critical threshold, you will undergoes an evolution.  
+The nature of this evolution is influenced by three core factors: your inherent powers, your racial or biological traits, and the precise combination of actions recorded before the evolution. The powers and traits of the wielder act as a foundation, setting the boundaries and potential paths for the transformation. Meanwhile, the recorded actions shape the specific direction of the evolution, ensuring that the transformation reflects your experiences, choices, and growth.  
+Each evolution represents a leap in your capabilities, reshaping your physical form, mental acuity, or abilities in ways that align with their developmental journey. They boost your existing powers, enhancing their strength and effectiveness, while also unlocking new variant powers or subpowers. These variants can complement your core abilities or introduce entirely new ways to use your skills, expanding your versatility and adapting to your needs. In most cases, your evolution also refines your physical form or mental capabilities, aligning them more closely with your enhanced powers.  
+The rate at which you evolve depends on the quality and significance of your actions. Challenging, impactful, or meaningful deeds generate more energy, allowing you to evolve more quickly, while mundane or repetitive actions contribute less to your growth.
+
+*Echoes of Newmanity*
+Required: Apex Specimen
+Required: The Composite Human
+The records that detail and lay the foundation of your Evolution have themselves evolved due to the supplementary information of the entire existence of Humanity and any other species you possess; this means that all your evolutions are supercharged, with any weaknesses that could come from them removed, as you gain access to greater power, with each evolution becoming the idealized version of itself, which then becomes the perfect foundation for your next leap.  
+However, while the evolutions are empowered, you still need to work towards them and meet any special requirements, such as needing to understand several True Magics to become an Age of Will human from the Nasuverse.
+
+*Over Evolution!!*
+Required: Wait, I Got Just the Form for This!
+Required: This isn't even my final form
+Your ability to evolve into a greater version of yourself has merged with your ability to create new linear and branching forms, the three powers feeding into one another to make them greater.  
+At the bare minimum, the increase you gain from all evolutions becomes x10, liken to you assimilating your x10 transformation into your base form, before other factors come in to push it even further.  
+Your various forms gain a piece of Evolution's power, allowing the different forms to grow stronger passively through use. This is especially evident with your alternate/slide forms as they become more than specialized forms based on your current evolution, and instead become branches of your evolution tree you can draw upon, providing stronger abilities and specialities. You can stack these different forms on top of one another for more creative and strange forms.
+
+**More for Less**
+Cost: 10 SP
+To get more for less. This is your philosophy and now it has become your very nature.
+Whatever you lose, give away or use up, you ‘lose’ 10% less than what the original amount would be. Similarly, whatever you gain, develop or produce, you ‘gain’ 10% more than you would otherwise, so long as it makes feasible sense.
+Reality itself adjusts to accommodate these bonuses. For example, if physically fighting an enemy, you would expend 10% less energy and effort while delivering 10% more force and damage with every strike. When shopping, you can buy at a 10% discount and get 10% more of whatever you purchase, with the same effect applied when selling.
+This power applies on a conceptual level to nearly everything concerning yourself, as long as it is a ‘loss’ or ‘gain’. This power would not affect your blood pumping around your body, for instance, but it would apply if you were bleeding out. Whether it concerns your body, mind, powers, social relationships, the technology you operate, your assets or anything else, you will always retain and acquire more than expected.
+These discounts and surcharges are always beneficial and you can freely control when this power is active. You can also choose whether the power's effects are noticeable, preventing others from perceiving them if you prefer. This power does not affect itself, nor does it repeatedly affect growth or limit-breaking abilities; applying only once in such cases.
+
+**Researcher's Madness**
+Cost: 5 SP
+
+You can choose any power in the world, and you chose to _study_? Well, I’ll be damned.  
+You can study any power you have and can naturally learn, though this doesn’t mean you get information handed to you for free. Through study, experimentation, and practice, you increase the potency and variability of your abilities. Time is on your side—your powers can always be improved. Even if you lack powers entirely, you are able to study mundane principles, pushing them to new heights. Physics, engineering, chemistry, or even simple crafts become your playground, letting you pioneer advancements that no one else can imagine.  
+What sets you apart is that you can’t suffer from burnout. In fact, it’s the opposite—studying energises you. The deeper you dive into understanding your abilities, the more focused and alive you feel.  
+Experimentation becomes your playground. Each failure is a chance to refine, and every small success unlocks new layers of potential. Failure is never the end for you; it’s a stepping stone. Every time you fail, it’s as if the pieces of the puzzle rearrange themselves, revealing a new insight. Each failure sparks a revelation, an exponential boost to your understanding. Instead of frustration, failure feels like uncovering the next secret layer of your abilities.  
+As you study, you don’t just become stronger—you become adaptable. You learn to layer your powers, combining them in ways that multiply their effectiveness. You create variants, tweaking the nature of your abilities like a craftsman refining their tools. Over time, you gain a perfect understanding of your powers’ essence, breaking them down to their core. This lets you reassemble them with precision, changing how they work, expanding their use, and sometimes creating something entirely new. This isn’t limited to your powers but to anything you can study, from technology you make to mundane subjects.
+
+*Archive of Research*
+Required:Archive
+
+Your archive’s internal world has become a personalised realm shaped by your creativity and focus. Whether it takes the form of a sprawling library, a high-tech laboratory, or a mystical forge, it adapts to your needs, offering the perfect environment to explore your powers, theories, and inventions.  
+Within this internal world, you can create fully interactive simulations, testing abilities, designs, or ideas without risk to the outside world. You also possess the ability to pause moments in your experiments, entering a slowed-down mental state where every detail can be analysed with perfect clarity. Failures and successes alike resonate through the archive, sparking moments of revelation and evolving the space itself. Each experiment you conduct feeds the archive, unlocking new tools, environments, and insights tailored to your unique journey.  
+In this internal world you can manifest multiple versions of yourself within it to debate, brainstorm, and collaborate on complex problems. They can offer real-time insights, alternative strategies, and even unexpected combinations of your abilities. Each duplicate works independently, allowing for unparalleled multitasking, but the mental burden is shared equally among them. Two of you mean twice the mental strain and overdoing it with too many duplicates can lead to headaches, fatigue, or other symptoms. After all, not suffering from burnout is different from literally splitting your mind.
+
+*The Scholar of the Grind*
+Required: The Chad Grindset Enjoyer, or Revelation (Type-Moon)
+
+You possess an instinctive understanding of where to direct your efforts in research and study, building a strong foundation that accelerates your progress and makes it easier to expand upon your initial discoveries. Each step strengthens your grasp of the subject, helping you identify promising paths for deeper exploration while avoiding unproductive avenues.  
+This strong foundation sharpens your ability to discern which methods, topics, or strategies will yield valuable insights and which will lead to dead ends. Over time, this instinct doesn’t just help you master subjects—it allows you to innovate, create unique approaches, and achieve breakthroughs that others might overlook.
+
+**Get Off My Lawn!**
+Cost: 5 SP
+
+The older you become, be it mentally, physically, or, with the right abilities, spiritually, the stronger you grow.  
+Your physical strength increases beyond natural limits, muscles becoming denser, reflexes quicker, and endurance lasting longer. Injuries heal faster, fatigue becomes a less prominent, and your body adapts to new challenges with greater efficiency.  
+Your mind follows the same path, expanding in intelligence, clarity, and resilience. Memory becomes clearer, thoughts process at greater speed, and your understanding of the world deepens with each experience. Emotional control strengthens, wisdom accumulates, and your strategic thinking sharpens until you can predict outcomes with near-perfect accuracy.  
+Your powers and abilities also grow alongside you. With time, they refine, strengthen, and become more efficient, reaching levels that were once impossible. Control becomes effortless, limitations fade, and what once required focus or effort eventually becomes second nature.  
+If you possess spiritual or supernatural abilities, they too evolve alongside you, growing in power and mastery. Every year, at minimum, you will have grown by 10% with this growth being additive rather than compounding. If the age between your mind, body or soul is different, this will use the oldest one.  
+On its own, it gives a form of longevity, but not immortality as the issues of age will eventually catch up.
+
+**Dragon’s Hoard**
+Cost: 10 SP
+The manifestation of greed and desire.
+You possess an ability conceived as one of the potential explanations for why dragons hoard; that they draw power from their hoard, and now so do you as well.
+Every single object you possess ownership of, regardless of how it was acquired, provides a boost in power. The boost your hoard gives you is more than a simple increase in power, it bolsters and enhances all factors of your very existence, loosening restrictions and potentially even evolving you into a higher life form with new abilities once your hoard grows big enough.
+
+The boost gained from an object scales with its value, both intrinsic and perceived, but suffers diminishing returns as you gain more of it. In an average world gold may provide some boost at first, but acquire enough eventually it’ll take literal tons to make even the smallest of gains. On the other hand, In a world where gold is scarce, non-existent, or has a higher perceived value than it will provide greater gains, although it will still be subject to diminishing returns. The only things exempt from diminishing returns are one of a kind objects such as powerful magical artifacts or mastercrafted pieces of art.
+If you lose ownership of an object, i.e. it is no longer conceptually yours, then you lose the boost you gained from said object. There are certain exceptions, like if your hoard became large enough that you evolved. Losing your hoard won't make you suddenly unevolve, although you'll still lose the extra boost to your power.
+*Krepel*
+Required:Terrestrial Inventory
+Interesting thing isn’t it, ownership?
+Not only does the Inventory give you access to potentially infinite novel items, your Hoard now encompasses anything kept in its ‘pocket dimension’. But furthermore this link goes both ways, allowing you to store anything you have in your hoard in your pocket as if you’d summoned it.
+Additionally, you can now get a ‘return on investment’ from your hoard, essentially being able to sacrifice parts of it to receive charge in your pool that can be spent like any other you’ve naturally developed.
+That said, the value extracted from this never exceeds 5sp worth of charge at a time, and has diminishing returns the more items of similar type are used. Ie; coins, weapons, etc. Meaning you’ll have to keep a diverse (or overwhelmingly huge)hoard to maintain any steady flow out of this conversion.
+
+**Greatest of Sins, Pride**
+Cost: 10 SP
+_Your are not prideful because you are strong,  
+You are strong because you are prideful.  
+Your claims are true. Your claims are adamant. Your might, unbound. Your will, unbreakable.  
+Your ego unshatterable, for you are pride, and pride is for those at the top._  
+You draw power from the sin of Pride—not the shallow arrogance of the boastful, but a deeper, honed pride rooted in your actions, your identity, and your unwavering belief in your worth. This path allows you to grow stronger not by denying your ego, but by mastering it—fueling your evolution through confidence, self-respect, and the will to rise above mediocrity.  
+There are two forms of pride that shape your power.  
+The first is hollow pride: the pride of appearances, of empty boasts and fleeting praise. In moments of vanity, when you are blinded by unearned glory or a need to be seen as superior, your power will spike dramatically. This kind of pride grants you sudden, potent surges—a blow that strikes harder than it should, an overwhelming presence that demands attention. But it is as unstable as it is intoxicating. When that illusion falters—when doubt, humiliation, or self-loathing sets in—the power vanishes as fast as it appears. It is a brilliant flare in the dark, but it leaves you emptier than before.  
+The second is rightful pride: earned, honest, and rooted in both action and self-awareness. This is pride in what you’ve done—from facing trials, overcoming adversity, and staying true to your principles—but also in who you are. When you stand tall not because others told you to, but because you know your value, your power begins to evolve. When you take pride in your hard-earned victories, your loyalty, your growth, or even your flaws overcome, it rewards you with steady, compounding strength. The longer you walk this path with true pride, the faster you grow.  
+And this applies not just to your victories, but to your very sense of self. When you take pride in your personality—your resilience, your compassion, your discipline, your ambition—your power deepens. You become difficult to sway, harder to break, and far more than the sum of your skills. This pride is not arrogance—it is a kind of armor, forged from truth, self-knowledge, and persistence.  
+A mage who embraces the years spent mastering their craft, who knows their mind is sharp and their vision clear, will find their spells not just stronger, but more refined, faster, and harder to counter. A warrior who fights not for glory but because they know their strength protects others will grow with every battle, each strike carrying the weight of conviction. The more pride you take in your every step, the more every step transforms you.  
+In time, the pride you carry will not merely empower you—it will define you.
+
+**Against the Tides**
+Cost: 10 SP
+
+You and your powers are empowered in direct proportion to the adversity you face. The more severe your situation—the greater the number of enemies, the stronger they are, the more injured you or your allies become, the fewer allies remain, and the closer you are to failing your objective—the more your power increases. This scaling is responsive to the real-time conditions of the battle or scenario, adapting to both physical and strategic pressures.  
+If you succeed in completing your objective while under this heightened stress—regardless of whether success means defeating your enemies, surviving a set period, rescuing a target, or any other defined victory condition—you retain a portion of the enhanced power permanently.  
+If you exceed the required conditions—for instance, defeating or disabling your enemies when you only needed to delay them, or completing your mission with zero casualties when only one life needed saving—the retained boost increases exponentially. A flawless or overwhelming success can result in the full temporary power becoming a permanent enhancement to your base state.
+
+**Let’s Go Gambling**
+Cost: 3 SP
+Every 24 hours, you receive one charge which can be spent to permanently improve another power you have by 1% of its base in a single attribute. The improvement can randomly target any measurable aspect of the ability, including (but not limited to): raw output, effective range/area, duration, cooldown, frequency, and efficiency. Additionally, any charge has a 10% chance to double the effectiveness of the increase.
+
+Should you achieve the furthest possible increase in a given stat, the charge will automatically reroll. The stats with maximums are efficiency and cooldown, which cap at 50% improvement
+
 
 
 # Beauty & Charisma Powers
@@ -1539,6 +1953,36 @@ You gain the ability to build technology from fictional worlds. Worlds where the
 Technology trees are split into up to ten tiers depending on how much depth they offer. World with multiple distinct technology trees need to be purchased individually (Endless Space would have a tree for each faction for example).  
 Each week (or 168 earth hours), you gain one charge which can be used to either purchase a new random technology tree at first tier or raise the tier of an existing one. You can only have on tree active at once, you can choose which tree you will have active for the next day but cannot change during the day, the change happens at midnight.
 
+UPGRADES
+**Multiple Choice (Tinker of Fiction)**
+Cost: 15 SP
+Required:Tinker of Fiction
+You can now choose tech trees. You can still optionally select for random tech trees but if you have a specific tree in mind it won't be up to RNG.
+
+**Multidisciplinary (Tinker of Fiction)**
+Cost: 10 SP
+Required:Tinker of Fiction
+You're now no longer restricted to using one tech tree at a time, allowing you to mix and match tech. You can integrate the Crysis Nanosuit into your MJOLNIR power armor, mount Alpha Centauri Singularity Weapons on the Normandy, install Star Wars holoprojectors in your Pipboy, and generally ignore the boundaries between tech trees.
+
+**Thinker of Fiction (Tinker of Fiction)**
+Cost: 15 SP
+Required:Tinker of Fiction
+Each Node, as you purchase or upgrade a technology tree, you gain not only the technology but also the corresponding expertise tied to that tree. This expertise can range from intellectual, tactical, and strategic knowledge to cultural insights and practical skills, all integrated seamlessly into your mind and body. This power grants you a comprehensive understanding of the systems, philosophies, and techniques from the fictional universe where the technology originates, transforming you into both a creator and practitioner.  
+For example, unlocking a tier in Mass Effect's Human Tech tree might grant you Cerberus spy training or Alliance military tactics. Gaining access to Warhammer 40k’s Adeptus Mechanicus tech would not only give you intricate knowledge of machine crafting but also a deep understanding of their Rites, Canticles, and Prayers, even those outside of pure technological worship. Similarly, unlocking the Endless Space Horatio faction’s tech would provide insights into cloning and eugenics-based societal planning
+
+**The Tinker System**
+Cost: 5 SP
+Required: Tinker of Fiction, or Blacksmith of Potential
+Required: Gamer System, or (Trump) Gamer System
+
+The Gamer System has undergone significant evolution through its integration with Tinker of Fiction, resulting in transformative changes. A key addition is the Technology Tab, a comprehensive archive of knowledge that spans every conceivable world. This feature encompasses super-science, speculative advancements, and potential future human technologies. It goes beyond fictional universes, offering access to a near-limitless repository of innovation and possibility.  
+The system operates using two types of currency: Catalog Points (CP) and Tech Tree Points (TTP). Catalog Points allow you to unlock technologies specific to individual factions, species, or civilizations. For example, you could acquire the full scope of human technology from Mass Effect, covering all past, present, and future innovations within that universe. Meanwhile, Tech Tree Points enable access to entire tech trees, granting you the collective advancements of all factions and species within a given setting. These tech trees are broader and more comprehensive, but their costs reflect their increased scope and value.  
+The cost of accessing catalogs or tech trees varies based on their complexity, rarity, and potential impact. For instance, in the Mass Effect universe, a Human Technology Catalog costs 10 points, while species-specific catalogs for the Asari or Turians are priced according to the sophistication of their contributions. Catalogs for ancient or extinct civilizations, such as the Reapers or Protheans, are the most expensive due to their advanced and enigmatic nature.  
+Unlocking the entire Mass Effect Tech Tree, which consolidates all species and factions, requires approximately 100 points. Specialized catalogs, such as those focusing on Material Science for creating advanced materials or FTL Technology for faster-than-light travel, are also available. These targeted options allow you to tailor your acquisitions to meet specific needs or goals.  
+Points are earned through gameplay achievements, such as completing quests, exploring dungeons, overcoming significant challenges, and altering the destinies of worlds. The more difficult the task, the greater the rewards. Additionally, the system provides a daily allowance of 1 point for each currency type, ensuring consistent progress.  
+Every week, you’ll receive a curated selection of ten settings from which you can unlock tech trees and catalogs. You can purchase as many as your points allow, with all acquisitions becoming permanent additions to your archive. The selection refreshes monthly, offering new opportunities to expand your repository. If you have high system intelligence, you may request specific settings to unlock; however, this comes at an increased cost.  
+Once technologies are unlocked, they become a permanent part of your system. This grants you the ability to combine innovations from different worlds and create entirely new advancements that transcend the limitations of individual universes. For example, you could integrate FTL propulsion with Typhon-derived materials or merge Asari biotics with Cyberpunk neural interfaces. The Tech System is more than an archive; it’s a tool for creativity and unprecedented technological progress.
+
 
 **Gudako!**
 Cost: 50 SP
@@ -1581,6 +2025,16 @@ These cards can hold immense worth in the world, as apart from enhancing your ow
 It's important to note that you can even gain cards from repeatedly defeating the same enemy. However, there is a 24-hour cooldown period before you have the chance of obtaining another card from that particular enemy. This adds an element of anticipation and strategy to your hunts, as you must carefully plan your encounters and manage your resources.  
 Embrace the thrill of the hunt, seize victory over your adversaries, and unlock the vast potential hidden within these coveted cards. May your journeys be filled with exhilarating battles and bountiful loots!
 
+**Roguelite Survivor**
+Cost: 20 SP
+
+As a Roguelite Survivor, failure is never the end—it’s just another step in your endless journey of growth. This ability works in two folds, firstly anytime you defeat or kill an enemy, it grants you EXP that fills up a bar that when full grants you a choice of three semi random upgrades, abilities, gear or weapons based on an aesthetic of your choice (fantasy, sci-fi, modern military hardware/ordinance or even choices based on other universes like Warframe, bloodborne etc.), regardless of what aesthetic you picked the choices you get would have ‘gamelike’ attributes to them like crit chances and elemental effects for example  
+Which means that even if you pick medieval as your aesthetic, you can in time have chain mail that negates 80% of any type of damage, crossbows that shoot seeming normal bolts that can wipe out armies due to crit chance and explosive type damage etc., The possibilities are endless and what's more is that you can change the aesthetic anytime you want.  
+The gear, items or weapons you get are kept in a practically limitless storage space that you can easily access by willing it to get them and what's more, the passive abilities the items give you will still be active even if the item in particular is in your storage space so you don't have to worry about lumbering with hundreds things on your person.  
+The second aspect of this power is that every time you are killed, you disintegrate and come back to life in a safe spot, But lose almost all your accumulated skills and abilities gained by this ability but do not fret too much, like any other roguelite, you have a second upgrade path that allows you to upgrade yourself with choices that carry over between ‘runs’.  
+Note: the resurrection aspect of this power is not absolute, a sufficiently powerful wizard, reality warper etc. can erase you from existence, and you have no protections against retroactive attacks with this alone
+
+
 
 # Thinker/Skill Powers
 
@@ -1601,6 +2055,18 @@ Required: The Chad Grindset Enjoyer
 
 The Joy of the Grind alongside your Universal Aptitude has fused to create the Curiosity Catalyst. This fusion has ignited within you an unstoppable enthusiasm for all the universe has to offer. Whether it's the intricacies of coding, the profound depths of the Dao, or the arcane secrets of magic, your curiosity for learning knows no bounds. Your pursuit of knowledge has transcended superficiality, allowing you to delve into each subject covered by your aptitude with passion. Your mind is a constant whirlwind of discovery, always asking questions, seeking answers, and leading you to breakthroughs and innovations.  
 The universe is vast, and your thirst for its knowledge is endless. You will never tire of learning about its wonders. You may turn off the Curiosity Catalyst at any time you wish, and it will never negatively influence your mental state, so don’t worry about becoming a mad scientist.
+UPGRADE
+**Universal Power Plant**
+Cost: 5 SP
+Required:Universal Aptitude
+
+Inside you, there is a malleable source of energy. When you visit a new universe, if there is a power system reliant on some specific type of supernatural energy, your internal source will evolve to allow you to emulate it. This also speeds up the process of acquiring new aptitudes, now requiring only a month to do so.
+
+*Instant Adaptation*
+Required: Engine of Escalation, or VitaSync
+No longer do you need to wait months for the adaptation to kick in. Now, the moment you encounter any new type of supernatural energy, be it magic, psionic, or anything else, your source will instantly adapt to emulate the newly encountered energy. You will also gain the basic understanding on how to manipulate these new energies, but will still have to wait around a week for more deep understanding, although this time can be drastically cut down with practice.
+
+
 
 **A Step Beyond**
 Cost: 7 SP
@@ -1614,7 +2080,6 @@ Engaging with life's basics fuels a deep understanding, elevating you beyond mer
   
 This enlightenment enhances every skill you possess. For instance, in cooking, after a year of casual practice, you don't just follow recipes; you blend flavors with an instinctual mastery, creating dishes that defy convention, perhaps even granting immortality.  
 This enlightenment permeates all your abilities, whether in art, music, or combat, elevating them to miraculous levels. Ultimately, you embody the limitless potential of human experience, constantly reshaping reality with each action.
-
 *Existence Beyond it All*
 Required:VitaSync
 
@@ -1623,6 +2088,56 @@ Your abilities, honed by passive observation, transcends its very nature, fortif
 This evolution is not instantaneous, requiring the patient passage of time to unfurl its transformative magic, yet diligent training and profound introspection can hasten its pace, unlocking untold potential within.  
 So it begins, the Apotheosis.
 
+**Pioneer of the Stars (Type-Moon)**
+
+Cost: 10 SP
+
+A unique Skill granted to those who served as turning points in humanity's history. It bestows the ability to transform what's deemed _"impossible"_ into a possibility—_"events that can be realized."_  
+Strictly speaking, this power does not directly produce results on its own. But rather, lets you break through the perceived limits of whatever you set your focus on, enabling you to glimpse a future where the impossible becomes attainable. Even conceptual impossibility isn't exempt; as the Skill opens a path for you to escape inevitability itself, creating a chance—however slim—for success in any endeavor, so long as you have the will and put in the effort to pursue it.  
+  
+With enough dedication, this Skill allows for feats such as attaining immense magical prowess despite having access to limited magical energy, or bringing knowledge that should lie far outside the reaches of humanity down to a level anyone can understand, etc.
+
+
+# World/Location Powers
+
+
+## Foundation
+
+**Base Building Game**
+Cost: 30 SP
+
+You have been granted a base-building system to establish your dominion. You begin with a castle and two workers. The castle serves as your primary base and can be customized in both style and decoration to match your preferences. Your workers are Golems, capable of constructing various mundane and supernatural buildings, crafting magical equipment and consumables, or gathering resources.  
+  
+At the start, you can construct the following buildings:  
+Resource Center – Produces common resources such as different types of stone, wood, minerals, and metals.  
+Farm – Generates crops and animal products.  
+Recruitment Center – Allows you to summon or induct others as units under your control. Those under your rule gain a weaker version of the Gamer System.  
+Training Center – Enables your units to train, acquire new skills, and enhance their abilities at an accelerated rate.  
+Research Center – Facilitates the discovery of new technologies and magic, as well as the ability to transfer your knowledge directly to chosen individuals.  
+Exploration Portal – Grants access to resource-rich but dangerous locations where rare materials can be obtained.  
+Mission Hall – Provides missions for your units to complete, yielding various rewards.  
+Production Center – Supports raw material processing, equipment creation and repair, and the production of additional workers.  
+Guard Tower – A defensive structure that fires projectiles at hostile enemies.  
+Wall – Supernaturally reinforced barriers designed to keep out invaders.  
+  
+Each building enhances the efficiency of its respective activities tenfold. For example, a farm will produce ten times the output of a normal farm of the same size in just one-tenth of the time, while training and research centers dramatically accelerate their respective processes.  
+As you gather resources, you can upgrade your castle, unlocking additional building types as well as allowing existing buildings to be upgraded to a higher level.  
+Upgraded buildings besides further improvement of their efficiency boost can also unlock new functions. For example, advanced farms and resource centers can produce rare or exotic materials. However, the level of your castle determines the maximum level your buildings can reach. Higher-level structures require more resources, including rare and exotic materials, for both construction and upgrades.  
+Like your units, you also have access to a weaker version of the Gamer System. However, if you possess the full Gamer System ability or any similar RPG-based power, such as Falna, you can bestow that system upon your units instead.
+
+*Faithful Civilization*
+Required: Sovereign Domain
+Required: Path to Divinity
+Required: Lucid Conjuration
+
+Congratulation! Your guarantee to become a God, your ability to dictate laws in your owned lands, and the newfound sapience of your units have resulted in the Base Building Game power being boosted! Now, instead of only building a town that you rule, you can build a whole civilization. This civilization will always worship you, resulting in Path to Divinity’s growth being boosted enough that you get a Divine Domain right at the start! However, this domain will be restricted to Street-Tier level like if gotten with Fragmented Divinity (In fact, just use the rules of how that works to choose your domain.).  
+You can also bestow permanent blessings on a certain amount of individuals, starting at 5 individuals. To be able to bless more individuals, you will have to make the next jump for your civilization, aka: Tribe to Small Town, Small Town to Town, Town to Large Town, Large Town to Small City, etc. Each stage will grant you 5 more “Blessing Slots”. Keep in mind however that those blessed individuals can only have up to 3 different blessings each.  
+Sovereign Domain is also boosted, resulting in the amount of time needed to claim a territory being reduced to a week as long as you are the one that holds the majority of the territory.  
+  
+There are a few more buildings you can build now, those are:  
+Church: This building boosts the Faith you gain from your worshiper that goes there.  
+Graveyard: This building lets those who died still contribute a small amount to your Faith need as long as those individuals are buried there.  
+Holy Order: This Building lets you recruit a Paladin or Priest; Paladins are guards or combatants that can use a portion of your domain for combat while Priests are the same except for more support/healing needs.
 
 
 # Bottom
