@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Nov 18 2025 09:39:35 GMT-0500 (Eastern Standard Time)
+lastSync: Tue Nov 25 2025 09:30:38 GMT-0500 (Eastern Standard Time)
 tags:
 ---
 # Week 1 Class 1 (Sept 2)
@@ -188,7 +188,22 @@ Facade:
 
 
 
+## Week 12 Class 1 (Nov 25)
 
+
+**Design Patterns**
+
+State
+
+
+
+Adapter 
+
+wraps/adapts certain operations/functions so that the target can use an operation of the adaptee
+
+
+
+Composite
 
 
 

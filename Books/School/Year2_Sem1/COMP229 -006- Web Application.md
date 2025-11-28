@@ -1,5 +1,5 @@
 ---
-lastSync: Mon Nov 10 2025 16:45:34 GMT-0500 (Eastern Standard Time)
+lastSync: Wed Nov 26 2025 11:54:00 GMT-0500 (Eastern Standard Time)
 ---
 No finals (Group Project)
 1 mid term
@@ -934,13 +934,47 @@ Playwright: Testing Framework/Software
 2. 
 
 
-
-
 ## Week 12
 
+**A4 + Group Project 4**
+*Group*
+
+Final release of project (error free)
+
+Should be able to do unit testing and end to end testing
+
+Video of pull requests in github?
+
+*A4*
+Write unit tests
+Part 2 (can ignore)
+Deploy onto cloud server
+
+
+**Firebase + Auth?**
+
+Backend data storage platform
+Can deploy full stack without backend code
+
+
+firebase.js code in custom folder in src folder
+
+
+need to install firebase with npm
+
+
+prop drilling (passing a component through many layers of code)
+
+
+
+Unit test only 
+
+no end to end testing
 
 
 ## Week 13
+
+
 
 
 ## Week 14

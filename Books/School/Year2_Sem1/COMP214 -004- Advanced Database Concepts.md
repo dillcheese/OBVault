@@ -1,5 +1,5 @@
 ---
-lastSync: Tue Nov 18 2025 17:56:48 GMT-0500 (Eastern Standard Time)
+lastSync: Wed Nov 26 2025 11:25:25 GMT-0500 (Eastern Standard Time)
 ---
 # Advanced Database Concepts
 
@@ -697,8 +697,33 @@ execute sp_job_update('SA_MAN','Regional Sales Manager' ) --test case
 
 ## Class 10 (Nov 18)
 
-Functions?
+### Functions?
 
+
+**Overview of Stored Functions**  
+A function:  
+• Is a named PL/SQL block that returns a value  
+• Can be stored in the database as a schema object for repeated execution  
+• Is called as part of an expression or is used to provide a parameter value for another subprogram  
+• Can be grouped into PL/SQL packages
+
+They can only return one value
+
+
+**Ways to Use/Invoke**
+
+*DUAL*
+SELECT myfunction() FROM dual;
+
+*In Select Statement*
+SELECT employee_id, Gross_pay(employee_id, 40, 5) FROM hr_employees;
+
+SELECT employee_id ,salary , fn_get_ysalary (employee_id)  
+FROM hr_employees
+
+
+*With output*
+dbms_output.put_line ( fn_get_ysalary(167) );
 
 
 ### Triggers: 
@@ -730,11 +755,59 @@ You can write triggers that fire whenever one of the following operations occurs
 	FOR EACH ROW -- many times
 
 
+**Compound Triggers**
+
+
+
 
 ## Class 11 (Nov 25)
 
-Triggers?
+**Packages**
 
+- package is a schema object that groups logically related PL/SQL types, variables and subprograms.
+
+packages have 2 parts: a *specification* (spec) and a *body*
+
+The *spec* is the interface to the package.
+It declares the types, variables, constants, exceptions, cursors, and subprograms that can be referenced from outside the package.
+
+The *body* defines the queries for the cursors and the code for the subprograms.
+
+
+**Advantages**
+• Modularity: Encapsulating related constructs  
+• Easier maintenance: Keeping logically related functionality together  
+• Easier application design: Coding and compiling the specification and body separately  
+• Hiding information:  
+– Only the declarations in the package specification are visible and accessible to applications  
+– Private constructs in the package body are hidden and inaccessible  
+– All coding is hidden in the package body
+
+
+**MongoDB**
+
+
+**NoSQL**
+
+NoSQL uses flexible schema that accommodates unstructured data and semi-structured data
+
+
+
+*Presentation*
+15 mins
+name
+
+challenges
+
+time spent
+
+tools used (collab)
+
+demo
+
+
+
+## Class 12 (Nov)
 
 December 2: Group Project Presentation
 

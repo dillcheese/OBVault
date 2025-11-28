@@ -1,5 +1,5 @@
 ---
-lastSync: Fri Nov 21 2025 02:35:30 GMT-0500 (Eastern Standard Time)
+lastSync: Sat Nov 22 2025 01:51:02 GMT-0500 (Eastern Standard Time)
 ---
 
 # Base Build
@@ -681,6 +681,15 @@ Welcome to "The Game Of Life", through this power you hold the fate of your acti
 Cost: 30 SP
 You have gained the Daily Login System. Everyday, you can log in to your system and gain an award. The award can range from powers to objects. Normal rewards are usually either common objects or weak powers (1-5 SP), but you can gain special rewards by logging in continuously for a few days. A week of continuous logging in will get you an uncommon object or an above average power (5-10 SP). A month of continuous logging in will get you a rare object or a rare power (10-20 SP). A year of continuous logging in will get you a legendary object or a legendary power (20-50 Sp). The rewards will be based of your achievements and day to day life.
 
+UPGRADES
+**Multi-Reward**
+1
+Cost: 10 SP
+Required:Daily Login System
+
+Want more awards? No worries! This upgrade will give you additional awards for the Daily Login System. Each purchase will grant 1 additional award.
+
+
 **Figurines Collector**
 Cost: 20 SP
 
@@ -693,14 +702,12 @@ When crafting a doll based on an existing character, it is not merely their appe
 Additionally, you are also able to store and recall these dolls into your own shadow. When the dolls face defeat or succumb to injuries, they are instantly recalled to the sanctuary of your shadow. Within this ephemeral refuge, they are restored to full vitality, their wounds healing as if they were never inflicted. After three days, you can summon them forth once more, ready to stand by your side and fulfill their purpose with unflinching loyalty.  
   
 Initially, you can maintain an active roster of seven dolls at any given time. However, as your mastery deepens and your connection with shadows grows stronger, the number of dolls you can command will expand, allowing you to harness a greater ensemble of allies in your endeavors.
-
 *Familiar Collector*
 Required:Familiar Contract
 
 Your ability to make familiar contracts and the ability to summon living dolls from your shadows synergized. All of your dolls will benefit from a familiar contract, and you will also grant the benefits of being bound to your shadows to a normal familiar. If your familiar is weaker than the street level baseline power, they will be boosted to that level, sometimes even gaining new abilities and powers depending on their existing skills and personality.  
   
 The number of dolls you can have in your active roster is also partially lifted, as you can now have any number of them being active, but you still only start with seven slots for healing and reviving within your shadow, and if you have more of them injured or dead, they will be in a stasis and waiting in queue for healing. The rate of growth and affinity attunement your familiars get within your soul is also split between the number of them bathing in your energy.
-
 *Figurine’s Sanctuary*
 Required:Terrestrial Inventory
 
@@ -817,7 +824,6 @@ Some Laws and Concepts are inherently more challenging to study and master. Exam
   
 You can study up to three Laws or Concepts simultaneously, with the option to pause progress on one and switch focus as needed. Additionally, delving into forbidden knowledge, such as the domains of Outer Gods, comes with risks. These forbidden Laws and Concepts may have profound effects on your being, abilities, and even your sanity.  
 Approach this journey with caution. The deeper your understanding, the greater your power—and the higher the stakes.
-
 *Idle Study Partitions*
 Required: Idle Trainer, or Archive
 
@@ -825,6 +831,75 @@ Your ability to study laws and concepts has evolved. You can now create "Study P
 As you add more partitions and accumulate knowledge, a vast simulated world—the "Library of Knowledge"—will take shape. This library reflects the depth of your studies and serves as a testament to your progress. Within this simulated world, mastery and understanding of laws and concepts are accelerated. Instead of directly experiencing these concepts yourself, your alternate self within the study partition absorbs the brunt of the experience. Also with each new partition created the strain on your mind will be reduced as you get used to the current number of partitions.  
 By using "Idle Trainer" or "Archive" you can summon simulations of beings who possess mastery over your chosen concepts. These beings may include experts in abstract disciplines, such as a master of martial arts like "The Edge of Taixuan." Learning from these simulated teachers allows for faster progress in your studies. The more teachers you summon who specialize in a single concept, the quicker your learning rate for that particular law or concept.  
 Over time, your study partitions will naturally generate new attacks and powers derived from the vast archive of knowledge within the simulated world. These innovations provide practical applications for your studies, enabling you to advance not only in understanding but also in skill and capability.
+
+UPGRADE
+
+**Master of Laws and Concepts**
+Cost: 10 SP
+Required:The Study of Laws and Concepts
+
+You are no longer a mere student of laws and concepts—you have ascended to the level of mastery. This advancement allows you to study and realize laws and concepts at an accelerated pace. Furthermore, you are no longer bound by limits on how many you can study simultaneously. Even highly abstract ideas, such as Racial Concepts—the fusion of multiple species or races—are now within your grasp, granting you the power to reshape the very essence of anyone you encounter.  
+Higher-level concepts, such as Finality, True Death, Life, Creation, Destruction, Infinity, and even Kabbalah’s Tree of Life will progress at a much faster learning rate compared to before. However, their complexity means progress in these areas will still take a while. Your mastery rivals that of major gods like the Olympians or Asgardians, making you one of the most powerful beings in terms of mastered laws and concepts. However, you do not yet embody these laws and concepts; instead, you wield them with precision and strength.  
+  
+As a Master, you possess the ability to fuse multiple concepts to achieve extraordinary effects, enabling you to alter reality on a low to medium scale. You can imbue objects and powers with these concepts, greatly enhancing their capabilities. For example, you could create a sword capable of traversing dimensions or a door that opens to any location while being compact enough to carry. Your mastery also allows you to create entirely new powers, limited only by your understanding and realization of the associated concepts.  
+  
+Through your deep comprehension of various laws and concepts, you have passively attained immortality or eternity, depending on the nature of the concepts you have mastered. However, it will take centuries to study and master the Concept of divinity.  
+  
+Be cautious—any forbidden knowledge you acquire will interact with any Concepts and Laws you have learned. This interaction has the potential to turn you into an eldritch being or change your personality depending on the Concepts and Laws you have studied and mastered.
+*Divine Lord of Laws and Concepts*
+Required:Demigod (Percy Jackson)
+
+As a demigod, your unique nature grants you partial mastery over the concept of divinity. This ability allows you to perceive and identify the fundamental laws and concepts of existence surrounding you. Moreover, you passively absorb and internalize these principles over time, gradually mastering them without conscious effort.  
+  
+Your powers and abilities have now become conceptual in essence. This transformation makes you resistant to harm or destruction from anything that is not of equal conceptual magnitude. Additionally, your status enables you to study and comprehend Higher Concepts—such as Finality, True Death, Life, Creation, Destruction, Infinity, and the Kabbalistic Tree of Life—at an accelerated rate compared to before.  
+While your demigod nature amplifies your ability to interact with laws and concepts, it also imposes certain limitations. You cannot fully realize the ultimate truths of these principles until you ascend to godhood. Upon reaching complete mastery (100%) of any law or concept, further progress will freeze until ascension. Upon becoming a god, these truths will be fully realized, granting you dominion over each mastered principle.  
+As a demigod, mastered laws and concepts are potent yet lack the divine power required for performing feats of godhood. However, upon ascension, you will transform into a being akin to the Aeons—or possibly even a primordial entity—depending on the depth and scope of the laws and concepts you've mastered.  
+Choosing to focus on Higher Concepts such as Finality, True Death, Creation, or Destruction will elevate you to an omniversal level of influence over those domains. However, this path is arduous and requires immense dedication and endurance.  
+  
+Interestingly, if you dedicate all your effort to mastering a single law or concept, whether it is a regular or higher concept, you can bypass the traditional requirement for godhood. Mastering the truth of a single higher concept will directly elevate you to godhood, offering an alternative route to ultimate ascension.  
+As a demigod, you are more susceptible to the corrupting influence of Forbidden Knowledge. However, upon ascension to godhood, you will gradually develop resistance to this influence. This newfound resilience opens the possibility of evolving into an Outer-Versal Being or Eldritch Entity, should you choose to embrace such a transformation.  
+Your journey as a demigod is both a privilege and a trial. While your nature provides unparalleled access to the fabric of existence, it demands patience and focus to overcome its inherent limitations. Whether you pursue mastery of laws, ascension through higher concepts, or transformation into a cosmic force, your path is yours to shape.
+
+*Lord of Finality*
+Required:Cocoon of Finality (Honkai Impact 3rd)
+
+You have dedicated yourself to studying and mastering a singular concept and its related laws: The Authority of Finality. This concept has elevated you to the status of the Lord of Finality, a being akin to Terminus, the Aeon of Finality, or gods like Chronus and the Bad Wolf—entities tied to the fabric of time. The various concepts that fall under the umbrella of Finality are inherently mastered as well, though each one must be individually realized. Once fully mastered, these concepts will not only strengthen your authority but can also be used to create a new, more powerful type of Herrscher Core.  
+As the Lord of Finality, Time is your core law and concept, with all others secondary in comparison. With this power, you have gained unparalleled control over the flow of time and existence, granting you supreme influence over the fabric of reality itself. Time, one of the fundamental aspects of existence, becomes a tool in your hands, allowing you to manipulate events, sequences, and outcomes across all planes of reality. This power transcends mere chronological adjustment—your influence extends to the very essence of existence, giving you the ability to reshape, preserve, or erase any form of being.  
+  
+Your control over Finality enables you to halt, accelerate, or reverse the passage of time, whether universally or in localized areas. You can rewind events to undo catastrophic outcomes, accelerate growth to expedite development, or freeze entire realities, preserving them indefinitely. You also have the ability to split timelines, creating alternate realities, or to merge fractured streams of time into a unified continuum.  
+With control over existence, you can end or redefine the purpose and state of any entity, from individuals to entire worlds. For example, you could erase an immortal being that defies destruction by severing its connection to existence. You could also rewrite a species’ fundamental traits, ensuring its survival or guiding its evolution toward a desired outcome. Even abstract concepts, like war or despair, could be purged or transformed, shifting the emotional or ideological landscape of civilizations. This mastery over Finality allows you to reshape reality on both a macro and micro scale. On a grand level, you could dismantle and rebuild entire universes, dictating their laws of physics, time, and space. On a smaller scale, you can alter the fate of individuals, shifting their roles in the greater design of the omniverse. This vast control enables you to craft reality according to your vision, whether by creating utopias, constructing realms of endless challenges, or preserving key elements of history.  
+  
+Your dominion over time and existence also synergizes with other powers, such as Void manipulation and Honkai energy. By combining time control with the creation of Void spaces, you can craft self-contained realities where time flows differently. This could create accelerated training grounds, timeless sanctuaries, or isolated dimensions for experimentation. Merging existence control with Honkai energy would allow you to imbue individuals with temporal or existential resilience, making them immune to the shifts in the fabric of reality, or granting them the ability to transcend mortality.  
+Ultimately, your mastery of Finality makes you a shaper of both destiny and fate, enabling you to mold the omniverse. You are not only a destroyer but also a creator, protector, and innovator. This connection to the Imaginary Tree and the greater omniverse on a conceptual level means that as long as the concept of Finality endures, so too shall you. Due to being The Lord of Finality, you can now travel to other worlds by traveling the branches of the Imaginary Tree, if you choose to leave the imaginary tree you may become an outerversal being. Please note that due to being The Lord of Finality, you are an omniversal Constant.
+
+*The Lord of Death, Bringer of Life*
+Required: The Mortal Blade (Sekiro), Eternal Flame, or Reaper of Souls
+Required: Mystic Eyes of Death Perception (Type-Moon), or Reaper of Souls
+
+You have devoted your existence to mastering and embodying the polarised concepts of Life and Death, becoming a paradox that defies the natural laws of existence. With equal dedication to these fundamental forces, you have unlocked immense power, granting you unparalleled dominion over both realms.  
+Your understanding of the concept of Death transcends the physical and spiritual. You wield the power to bring an end to anything on a conceptual or abstract level. Be it a person, object, idea, or even a divine entity—nothing escapes your power. Whether physical, spiritual, emotional, or purely symbolic, all things succumb to you, the harbinger of finality.  
+This power grows in proportion to your knowledge of Death’s laws and forms. With the manipulation of Death, you can obliterate thousands, including divine beings. However, Death itself has forsaken you—you cannot die. This immortality is both a gift and a curse, a burden that the wise fear and the foolish desire. You are one of the few beings who can truly call themselves absolute. Your presence instills unease in those who fear death; they instinctively shrink away, sensing your role as the inevitable end.  
+  
+Conversely, your presence breathes vitality into even the most barren of worlds. Nature flourishes in your wake, and those teetering on the brink of death find salvation. With your power, you can resurrect the dead—bringing them back from the afterlife without consequence—and heal multitudes with the correct manipulation of Life.  
+Those attuned to the essence of life are drawn to you, compelled by your role as its ultimate bringer. Your influence scales with your understanding of Life’s principles, allowing you to restore what was lost and nurture what yet remains.  
+  
+As both the Lord of Death and the Bringer of Life, you stand as the enforcer of balance across the omniverse. You pursue those who defy the natural order, ending the lives of those who unnaturally extend their existence at the expense of others. You alone possess the power to travel freely across all forms and layers of reality, ensuring harmony among worlds.  
+  
+In time, even multiversal and omniversal constants will succumb to your power, for all things must end when the final reckoning arrives. Beyond destruction and creation, your mastery will expand to manipulating, shaping, and redefining the very essence of souls. Those who are immortal due to Eternal Flame are an exception, and can not be killed, not even by you.  
+  
+Your unique nature ensures that those aligned with Life or Death across the omniverse will take notice. Some will fear you; others will love you. Many will seek to control you, drawn to your embodiment of their domain. You are a force of duality—a being who commands both reverence and dread, destined to shape the eternal cycle of existence.
+
+*Lord of Honkai*
+Required:Herrscher (Honkai Impact 3rd)
+
+You have chosen a single concept to preside over as a Herrscher. This concept is also one of your chosen subjects to master. While you gain this concept as a primary subject, you also receive Honkai as a bonus subject. This means you can study, master, and realize the concept of Honkai. Such mastery will have profound effects on both you and your Herrscher core.  
+Herrscher cores can be custom-created and are uniquely soul-bound to you. Any concept you study and master can be transformed into a Herrscher core. A progress bar will indicate the condensation of a new core, and upon reaching 100%, you will fully embody the Herrscher of that law or concept.  
+Each additional Herrscher core strengthens the previous ones. For example, if one core grants the power to annihilate a country, two cores will allow you to destroy two countries simultaneously, and so on. This accumulation of cores also enhances your connection to Honkai and Imaginary related powers. These powers will become compatible with all forms of energy you have access to, and you will be immune to any drawbacks associated with them. Furthermore, new Herrscher cores will unlock abilities and powers akin to those wielded by previous Herrschers, but at an even greater scale.  
+By mastering the concept of Honkai, you gain immunity to all Honkai-related phenomena, and a slight immunity to Imaginary-related phenomena. Even if you undergo the MANTIS transformation, you will be unaffected by its negative side effects. Additionally, you can absorb the genes of one type of Honkai Beast, even those you create. This limit increases with each new Herrscher core you condense. Any adverse effects from using Honkai-powered martial arts, such as brain damage, are also mitigated, though not entirely negated.  
+  
+As a Herrscher, you are intrinsically linked to the higher concepts of Finality and Imaginary. Your ability to study Herrscher and Honkai concepts accelerates your understanding and mastery of these higher concepts. It also reduces the time required to study, master, and realize any related concepts.  
+Upon achieving a significant number of Herrscher cores, you will evolve into the Herrscher (Cocoon) of Finality. This evolution grants you the ability to create stronger Herrschers based on your enhanced Herrscher cores. However, this transformation requires a substantial number of cores and considerable time. As the Herrscher of Finality, you will inherit the outfits, powers, and weapons of all previous Herrschers of Finality, further cementing your dominance. You now have the potential to become a being similar to the Will of Honkai.
+
 
 
 **Temporally Challenged**
@@ -1585,6 +1660,24 @@ Required:Idle Trainer
 The Flow of time in the simulated realm is increased. Each purchase of this upgrade increases the flow speed by five times over, starting at 3x to 15x, then 75x, then 375x, and then finally 1875x.
 
 
+**Training Seal**
+Cost: 10 SP
+
+You’ve gained the ability to cast four different but powerful training seals on your body or that of others, granting you the power to selectively seal and enhance specific powers. These seals can be applied to any combination of your powers, so you can leave some untouched and target only specific ones if you wish.  
+  
+Jakuka Kyōka: With this seal you may seal a portion of your power away for 364 days, up to a maximum factor of 5, in exchange for an increase in power by the factor their power is reduced at the end of the year.  
+  
+Kōsoku Kajio: With this seal you may seal away 50% of whatever power you have for 364 days, in exchange for removing one specific limitation or weakness at the end of the year.  
+  
+Sōhō Zōkyō: With this seal you may seal away 50% of whatever power you have for 364 days, in exchange for adding one specific function or aspect at the end of the year.  
+  
+Kinō Henshin: With this final seal, instead of sealing away your power this instead performs a different function. Because of its ability to interact with your power, you’ve now been given the ability to directly interact and modify your powers mechanics and interaction with your other powers. This will allow you to do alter how your power works or alter properties such as what element you manipulate. This does not allow you to make it more powerful on its own.  
+  
+All of these seals can be used concurrently, with each reduction stacking on top so taking all three can reduce a power to 5% of its original power for the full duration of a year. If you remove your seals at any time before the end of the term you lose your progress in increasing your powers through these seals and will have to start over if you reseal them. You can choose to remove only a specific seal if you want to retain the rest. You can train your powers and increase it normally, and that progress will carry over when you unseal or complete a seal term.
+
+
+
+
 **The Chad Grindset Enjoyer**
 Cost: 5 SP
 
@@ -1748,22 +1841,18 @@ The flow of this energy is not one-way, however. The ring’s main function is t
   
 Finally, the ring’s most insidious facet. The more a Ringbearer wears a ring, the more their will begins to defer to your own. When coupled with the implicit loyalty required to receive their new power, very few will be willing to openly defy their Ringmaker.  
 You can wear your own rings, but they will be reduced to half of their usual potency.
-
 *Shackle*
 Required:A Warrior's Bond
 
 Thanks to your understanding of the Warrior’s Bond, you’re able to transform individuals into Rings instead of using your own well of energy. While transformed, they are almost identical to other Rings, but both lightly affect the personality of the wearer, and require a clash of wills with their wielder, as they usually would if transformed unwillingly.
-
 *Lesser Amendments*
 Required:Ten Commandments
 
 Your spheres and their workings have impacted your ring making. Your Rings can now act as ‘lesser’ spheres of our own, being of roughly half the potency of your ‘real’ spheres.  
 The rings cannot be imbued and must be worn, but otherwise act as conduits of Destruction, Alteration, and Creation. They are also subject to your Thinker abilities as a result.
-
 *Adornment*
 Required:Alloy Fusion
 You can use your Alloy pool to fuse rings, combining their potency in all factors.
-
 *Long Distance Engineering*
 Required: Engineer, Builder, (Trump/Tinker) Shards, (Trump) Shard Supply Store, or Pramant
 
@@ -1771,6 +1860,53 @@ Your rings now function as tinkering nodes for your other powers, allowing you t
 As a result, you are not restricted to giving or enhancing powers you already possess or those thematically linked to the wearer. A ring can now give any ability you can create, creating a possibility for diverse and adaptable power set for any user.  
 Additionally, you can remotely reconfigure, weaken, or fully disable a ring’s enhancements at will. The ring’s influence over its wearer can also be adjusted at any time, subtly scaling their deference to your will as needed.  
 If worn by you instead of another, the ring still provides free customizable 10SP of enhancements to your own abilities that can be changed at a moments notice.
+
+UPGRADES
+
+**Inley**
+Cost: 3 SP
+Required:Ringbearer
+
+Your Rings are now no longer required to be ‘rings’ in the physical sense. They do have to be easily unequipped or removed from the subject, but they can now take a myriad of forms. Tunics, belts, even swords or partial pieces of greater projects. One notable Inleyer built a sword where each element, pommel, guard and blade, were made from rings, only enchangin their effectiveness for example.
+
+**To Rule Them All**
+Cost: 10 SP
+Required:Ringbearer
+
+Your Rings now come in two varieties, a Master Ring, which is connected to your soul, and Servitor Rings which are the other rings you produce. You can only have a single Master ring at a time, but otherwise it follows the same rules as your Servitor rings.  
+The main benefit of a Master Ring is that for every Servitor ring you give to another, its own strength rises equivalently by 5sp. While functionally this gives you half as much raw power as you are giving away, your singular ring becomes more powerful with each conduit.
+
+**Mine, Now and Forever**
+Cost: 5 SP
+Required:Ringbearer
+
+Those who bear your rings cannot be released even in death.  
+  
+Should one of your ringbearers die while wearing one of your rings, you may choose for them to instead lose 5sp worth of the power gained from the Ring, and rise as a Shade.  
+These Shades are like the original, but off slightly. While they’re immune to death they’re also distant, more obedient and by all means dead. A corpse being puppeted by the ring containing their essence.  
+As a Shade, the Ring now contains their soul, and is the only part of their body that cannot be regrown or repaired if harmed. If they have multiple rings, all must be destroyed before they cannot recover.
+*Soul Transference*
+Required:(Trump/Master) Butcher
+
+Your ability to transfer your mind and soul into another has fused with your ability to store souls in your rings. Now when you die, you can choose to take over the body of anyone who is wearing a Ringbearer ring. You can choose exactly who you become among your list of Ringbearers.
+
+*A True Shade*
+Required: (Trump) Faerie Queen, or Ciara
+
+Ringbearer’s esoteric knowledge of the soul and Faerie Queen’s ability to copy physical data and powers have fused together. Now you can create exact complete copies of people you have fully claimed in the past using either Faerie Queen or Ringbearer’s resurrection.  
+This gives your shades the appearance, skill, knowledge, and memories of those you have claimed. Your shades are still totally loyal to you.
+
+*A Worthy Sacrifice*
+Required:(Trump/Master) Butcher
+Required: (Trump) Faerie Queen, or Ciara
+
+You can now permanently sacrifice one of your shades to come back from the dead as if you were taking over the living body of that shade.
+
+*A Resurrected Sum*
+Required: (Striker/Shaker) Born Again, Resurrection, or Rite of Ascension (Destiny)
+
+You can now copy the abilities of everyone you have ever brought back from the dead just as if you had resurrected them as a Ringbearer.
+
 
 **Evolution**
 Cost: 10 SP
@@ -1800,6 +1936,21 @@ Whatever you lose, give away or use up, you ‘lose’ 10% less than what the or
 Reality itself adjusts to accommodate these bonuses. For example, if physically fighting an enemy, you would expend 10% less energy and effort while delivering 10% more force and damage with every strike. When shopping, you can buy at a 10% discount and get 10% more of whatever you purchase, with the same effect applied when selling.
 This power applies on a conceptual level to nearly everything concerning yourself, as long as it is a ‘loss’ or ‘gain’. This power would not affect your blood pumping around your body, for instance, but it would apply if you were bleeding out. Whether it concerns your body, mind, powers, social relationships, the technology you operate, your assets or anything else, you will always retain and acquire more than expected.
 These discounts and surcharges are always beneficial and you can freely control when this power is active. You can also choose whether the power's effects are noticeable, preventing others from perceiving them if you prefer. This power does not affect itself, nor does it repeatedly affect growth or limit-breaking abilities; applying only once in such cases.
+
+UPGRADE
+**Get 5% More Off Now!**
+1
+Cost: 3 SP
+Required:More for Less
+
+How about an even _better_ deal?  
+Now, upon each purchase of this upgrade, the amount you can retain or acquire per 'loss' or 'gain' increases by 5%.  
+  
+For example, with a single selection of this upgrade, you would instead lose 15% less and gain 15% more. But this upgrade's true potential lies in stacking these benefits, as your prospects only grow with each purchase!  
+With four purchases, you could recover from injuries at a 30% better rate than before while using up equally less stamina for the duration. Alternatively, you could retain 30% more information after studying, all while expending nearly a third less mental effort.  
+The more you invest, the more you get for less!
+
+
 
 **Researcher's Madness**
 Cost: 5 SP

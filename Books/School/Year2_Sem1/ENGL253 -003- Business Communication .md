@@ -1,5 +1,5 @@
 ---
-lastSync: Fri Nov 14 2025 12:39:50 GMT-0500 (Eastern Standard Time)
+lastSync: Fri Nov 21 2025 14:20:04 GMT-0500 (Eastern Standard Time)
 ---
 ## Week 1 (Sept 5)
 
@@ -217,4 +217,29 @@ Rough draft by next week
 
 
 
+
+## Week 11
+
+Title Page:
+Uppercase Letters for title
+
+pretend title for prof in title page
+
+
+appendix: optional only use if visuals have an expanded version/ relevant (always start in new page)
+
+toc: 
+list of figures: put the page numbers of the visual figures
+
+not the same as memo (a lot more detailed 10% length of report, needs to be written well, summarizes report, 1 separate page, make it the most concise you can make without leaving out important info, make it skimmable) bullet points or numbered list points for recommendations
+
+
+Intro (will restate info from summary and previews info from discussions, slightly change wording to make it not repetitive) 
+
+
+Scope: boundaries of the material
+
+5-7 pages (no title or toc, memo, summary, starting from intro to end of references list,  can have only 2 actions but detailed and easy to read)
+
+references: apa 7
 

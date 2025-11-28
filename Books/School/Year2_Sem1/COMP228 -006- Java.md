@@ -1,5 +1,5 @@
 ---
-lastSync: Mon Nov 17 2025 11:32:23 GMT-0500 (Eastern Standard Time)
+lastSync: Mon Nov 24 2025 16:33:01 GMT-0500 (Eastern Standard Time)
 ---
 # Java 
 2 MCQ (midterm and final, 5% each for a total of 10%. Closed book)
@@ -177,13 +177,43 @@ Stack Integer> stack = new Stack  Integer>> ();
 
 
 
-Week 11: Multithreading
+## Week 11: DB Connection
+
+Class.forName("oracle.jdbc.driver.OracleDriver");
 
 
-Week 12: Java Collections Framework
+started at 41
+COMP228_F25_sy_75
+password
+
+get jdbc6.jar file
+
+lotus - 42 or 43?
+
+thai - 46
+Quinn - 52
+minh - 53
+vanh - 59
 
 
-Week 13: Collection Classes
+simon - 49
+random dude (carlos?) -56
 
-Week 14: 
+Nov 26 (ibm z carrier connection,  L102, 4-6pm)
+
+
+
+## Week 12: Java Collections Framework
+
+
+## Week 13: Collection Classes
+
+
+RDBMS (relational database management systems)
+
+
+
+
+
+## Week 14: 
 
